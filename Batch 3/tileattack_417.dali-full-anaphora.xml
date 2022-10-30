@@ -1,0 +1,652 @@
+<dalidoc>
+  
+
+  <header>
+    
+ 
+    <fileDesc>
+      
+  
+      <titleStmt>
+        
+   
+        <title>&#65279;Lewis Carroll - Through The Looking-Glass (And What Alice Found There) - CHAPTER X. - Shaking</title>
+        
+   
+        <author>Lewis Carroll</author>
+        
+  
+      </titleStmt>
+      
+  
+      <categoryStmt>ChildrenFiction</categoryStmt>
+      
+  
+      <difficultyStmt>E</difficultyStmt>
+      
+  
+      <publicationStmt>
+        
+   
+        <web>
+          
+    
+          <publisher>Project Gutenberg</publisher>
+          
+    
+          <url>https://www.gutenberg.org/files/12/12-0.txt</url>
+          
+   
+        </web>
+        
+   
+        <availability>Project Gutenberg License</availability>
+        
+   
+        <date>February, 1991. Most recently updated: April 28, 2021.</date>
+        
+  
+      </publicationStmt>
+      
+  
+      <sourceDesc>
+        
+   
+        <filename>data\game\Children_Fiction\Lewis_Carroll_Through_the_Looking_Glass\gutenberg_lewiscarroll_through_the_looking_glass_12-0_011.txt</filename>
+        
+   
+        <date>February, 1991. Most recently updated: April 28, 2021.</date>
+        
+  
+      </sourceDesc>
+      
+ 
+    </fileDesc>
+    
+ 
+    <revisionDesc>
+      
+  
+      <change>
+        
+   
+        <date>10 May 2022</date>
+        
+   
+        <respStmt>
+          
+    
+          <name>Massimo Poesio</name>
+          
+    
+          <resp>Document uploaded from Gutenberg, header produced</resp>
+          
+   
+        </respStmt>
+        
+  
+      </change>
+      
+  
+      <change>
+        
+   
+        <date>29 June 2022</date>
+        
+   
+        <respStmt>
+          
+    
+          <name>Juntao Yu</name>
+          
+    
+          <resp>Automatic Processing</resp>
+          
+   
+        </respStmt>
+        
+   
+        <TEIitem>Sentence split, tokenization, pos tagging, mention extraction, named entity recoganation and mention haed findding</TEIitem>
+        
+  
+      </change>
+      
+ 
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <primaryData end="313" start="0">
+    
+
+    <textualContent>
+She took her off the table as she spoke, and shook her backwards and forwards with all her might.
+The Red Queen made no resistance whatever; only her face grew very small, and her eyes got large and green: and still, as Alice went on shaking her, she kept on growing shorter and fatter and softer and rounder and 
+</textualContent>
+    
+
+  </primaryData>
+  
+
+  <baseLayer>
+    
+ 
+    <W Lpos="PRP" att_score="-3.3972073" end="3" id="w0" start="0">She</W>
+    
+ 
+    <W Lpos="VBD" att_score="6.448203" end="8" id="w1" start="4">took</W>
+    
+ 
+    <W Lpos="PRP" att_score="-5.4091725" end="12" id="w2" start="9">her</W>
+    
+ 
+    <W Lpos="IN" att_score="10.825428" end="16" id="w3" start="13">off</W>
+    
+ 
+    <W Lpos="DT" att_score="-25.068565" end="20" id="w4" start="17">the</W>
+    
+ 
+    <W Lpos="NN" att_score="12.023068" end="26" id="w5" start="21">table</W>
+    
+ 
+    <W Lpos="IN" att_score="-11.953011" end="29" id="w6" start="27">as</W>
+    
+ 
+    <W Lpos="PRP" att_score="-13.037555" end="33" id="w7" start="30">she</W>
+    
+ 
+    <W Lpos="VBD" att_score="-4.64652" end="39" id="w8" start="34">spoke</W>
+    
+ 
+    <W Lpos="," att_score="-20.966133" end="40" id="w9" start="39">,</W>
+    
+ 
+    <W Lpos="CC" att_score="-22.87931" end="44" id="w10" start="41">and</W>
+    
+ 
+    <W Lpos="VBD" att_score="-12.43607" end="50" id="w11" start="45">shook</W>
+    
+ 
+    <W Lpos="PRP" att_score="-40.742237" end="54" id="w12" start="51">her</W>
+    
+ 
+    <W Lpos="RB" att_score="-14.071208" end="64" id="w13" start="55">backwards</W>
+    
+ 
+    <W Lpos="CC" att_score="-28.60802" end="68" id="w14" start="65">and</W>
+    
+ 
+    <W Lpos="RB" att_score="-11.289203" end="77" id="w15" start="69">forwards</W>
+    
+ 
+    <W Lpos="IN" att_score="-16.533136" end="82" id="w16" start="78">with</W>
+    
+ 
+    <W Lpos="DT" att_score="-29.563793" end="86" id="w17" start="83">all</W>
+    
+ 
+    <W Lpos="PRP" att_score="-62.972977" end="90" id="w18" start="87">her</W>
+    
+ 
+    <W Lpos="MD" att_score="-27.884876" end="96" id="w19" start="91">might</W>
+    
+ 
+    <W Lpos="." att_score="-31.437912" end="97" id="w20" start="96">.</W>
+    
+ 
+    <W Lpos="DT" att_score="-32.670155" end="101" id="w21" start="98">The</W>
+    
+ 
+    <W Lpos="NNP" att_score="-3.4446461" end="105" id="w22" start="102">Red</W>
+    
+ 
+    <W Lpos="NNP" att_score="30.96254" end="111" id="w23" start="106">Queen</W>
+    
+ 
+    <W Lpos="VBD" att_score="4.0498524" end="116" id="w24" start="112">made</W>
+    
+ 
+    <W Lpos="DT" att_score="-0.3493383" end="119" id="w25" start="117">no</W>
+    
+ 
+    <W Lpos="NN" att_score="25.029625" end="130" id="w26" start="120">resistance</W>
+    
+ 
+    <W Lpos="WDT" att_score="42.187588" end="139" id="w27" start="131">whatever</W>
+    
+ 
+    <W Lpos=":" att_score="7.0793905" end="140" id="w28" start="139">;</W>
+    
+ 
+    <W Lpos="RB" att_score="0.32287312" end="145" id="w29" start="141">only</W>
+    
+ 
+    <W Lpos="PRP$" att_score="-16.794432" end="149" id="w30" start="146">her</W>
+    
+ 
+    <W Lpos="NN" att_score="18.56451" end="154" id="w31" start="150">face</W>
+    
+ 
+    <W Lpos="VBD" att_score="-4.2066784" end="159" id="w32" start="155">grew</W>
+    
+ 
+    <W Lpos="RB" att_score="-21.176666" end="164" id="w33" start="160">very</W>
+    
+ 
+    <W Lpos="JJ" att_score="5.588645" end="170" id="w34" start="165">small</W>
+    
+ 
+    <W Lpos="," att_score="-16.201849" end="171" id="w35" start="170">,</W>
+    
+ 
+    <W Lpos="CC" att_score="-24.185764" end="175" id="w36" start="172">and</W>
+    
+ 
+    <W Lpos="PRP$" att_score="-18.349842" end="179" id="w37" start="176">her</W>
+    
+ 
+    <W Lpos="NNS" att_score="14.63775" end="184" id="w38" start="180">eyes</W>
+    
+ 
+    <W Lpos="VBD" att_score="-6.1998596" end="188" id="w39" start="185">got</W>
+    
+ 
+    <W Lpos="JJ" att_score="2.6859212" end="194" id="w40" start="189">large</W>
+    
+ 
+    <W Lpos="CC" att_score="-23.029278" end="198" id="w41" start="195">and</W>
+    
+ 
+    <W Lpos="JJ" att_score="0.081251144" end="204" id="w42" start="199">green</W>
+    
+ 
+    <W Lpos=":" att_score="5.754695" end="205" id="w43" start="204">:</W>
+    
+ 
+    <W Lpos="CC" att_score="-13.342971" end="209" id="w44" start="206">and</W>
+    
+ 
+    <W Lpos="RB" att_score="13.155103" end="215" id="w45" start="210">still</W>
+    
+ 
+    <W Lpos="," att_score="-19.480228" end="216" id="w46" start="215">,</W>
+    
+ 
+    <W Lpos="IN" att_score="-26.243286" end="219" id="w47" start="217">as</W>
+    
+ 
+    <W Lpos="NNP" att_score="-2.446271" end="225" id="w48" start="220">Alice</W>
+    
+ 
+    <W Lpos="VBD" att_score="22.191364" end="230" id="w49" start="226">went</W>
+    
+ 
+    <W Lpos="IN" att_score="-11.187789" end="233" id="w50" start="231">on</W>
+    
+ 
+    <W Lpos="VBG" att_score="4.026986" end="241" id="w51" start="234">shaking</W>
+    
+ 
+    <W Lpos="PRP" att_score="-14.733062" end="245" id="w52" start="242">her</W>
+    
+ 
+    <W Lpos="," att_score="-10.235291" end="246" id="w53" start="245">,</W>
+    
+ 
+    <W Lpos="PRP" att_score="-11.095121" end="250" id="w54" start="247">she</W>
+    
+ 
+    <W Lpos="VBD" att_score="6.6545095" end="255" id="w55" start="251">kept</W>
+    
+ 
+    <W Lpos="IN" att_score="-14.674163" end="258" id="w56" start="256">on</W>
+    
+ 
+    <W Lpos="VBG" att_score="-23.147564" end="266" id="w57" start="259">growing</W>
+    
+ 
+    <W Lpos="JJR" att_score="-4.043064" end="274" id="w58" start="267">shorter</W>
+    
+ 
+    <W Lpos="CC" att_score="-27.535755" end="278" id="w59" start="275">and</W>
+    
+ 
+    <W Lpos="JJR" att_score="-21.432892" end="285" id="w60" start="279">fatter</W>
+    
+ 
+    <W Lpos="CC" att_score="-34.82763" end="289" id="w61" start="286">and</W>
+    
+ 
+    <W Lpos="JJR" att_score="-20.297188" end="296" id="w62" start="290">softer</W>
+    
+ 
+    <W Lpos="CC" att_score="-28.408981" end="300" id="w63" start="297">and</W>
+    
+ 
+    <W Lpos="NN" att_score="-22.893269" end="308" id="w64" start="301">rounder</W>
+    
+ 
+    <W Lpos="CC" att_score="-32.070644" end="312" id="w65" start="309">and</W>
+    
+
+  </baseLayer>
+  
+
+  <layoutLayer>
+    
+ 
+    <layMarkable end="w65" id="l1" layType="section" start="w0" />
+    
+ 
+    <layMarkable end="w20" id="l2" layType="p" start="w0" />
+    
+ 
+    <layMarkable end="w65" id="l3" layType="p" start="w21" />
+    
+ 
+    <layMarkable end="w20" id="l4" layType="s" start="w0" />
+    
+ 
+    <layMarkable end="w65" id="l5" layType="s" start="w21" />
+    
+
+  </layoutLayer>
+  
+
+  <markableLayer>
+    
+ 
+    <nh head="w0..w0">
+      
+  
+      <am id="am1" player="dalipipeline201806" span="w0..w0" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w2..w2">
+      
+  
+      <am id="am2" player="dalipipeline201806" span="w2..w2" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w5..w5">
+      
+  
+      <am id="am3" player="dalipipeline201806" span="w4..w5" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w7..w7">
+      
+  
+      <am id="am4" player="dalipipeline201806" span="w7..w7" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w12..w12">
+      
+  
+      <am id="am5" player="dalipipeline201806" span="w12..w12" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w13..w13">
+      
+  
+      <am id="am6" player="dalipipeline201806" span="w12..w13" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w15..w15">
+      
+  
+      <am id="am7" player="dalipipeline201806" span="w12..w15" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w18..w18">
+      
+  
+      <am id="am8" player="dalipipeline201806" span="w18..w18" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w19..w19">
+      
+  
+      <am id="am9" player="dalipipeline201806" span="w17..w19" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w23..w23">
+      
+  
+      <am id="am10" player="dalipipeline201806" span="w21..w23" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w27..w27">
+      
+  
+      <am id="am11" player="dalipipeline201806" span="w25..w27" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w30..w30">
+      
+  
+      <am id="am12" player="dalipipeline201806" span="w30..w30" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w31..w31">
+      
+  
+      <am id="am13" player="dalipipeline201806" span="w29..w31" />
+      
+  
+      <am id="am14" player="dalipipeline201806" span="w30..w31" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w37..w37">
+      
+  
+      <am id="am15" player="dalipipeline201806" span="w37..w37" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w38..w38">
+      
+  
+      <am id="am16" player="dalipipeline201806" span="w37..w38" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w40..w40">
+      
+  
+      <am id="am17" player="dalipipeline201806" span="w40..w42" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w48..w48">
+      
+  
+      <am id="am18" player="dalipipeline201806" span="w48..w48" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w52..w52">
+      
+  
+      <am id="am19" player="dalipipeline201806" span="w52..w52" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w54..w54">
+      
+  
+      <am id="am20" player="dalipipeline201806" span="w54..w54" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w58..w58">
+      
+  
+      <am id="am21" player="dalipipeline201806" span="w57..w58" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w60..w60">
+      
+  
+      <am id="am22" player="dalipipeline201806" span="w60..w60" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w62..w62">
+      
+  
+      <am id="am23" player="dalipipeline201806" span="w62..w62" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w64..w64">
+      
+  
+      <am id="am24" player="dalipipeline201806" span="w64..w64" />
+      
+ 
+    </nh>
+    
+
+  </markableLayer>
+  
+
+  <nerLayer>
+    
+ 
+    <nerMarkable end="w0" id="ner1" nerType="person" start="w0" />
+    
+ 
+    <nerMarkable end="w2" id="ner2" nerType="person" start="w2" />
+    
+ 
+    <nerMarkable end="w5" id="ner3" nerType="abstract" start="w4" />
+    
+ 
+    <nerMarkable end="w7" id="ner4" nerType="person" start="w7" />
+    
+ 
+    <nerMarkable end="w12" id="ner5" nerType="person" start="w12" />
+    
+ 
+    <nerMarkable end="w13" id="ner6" nerType="abstract" start="w12" />
+    
+ 
+    <nerMarkable end="w15" id="ner7" nerType="unknown" start="w12" />
+    
+ 
+    <nerMarkable end="w19" id="ner8" nerType="unknown" start="w17" />
+    
+ 
+    <nerMarkable end="w18" id="ner9" nerType="person" start="w18" />
+    
+ 
+    <nerMarkable end="w23" id="ner10" nerType="concrete" start="w21" />
+    
+ 
+    <nerMarkable end="w27" id="ner11" nerType="abstract" start="w25" />
+    
+ 
+    <nerMarkable end="w31" id="ner12" nerType="abstract" start="w29" />
+    
+ 
+    <nerMarkable end="w30" id="ner13" nerType="person" start="w30" />
+    
+ 
+    <nerMarkable end="w31" id="ner14" nerType="concrete" start="w30" />
+    
+ 
+    <nerMarkable end="w37" id="ner15" nerType="person" start="w37" />
+    
+ 
+    <nerMarkable end="w38" id="ner16" nerType="concrete" start="w37" />
+    
+ 
+    <nerMarkable end="w42" id="ner17" nerType="unknown" start="w40" />
+    
+ 
+    <nerMarkable end="w48" id="ner18" nerType="person" start="w48" />
+    
+ 
+    <nerMarkable end="w52" id="ner19" nerType="person" start="w52" />
+    
+ 
+    <nerMarkable end="w54" id="ner20" nerType="person" start="w54" />
+    
+ 
+    <nerMarkable end="w58" id="ner21" nerType="abstract" start="w57" />
+    
+ 
+    <nerMarkable end="w60" id="ner22" nerType="abstract" start="w60" />
+    
+ 
+    <nerMarkable end="w62" id="ner23" nerType="abstract" start="w62" />
+    
+ 
+    <nerMarkable end="w64" id="ner24" nerType="abstract" start="w64" />
+    
+
+  </nerLayer>
+  
+
+<anaphoraLayer /></dalidoc>
