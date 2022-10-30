@@ -1,0 +1,791 @@
+<?xml version="1.0" ?>
+<dalidoc>
+  
+
+  <header>
+    
+ 
+    <fileDesc>
+      
+  
+      <titleStmt>
+        
+   
+        <title>Back to School</title>
+        
+   
+        <author>unknown</author>
+        
+  
+      </titleStmt>
+      
+  
+      <categoryStmt>ReadEasyEnglish</categoryStmt>
+      
+  
+      <difficultyStmt>A</difficultyStmt>
+      
+  
+      <publicationStmt>
+        
+   
+        <web>
+          
+    
+          <publisher>Flax</publisher>
+          
+    
+          <url>http://flax.nzdl.org/greenstone3/flax?a=b&amp;rt=r&amp;s=ClassifierBrowse&amp;c=flaxc252&amp;cl=CL1&amp;if=&amp;cls=</url>
+          
+   
+        </web>
+        
+   
+        <availability>GNU General Public License</availability>
+        
+   
+        <date>19 June 2018</date>
+        
+  
+      </publicationStmt>
+      
+  
+      <sourceDesc>
+        
+   
+        <filename>data\game\DALI-LEARN\Read_Easy_English\A_Back_To_School.txt</filename>
+        
+   
+        <date>19 June 2018</date>
+        
+  
+      </sourceDesc>
+      
+ 
+    </fileDesc>
+    
+ 
+    <revisionDesc>
+      
+  
+      <change>
+        
+   
+        <date>19 June 2018</date>
+        
+   
+        <respStmt>
+          
+    
+          <name>Juntao Yu</name>
+          
+    
+          <resp>Automatic Processing</resp>
+          
+   
+        </respStmt>
+        
+   
+        <TEIitem>Sentence split, tokenization, pos tagging, mention extraction, named entity recoganation and mention head finding</TEIitem>
+        
+  
+      </change>
+      
+ 
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <primaryData end="410" start="0">
+    
+
+    <textualContent>
+Halima lives in Hamilton. She has five children who go to school. One day Halima decided to go back to school too. She phoned the polytechnic and asked about English classes. The next week she had a test.
+She was put into a class with fifteen other students from many other countries. The teachers helped her each day. As well as learning English, she enjoyed getting to know the students from other countries.
+</textualContent>
+    
+
+  </primaryData>
+  
+
+  <body>
+    
+ 
+    <section>
+      
+  
+      <p id="p1">
+        
+   
+        <s id="s1">
+          
+    
+          <ne head="AAh1" id="ne1" ner="person">
+            
+     
+            <nphead id="AAh1">
+              
+      
+              <W Lpos="NNP" end="6" start="0">Halima</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBZ" end="12" start="7">lives</W>
+          
+    
+          <W Lpos="IN" end="15" start="13">in</W>
+          
+    
+          <ne head="AAh2" id="ne2" ner="space">
+            
+     
+            <nphead id="AAh2">
+              
+      
+              <W Lpos="NNP" end="24" start="16">Hamilton</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="25" start="24">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s2">
+          
+    
+          <ne head="AAh3" id="ne3" ner="person">
+            
+     
+            <nphead id="AAh3">
+              
+      
+              <W Lpos="PRP" end="29" start="26">She</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBZ" end="33" start="30">has</W>
+          
+    
+          <ne head="AAh5" id="ne4" ner="person">
+            
+     
+            <W Lpos="CD" end="38" start="34">five</W>
+            
+     
+            <nphead id="AAh5">
+              
+      
+              <W Lpos="NNS" end="47" start="39">children</W>
+              
+     
+            </nphead>
+            
+     
+            <W Lpos="WP" end="51" start="48">who</W>
+            
+     
+            <W Lpos="VBP" end="54" start="52">go</W>
+            
+     
+            <W Lpos="TO" end="57" start="55">to</W>
+            
+     
+            <ne head="AAh4" id="ne5" ner="organization">
+              
+      
+              <nphead id="AAh4">
+                
+       
+                <W Lpos="NN" end="64" start="58">school</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="65" start="64">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s3">
+          
+    
+          <ne head="AAh6" id="ne6" ner="time">
+            
+     
+            <ne head="AAh6" id="ne7" ner="time">
+              
+      
+              <W Lpos="CD" end="69" start="66">One</W>
+              
+      
+              <nphead id="AAh6">
+                
+       
+                <W Lpos="NN" end="73" start="70">day</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <ne head="AAh7" id="ne8" ner="person">
+              
+      
+              <nphead id="AAh7">
+                
+       
+                <W Lpos="NNP" end="80" start="74">Halima</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="88" start="81">decided</W>
+          
+    
+          <W Lpos="TO" end="91" start="89">to</W>
+          
+    
+          <W Lpos="VB" end="94" start="92">go</W>
+          
+    
+          <W Lpos="RB" end="99" start="95">back</W>
+          
+    
+          <W Lpos="TO" end="102" start="100">to</W>
+          
+    
+          <ne head="AAh8" id="ne9" ner="organization">
+            
+     
+            <nphead id="AAh8">
+              
+      
+              <W Lpos="NN" end="109" start="103">school</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="RB" end="113" start="110">too</W>
+          
+    
+          <W Lpos="." end="114" start="113">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s4">
+          
+    
+          <ne head="AAh11" id="ne10" ner="person">
+            
+     
+            <nphead id="AAh11">
+              
+      
+              <W Lpos="PRP" end="118" start="115">She</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="125" start="119">phoned</W>
+          
+    
+          <ne head="AAh9" id="ne11" ner="abstract">
+            
+     
+            <W Lpos="DT" end="129" start="126">the</W>
+            
+     
+            <nphead id="AAh9">
+              
+      
+              <W Lpos="JJ" end="141" start="130">polytechnic</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="CC" end="145" start="142">and</W>
+          
+    
+          <W Lpos="VBD" end="151" start="146">asked</W>
+          
+    
+          <W Lpos="IN" end="157" start="152">about</W>
+          
+    
+          <ne head="AAh10" id="ne12" ner="abstract">
+            
+     
+            <ne head="AAh12" id="ne13" ner="abstract">
+              
+      
+              <nphead id="AAh12">
+                
+       
+                <W Lpos="NNP" end="165" start="158">English</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <nphead id="AAh10">
+              
+      
+              <W Lpos="NNS" end="173" start="166">classes</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="174" start="173">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s5">
+          
+    
+          <ne head="AAh15" id="ne14" ner="time">
+            
+     
+            <W Lpos="DT" end="178" start="175">The</W>
+            
+     
+            <W Lpos="JJ" end="183" start="179">next</W>
+            
+     
+            <nphead id="AAh15">
+              
+      
+              <W Lpos="NN" end="188" start="184">week</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <ne head="AAh14" id="ne15" ner="person">
+            
+     
+            <nphead id="AAh14">
+              
+      
+              <W Lpos="PRP" end="192" start="189">she</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="196" start="193">had</W>
+          
+    
+          <ne head="AAh13" id="ne16" ner="abstract">
+            
+     
+            <W Lpos="DT" end="198" start="197">a</W>
+            
+     
+            <nphead id="AAh13">
+              
+      
+              <W Lpos="NN" end="203" start="199">test</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="204" start="203">.</W>
+          
+   
+        </s>
+        
+  
+      </p>
+      
+  
+      <p id="p2">
+        
+   
+        <s id="s6">
+          
+    
+          <ne head="AAh19" id="ne17" ner="person">
+            
+     
+            <nphead id="AAh19">
+              
+      
+              <W Lpos="PRP" end="208" start="205">She</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="212" start="209">was</W>
+          
+    
+          <W Lpos="VBN" end="216" start="213">put</W>
+          
+    
+          <W Lpos="IN" end="221" start="217">into</W>
+          
+    
+          <ne head="AAh16" id="ne18" ner="abstract">
+            
+     
+            <ne head="AAh16" id="ne19" ner="abstract">
+              
+      
+              <W Lpos="DT" end="223" start="222">a</W>
+              
+      
+              <nphead id="AAh16">
+                
+       
+                <W Lpos="NN" end="229" start="224">class</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <W Lpos="IN" end="234" start="230">with</W>
+            
+     
+            <ne head="AAh17" id="ne20" ner="person">
+              
+      
+              <ne head="AAh17" id="ne21" ner="person">
+                
+       
+                <W Lpos="CD" end="242" start="235">fifteen</W>
+                
+       
+                <ne head="AAh17" id="ne22" ner="person">
+                  
+        
+                  <W Lpos="JJ" end="248" start="243">other</W>
+                  
+        
+                  <nphead id="AAh17">
+                    
+         
+                    <W Lpos="NNS" end="257" start="249">students</W>
+                    
+        
+                  </nphead>
+                  
+       
+                </ne>
+                
+      
+              </ne>
+              
+      
+              <W Lpos="IN" end="262" start="258">from</W>
+              
+      
+              <ne head="AAh18" id="ne23" ner="unknown">
+                
+       
+                <W Lpos="JJ" end="267" start="263">many</W>
+                
+       
+                <ne head="AAh18" id="ne24" ner="organization">
+                  
+        
+                  <W Lpos="JJ" end="273" start="268">other</W>
+                  
+        
+                  <nphead id="AAh18">
+                    
+         
+                    <W Lpos="NNS" end="283" start="274">countries</W>
+                    
+        
+                  </nphead>
+                  
+       
+                </ne>
+                
+      
+              </ne>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="284" start="283">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s7">
+          
+    
+          <ne head="AAh20" id="ne25" ner="person">
+            
+     
+            <W Lpos="DT" end="288" start="285">The</W>
+            
+     
+            <nphead id="AAh20">
+              
+      
+              <W Lpos="NNS" end="297" start="289">teachers</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="304" start="298">helped</W>
+          
+    
+          <ne head="AAh21" id="ne26" ner="time">
+            
+     
+            <ne head="AAh22" id="ne27" ner="person">
+              
+      
+              <nphead id="AAh22">
+                
+       
+                <W Lpos="PRP" end="308" start="305">her</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <ne head="AAh21" id="ne28" ner="unknown">
+              
+      
+              <W Lpos="DT" end="313" start="309">each</W>
+              
+      
+              <nphead id="AAh21">
+                
+       
+                <W Lpos="NN" end="317" start="314">day</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="318" start="317">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s8">
+          
+    
+          <W Lpos="RB" end="321" start="319">As</W>
+          
+    
+          <W Lpos="RB" end="326" start="322">well</W>
+          
+    
+          <W Lpos="IN" end="329" start="327">as</W>
+          
+    
+          <ne head="AAh23" id="ne29" ner="abstract">
+            
+     
+            <W Lpos="VBG" end="338" start="330">learning</W>
+            
+     
+            <ne head="AAh23" id="ne30" ner="abstract">
+              
+      
+              <nphead id="AAh23">
+                
+       
+                <W Lpos="NNP" end="346" start="339">English</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="," end="347" start="346">,</W>
+          
+    
+          <ne head="AAh26" id="ne31" ner="person">
+            
+     
+            <nphead id="AAh26">
+              
+      
+              <W Lpos="PRP" end="351" start="348">she</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="359" start="352">enjoyed</W>
+          
+    
+          <W Lpos="VBG" end="367" start="360">getting</W>
+          
+    
+          <W Lpos="TO" end="370" start="368">to</W>
+          
+    
+          <W Lpos="VB" end="375" start="371">know</W>
+          
+    
+          <ne head="AAh24" id="ne32" ner="person">
+            
+     
+            <ne head="AAh24" id="ne33" ner="person">
+              
+      
+              <W Lpos="DT" end="379" start="376">the</W>
+              
+      
+              <nphead id="AAh24">
+                
+       
+                <W Lpos="NNS" end="388" start="380">students</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <W Lpos="IN" end="393" start="389">from</W>
+            
+     
+            <ne head="AAh25" id="ne34" ner="space">
+              
+      
+              <W Lpos="JJ" end="399" start="394">other</W>
+              
+      
+              <nphead id="AAh25">
+                
+       
+                <W Lpos="NNS" end="409" start="400">countries</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="410" start="409">.</W>
+          
+   
+        </s>
+        
+  
+      </p>
+      
+ 
+    </section>
+    
+
+  </body>
+  
+
+</dalidoc>

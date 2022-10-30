@@ -1,0 +1,665 @@
+<?xml version="1.0" ?>
+<gnomedoc>
+  
+
+  <header>
+    
+	
+    <fileDesc>
+      
+		
+      <titleStmt>
+        
+			
+        <title>Gay Fuel</title>
+        
+			
+        <author>Wikipedia</author>
+        
+		
+      </titleStmt>
+      
+		
+      <publicationStmt>
+        
+			
+        <web>
+          
+				
+          <publisher>Wikipedia</publisher>
+          
+				
+          <url>http://en.wikipedia.org/wiki/Gay_Fuel</url>
+          
+			
+        </web>
+        
+			
+        <availability>All text is available under the terms of the GNU Free Documentation License</availability>
+        
+			
+        <date>5 December 2008</date>
+        
+		
+      </publicationStmt>
+      
+		
+      <sourceDesc>
+        
+			
+        <filename>data\game\wikipedia\unusual\Gay_Fuel.htm</filename>
+        
+			
+        <date>5 December 2008</date>
+        
+		
+      </sourceDesc>
+      
+	
+    </fileDesc>
+    
+	
+    <revisionDesc>
+      
+		
+      <change>
+        
+			
+        <date>21 June 2017</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Juntao Yu</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Mentions extracted from dependency parser</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>23 Apr 2016</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Phrase Detectives (Jon Chamberlain)</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Exported the document and annotations from the Phrase Detectives game</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>5 December 2008</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Mark Schellhase</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>File converted to MASXML by automatic processing from HTML</TEIitem>
+        
+		
+      </change>
+      
+	
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <body>
+    
+	
+    <section>
+      
+		
+      <p id="p5">
+        
+			
+        <s id="s9">
+          
+				
+          <ne AAgf="nsubj" id="ne36">
+            
+					
+            <W Lpos="NNP">Gay</W>
+            
+					
+            <nphead id="AAh36">
+              
+						
+              <W Lpos="NNP">Fuel</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">was</W>
+          
+				
+          <ne AAgf="ROOT" id="ne37">
+            
+					
+            <W Lpos="DT">an</W>
+            
+					
+            <W Lpos="NN">energy</W>
+            
+					
+            <nphead id="AAh37">
+              
+						
+              <W Lpos="NN">drink</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="VBN">marketed</W>
+            
+					
+            <W Lpos="IN">by</W>
+            
+					
+            <ne AAgf="pobj" id="ne38">
+              
+						
+              <W Lpos="JJ">Florida-based</W>
+              
+						
+              <W Lpos="NNP">Specialty</W>
+              
+						
+              <W Lpos="NNP">Spirits</W>
+              
+						
+              <W Lpos=",">,</W>
+              
+						
+              <nphead id="AAh38">
+                
+							
+                <W Lpos="NNP">LLC</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="IN">towards</W>
+            
+					
+            <ne AAgf="pobj" id="ne39">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="JJ">gay</W>
+              
+						
+              <nphead id="AAh39">
+                
+							
+                <W Lpos="NN">community</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="VBG">using</W>
+            
+					
+            <ne AAgf="dobj" id="ne40">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh40">
+                
+							
+                <W Lpos="NN">slogan</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="MD">&quot;</W>
+              
+						
+              <W Lpos="NNP">GET</W>
+              
+						
+              <ne AAgf="nsubj" id="ne41">
+                
+							
+                <W Lpos="NNP">FIRED</W>
+                
+							
+                <W Lpos="NNP">UP.</W>
+                
+							
+                <W Lpos="NNP">&quot;</W>
+                
+							
+                <W Lpos="NNP">Gay</W>
+                
+							
+                <nphead id="AAh41">
+                  
+								
+                  <W Lpos="NNP">Fuel</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <W Lpos="VBD">was</W>
+              
+						
+              <W Lpos="JJ">similar</W>
+              
+						
+              <W Lpos="TO">to</W>
+              
+						
+              <ne AAgf="pobj" id="ne42">
+                
+							
+                <W Lpos="NNP">Red</W>
+                
+							
+                <nphead id="AAh42">
+                  
+								
+                  <W Lpos="NNP">Bull</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="IN">except</W>
+          
+				
+          <ne AAgf="nsubjpass" id="ne43">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh43">
+              
+						
+              <W Lpos="NN">liquid</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">was</W>
+          
+				
+          <W Lpos="VBN">dyed</W>
+          
+				
+          <ne AAgf="dobj" id="ne44">
+            
+					
+            <W Lpos="JJ">bright</W>
+            
+					
+            <W Lpos="JJ">pink</W>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <W Lpos="JJ">elderberry</W>
+            
+					
+            <nphead id="AAh44">
+              
+						
+              <W Lpos="NN">flavored</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s10">
+          
+				
+          <ne AAgf="nsubj" id="ne45">
+            
+					
+            <ne AAgf="poss" id="ne46">
+              
+						
+              <nphead id="AAh45">
+                
+							
+                <W Lpos="PRP$">Its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh46">
+              
+						
+              <W Lpos="NNS">makers</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">claimed</W>
+          
+				
+          <ne AAgf="nsubj" id="ne47">
+            
+					
+            <W Lpos="NNP">Gay</W>
+            
+					
+            <nphead id="AAh47">
+              
+						
+              <W Lpos="NNP">Fuel</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">contains</W>
+          
+				
+          <ne AAgf="dobj" id="ne48">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh48">
+              
+						
+              <W Lpos="NN">blend</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne49">
+              
+						
+              <W Lpos="JJ">sexual</W>
+              
+						
+              <W Lpos="JJ">stimulant</W>
+              
+						
+              <nphead id="AAh49">
+                
+							
+                <W Lpos="NNS">herbs</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="CC">and</W>
+              
+						
+              <ne AAgf="conj" id="ne50">
+                
+							
+                <W Lpos="JJ">immune</W>
+                
+							
+                <W Lpos="NN">system</W>
+                
+							
+                <nphead id="AAh50">
+                  
+								
+                  <W Lpos="NNS">boosters</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s11">
+          
+				
+          <ne AAgf="nsubj" id="ne51">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <nphead id="AAh51">
+              
+						
+              <W Lpos="NN">can</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">was</W>
+          
+				
+          <W Lpos="JJ">silver</W>
+          
+				
+          <W Lpos="IN">with</W>
+          
+				
+          <ne AAgf="pobj" id="ne52">
+            
+					
+            <W Lpos="JJ">several</W>
+            
+					
+            <W Lpos="NN">rainbow</W>
+            
+					
+            <nphead id="AAh52">
+              
+						
+              <W Lpos="NNS">stripes</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p6">
+        
+			
+        <s id="s12">
+          
+				
+          <W Lpos="IN">As</W>
+          
+				
+          <W Lpos="IN">of</W>
+          
+				
+          <ne AAgf="pobj" id="ne53">
+            
+					
+            <nphead id="AAh53">
+              
+						
+              <W Lpos="CD">2008</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne54">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="JJ">official</W>
+            
+					
+            <nphead id="AAh54">
+              
+						
+              <W Lpos="NN">website</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">has</W>
+          
+				
+          <W Lpos="VBN">gone</W>
+          
+				
+          <W Lpos="RB">offline</W>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+	
+    </section>
+    
+
+  </body>
+  
+
+</gnomedoc>

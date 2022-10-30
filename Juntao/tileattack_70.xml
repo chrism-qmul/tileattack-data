@@ -1,0 +1,2321 @@
+<?xml version="1.0" ?>
+<gnomedoc>
+  
+
+  <header>
+    
+	
+    <fileDesc>
+      
+		
+      <titleStmt>
+        
+			
+        <title>The Metric Marvels</title>
+        
+			
+        <author>Wikipedia</author>
+        
+		
+      </titleStmt>
+      
+		
+      <publicationStmt>
+        
+			
+        <web>
+          
+				
+          <publisher>Wikipedia</publisher>
+          
+				
+          <url>http://en.wikipedia.org/wiki/The_Metric_Marvels</url>
+          
+			
+        </web>
+        
+			
+        <availability>All text is available under the terms of the GNU Free Documentation License</availability>
+        
+			
+        <date>19 December 2008</date>
+        
+		
+      </publicationStmt>
+      
+		
+      <sourceDesc>
+        
+			
+        <filename>data\game\wikipedia\unusual\The_Metric_Marvels.htm</filename>
+        
+			
+        <date>19 December 2008</date>
+        
+		
+      </sourceDesc>
+      
+	
+    </fileDesc>
+    
+	
+    <revisionDesc>
+      
+		
+      <change>
+        
+			
+        <date>21 June 2017</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Juntao Yu</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Mentions extracted from dependency parser</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>23 Apr 2016</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Phrase Detectives (Jon Chamberlain)</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Exported the document and annotations from the Phrase Detectives game</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>19 December 2008</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Mark Schellhase</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>File converted to MASXML by automatic processing from HTML</TEIitem>
+        
+		
+      </change>
+      
+	
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <body>
+    
+	
+    <section>
+      
+		
+      <p id="p156">
+        
+			
+        <s id="s391">
+          
+				
+          <ne AAgf="nsubj" id="ne2588">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <W Lpos="NNP">Metric</W>
+            
+					
+            <nphead id="AAh2587">
+              
+						
+              <W Lpos="NNP">Marvels</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <ne AAgf="ROOT" id="ne2589">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh2588">
+              
+						
+              <W Lpos="NN">series</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne2590">
+              
+						
+              <W Lpos="CD">seven</W>
+              
+						
+              <W Lpos="VBN">animated</W>
+              
+						
+              <W Lpos="JJ">educational</W>
+              
+						
+              <nphead id="AAh2589">
+                
+							
+                <W Lpos="NNS">shorts</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="VBG">featuring</W>
+              
+						
+              <ne AAgf="dobj" id="ne2591">
+                
+							
+                <nphead id="AAh2590">
+                  
+								
+                  <W Lpos="NNS">songs</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="IN">about</W>
+                
+							
+                <ne AAgf="pobj" id="ne2592">
+                  
+								
+                  <nphead id="AAh2591">
+                    
+									
+                    <W Lpos="NNS">meters</W>
+                    
+								
+                  </nphead>
+                  
+								
+                  <W Lpos=",">,</W>
+                  
+								
+                  <W Lpos="NNS">liters</W>
+                  
+								
+                  <W Lpos=",">,</W>
+                  
+								
+                  <W Lpos="NNP">Celsius</W>
+                  
+								
+                  <W Lpos=",">,</W>
+                  
+								
+                  <W Lpos="CC">and</W>
+                  
+								
+                  <W Lpos="NNS">grams</W>
+                  
+							
+                </ne>
+                
+							
+                <W Lpos=",">,</W>
+                
+							
+                <W Lpos="VBN">designed</W>
+                
+							
+                <W Lpos="TO">to</W>
+                
+							
+                <W Lpos="VB">teach</W>
+                
+							
+                <ne AAgf="dobj" id="ne2593">
+                  
+								
+                  <W Lpos="JJ">American</W>
+                  
+								
+                  <nphead id="AAh2592">
+                    
+									
+                    <W Lpos="NNS">children</W>
+                    
+								
+                  </nphead>
+                  
+							
+                </ne>
+                
+							
+                <W Lpos="WRB">how</W>
+                
+							
+                <W Lpos="TO">to</W>
+                
+							
+                <W Lpos="VB">use</W>
+                
+							
+                <ne AAgf="dobj" id="ne2594">
+                  
+								
+                  <W Lpos="DT">the</W>
+                  
+								
+                  <W Lpos="JJ">metric</W>
+                  
+								
+                  <nphead id="AAh2593">
+                    
+									
+                    <W Lpos="NN">system</W>
+                    
+								
+                  </nphead>
+                  
+							
+                </ne>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s392">
+          
+				
+          <ne AAgf="nsubjpass" id="ne2595">
+            
+					
+            <nphead id="AAh2594">
+              
+						
+              <W Lpos="PRP">They</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">were</W>
+          
+				
+          <W Lpos="VBN">produced</W>
+          
+				
+          <W Lpos="IN">by</W>
+          
+				
+          <ne AAgf="pobj" id="ne2596">
+            
+					
+            <nphead id="AAh2595">
+              
+						
+              <W Lpos="NNP">Yohe</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CC">&amp;</W>
+            
+					
+            <W Lpos="NNP">Newall</W>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <ne AAgf="appos" id="ne2597">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="JJ">same</W>
+              
+						
+              <W Lpos="NN">advertising</W>
+              
+						
+              <nphead id="AAh2596">
+                
+							
+                <W Lpos="NN">agency</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="WDT">which</W>
+              
+						
+              <W Lpos="VBD">produced</W>
+              
+						
+              <ne AAgf="dobj" id="ne2598">
+                
+							
+                <ne AAgf="poss" id="ne2599">
+                  
+								
+                  <nphead id="AAh2597">
+                    
+									
+                    <W Lpos="NNP">ABC</W>
+                    
+								
+                  </nphead>
+                  
+								
+                  <W Lpos="POS">'s</W>
+                  
+							
+                </ne>
+                
+							
+                <W Lpos="JJ">popular</W>
+                
+							
+                <W Lpos="NNP">Schoolhouse</W>
+                
+							
+                <W Lpos="NNP">Rock</W>
+                
+							
+                <W Lpos=".">!</W>
+                
+							
+                <nphead id="AAh2598">
+                  
+								
+                  <W Lpos="NN">series</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <W Lpos=",">,</W>
+              
+						
+              <W Lpos="CC">and</W>
+              
+						
+              <W Lpos="RB">first</W>
+              
+						
+              <W Lpos="VBD">aired</W>
+              
+						
+              <W Lpos="IN">on</W>
+              
+						
+              <ne AAgf="pobj" id="ne2600">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="NNP">NBC</W>
+                
+							
+                <W Lpos="NN">television</W>
+                
+							
+                <nphead id="AAh2599">
+                  
+								
+                  <W Lpos="NN">network</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <W Lpos="IN">in</W>
+              
+						
+              <ne AAgf="pobj" id="ne2601">
+                
+							
+                <nphead id="AAh2600">
+                  
+								
+                  <W Lpos="NNP">September</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="CD">1978</W>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s393">
+          
+				
+          <ne AAgf="nsubj" id="ne2602">
+            
+					
+            <nphead id="AAh2601">
+              
+						
+              <W Lpos="NNS">Voices</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="pobj" id="ne2603">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="NNP">Metric</W>
+              
+						
+              <W Lpos="NNPS">Marvels</W>
+              
+						
+              <nphead id="AAh2602">
+                
+							
+                <W Lpos="NNS">shorts</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">included</W>
+          
+				
+          <ne AAgf="dobj" id="ne2604">
+            
+					
+            <W Lpos="NNP">Lynn</W>
+            
+					
+            <nphead id="AAh2603">
+              
+						
+              <W Lpos="NNP">Ahrens</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <ne AAgf="conj" id="ne2605">
+              
+						
+              <W Lpos="NNP">Bob</W>
+              
+						
+              <nphead id="AAh2604">
+                
+							
+                <W Lpos="NNP">Dorough</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <ne AAgf="conj" id="ne2606">
+              
+						
+              <W Lpos="NNP">Bob</W>
+              
+						
+              <nphead id="AAh2605">
+                
+							
+                <W Lpos="NNP">Kaliban</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <ne AAgf="conj" id="ne2607">
+              
+						
+              <W Lpos="NNP">Paul</W>
+              
+						
+              <nphead id="AAh2606">
+                
+							
+                <W Lpos="NNP">Winchell</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p157">
+        
+			
+        <s id="s394">
+          
+				
+          <W Lpos="IN">On</W>
+          
+				
+          <ne AAgf="pobj" id="ne2608">
+            
+					
+            <nphead id="AAh2607">
+              
+						
+              <W Lpos="NNP">December</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CD">23</W>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="CD">1975</W>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2609">
+            
+					
+            <W Lpos="NNP">President</W>
+            
+					
+            <W Lpos="NNP">Gerald</W>
+            
+					
+            <nphead id="AAh2608">
+              
+						
+              <W Lpos="NNP">Ford</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">signed</W>
+          
+				
+          <ne AAgf="dobj" id="ne2610">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="NNP">Metric</W>
+            
+					
+            <W Lpos="NNP">Conversion</W>
+            
+					
+            <nphead id="AAh2609">
+              
+						
+              <W Lpos="NNP">Act</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">into</W>
+          
+				
+          <ne AAgf="pobj" id="ne2611">
+            
+					
+            <nphead id="AAh2610">
+              
+						
+              <W Lpos="NN">law</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=":">;</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2612">
+            
+					
+            <W Lpos="DT">this</W>
+            
+					
+            <nphead id="AAh2611">
+              
+						
+              <W Lpos="NN">act</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">gave</W>
+          
+				
+          <ne AAgf="dobj" id="ne2613">
+            
+					
+            <W Lpos="JJ">official</W>
+            
+					
+            <nphead id="AAh2612">
+              
+						
+              <W Lpos="NN">sanction</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="nsubj" id="ne2614">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="NNP">United</W>
+              
+						
+              <nphead id="AAh2613">
+                
+							
+                <W Lpos="NNPS">States</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="VB">convert</W>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <ne AAgf="pobj" id="ne2615">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="JJ">metric</W>
+              
+						
+              <nphead id="AAh2614">
+                
+							
+                <W Lpos="NN">system</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne2616">
+                
+							
+                <nphead id="AAh2615">
+                  
+								
+                  <W Lpos="NN">measurement</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s395">
+          
+				
+          <W Lpos="-LRB-">(</W>
+          
+				
+          <W Lpos="RB">Traditionally</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2617">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="NNP">United</W>
+            
+					
+            <nphead id="AAh2616">
+              
+						
+              <W Lpos="NNPS">States</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">has</W>
+          
+				
+          <W Lpos="VBN">used</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="VBZ">continues</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">prefer</W>
+          
+				
+          <ne AAgf="dobj" id="ne2618">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="JJ">English</W>
+            
+					
+            <nphead id="AAh2617">
+              
+						
+              <W Lpos="NN">system</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">over</W>
+          
+				
+          <ne AAgf="pobj" id="ne2619">
+            
+					
+            <W Lpos="JJ">metric</W>
+            
+					
+            <nphead id="AAh2618">
+              
+						
+              <W Lpos="NNS">measurements</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+				
+          <W Lpos="-RRB-">)</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2620">
+            
+					
+            <ne AAgf="poss" id="ne2621">
+              
+						
+              <nphead id="AAh2619">
+                
+							
+                <W Lpos="NNP">Ford</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="POS">'s</W>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="JJ">presidential</W>
+            
+					
+            <nphead id="AAh2620">
+              
+						
+              <W Lpos="NN">successor</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <ne AAgf="appos" id="ne2622">
+              
+						
+              <W Lpos="NNP">Jimmy</W>
+              
+						
+              <nphead id="AAh2621">
+                
+							
+                <W Lpos="NNP">Carter</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBD">began</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">implement</W>
+          
+				
+          <ne AAgf="dobj" id="ne2623">
+            
+					
+            <W Lpos="DT">this</W>
+            
+					
+            <nphead id="AAh2622">
+              
+						
+              <W Lpos="NN">law</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <W Lpos="JJ">earnest</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBG">helping</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">set</W>
+          
+				
+          <W Lpos="RP">up</W>
+          
+				
+          <ne AAgf="dobj" id="ne2624">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="NNP">U.S.</W>
+            
+					
+            <W Lpos="NNP">Metric</W>
+            
+					
+            <nphead id="AAh2623">
+              
+						
+              <W Lpos="NNP">Board</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">as</W>
+          
+				
+          <ne AAgf="pobj" id="ne2625">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <W Lpos="NN">task</W>
+            
+					
+            <nphead id="AAh2624">
+              
+						
+              <W Lpos="NN">force</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="VB">determine</W>
+            
+					
+            <W Lpos="WRB">when</W>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <W Lpos="WRB">how</W>
+            
+					
+            <ne AAgf="nsubj" id="ne2626">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh2625">
+                
+							
+                <W Lpos="NNP">U.S.</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="MD">would</W>
+            
+					
+            <W Lpos="VB">convert</W>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <ne AAgf="pobj" id="ne2627">
+              
+						
+              <nphead id="AAh2626">
+                
+							
+                <W Lpos="NNS">metrics</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s396">
+          
+				
+          <ne AAgf="nsubj" id="ne2628">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <nphead id="AAh2627">
+              
+						
+              <W Lpos="NNP">USMB</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">suggested</W>
+          
+				
+          <W Lpos="IN">that</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2629">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh2628">
+              
+						
+              <W Lpos="NN">transition</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="MD">ought</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">be</W>
+          
+				
+          <W Lpos="JJ">voluntary</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="JJ">gradual</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBG">taking</W>
+          
+				
+          <ne AAgf="dobj" id="ne2630">
+            
+					
+            <nphead id="AAh2629">
+              
+						
+              <W Lpos="NN">place</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">over</W>
+          
+				
+          <ne AAgf="pobj" id="ne2631">
+            
+					
+            <W Lpos="IN">at</W>
+            
+					
+            <W Lpos="JJS">least</W>
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <W Lpos="JJ">ten-year</W>
+            
+					
+            <nphead id="AAh2630">
+              
+						
+              <W Lpos="NN">period</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p158">
+        
+			
+        <s id="s397">
+          
+				
+          <W Lpos="IN">As</W>
+          
+				
+          <ne AAgf="pobj" id="ne2632">
+            
+					
+            <nphead id="AAh2631">
+              
+						
+              <W Lpos="NN">part</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne2633">
+              
+						
+              <W Lpos="DT">this</W>
+              
+						
+              <W Lpos="JJ">gradual</W>
+              
+						
+              <nphead id="AAh2632">
+                
+							
+                <W Lpos="NN">transition</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2634">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh2633">
+              
+						
+              <W Lpos="NNP">USMB</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">sponsored</W>
+          
+				
+          <ne AAgf="dobj" id="ne2635">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh2634">
+              
+						
+              <W Lpos="NN">number</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne2636">
+              
+						
+              <W Lpos="JJ">public</W>
+              
+						
+              <W Lpos="NN">service</W>
+              
+						
+              <nphead id="AAh2635">
+                
+							
+                <W Lpos="NNS">announcements</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">on</W>
+              
+						
+              <ne AAgf="pobj" id="ne2637">
+                
+							
+                <nphead id="AAh2636">
+                  
+								
+                  <W Lpos="NN">radio</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="CC">and</W>
+                
+							
+                <W Lpos="NN">television</W>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s398">
+          
+				
+          <ne AAgf="nsubj" id="ne2638">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <W Lpos="NNP">Metric</W>
+            
+					
+            <nphead id="AAh2637">
+              
+						
+              <W Lpos="NNP">Marvels</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">was</W>
+          
+				
+          <ne AAgf="ROOT" id="ne2639">
+            
+					
+            <W Lpos="CD">one</W>
+            
+					
+            <W Lpos="JJ">such</W>
+            
+					
+            <W Lpos="NN">television</W>
+            
+					
+            <nphead id="AAh2638">
+              
+						
+              <W Lpos="NNP">PSA</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="VBN">aired</W>
+            
+					
+            <W Lpos="IN">during</W>
+            
+					
+            <ne AAgf="pobj" id="ne2640">
+              
+						
+              <ne AAgf="poss" id="ne2641">
+                
+							
+                <nphead id="AAh2639">
+                  
+								
+                  <W Lpos="NNP">NBC</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="POS">'s</W>
+                
+						
+              </ne>
+              
+						
+              <W Lpos="NNP">Saturday</W>
+              
+						
+              <W Lpos="NN">morning</W>
+              
+						
+              <nphead id="AAh2640">
+                
+							
+                <W Lpos="NNS">cartoons</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s399">
+          
+				
+          <ne AAgf="nsubj" id="ne2642">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <nphead id="AAh2641">
+              
+						
+              <W Lpos="NNS">shorts</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">featured</W>
+          
+				
+          <ne AAgf="dobj" id="ne2643">
+            
+					
+            <W Lpos="CD">four</W>
+            
+					
+            <W Lpos="VBN">animated</W>
+            
+					
+            <W Lpos="JJ">metric</W>
+            
+					
+            <nphead id="AAh2642">
+              
+						
+              <W Lpos="NNS">superheroes</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=":">:</W>
+          
+				
+          <ne AAgf="dep" id="ne2644">
+            
+					
+            <W Lpos="NNP">Liter</W>
+            
+					
+            <nphead id="AAh2643">
+              
+						
+              <W Lpos="NNP">Leader</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <ne AAgf="conj" id="ne2645">
+              
+						
+              <W Lpos="NNP">Meter</W>
+              
+						
+              <nphead id="AAh2644">
+                
+							
+                <W Lpos="NNP">Man</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <ne AAgf="conj" id="ne2646">
+              
+						
+              <W Lpos="NNP">Super</W>
+              
+						
+              <nphead id="AAh2645">
+                
+							
+                <W Lpos="NNP">Celsius</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <ne AAgf="conj" id="ne2647">
+              
+						
+              <W Lpos="NNP">Wonder</W>
+              
+						
+              <nphead id="AAh2646">
+                
+							
+                <W Lpos="NNP">Gram</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s400">
+          
+				
+          <ne AAgf="nsubj" id="ne2648">
+            
+					
+            <W Lpos="DT">Each</W>
+            
+					
+            <nphead id="AAh2647">
+              
+						
+              <W Lpos="NN">superhero</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">performed</W>
+          
+				
+          <ne AAgf="dobj" id="ne2649">
+            
+					
+            <nphead id="AAh2648">
+              
+						
+              <W Lpos="NNS">songs</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="VBN">designed</W>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="VB">teach</W>
+            
+					
+            <ne AAgf="iobj" id="ne2650">
+              
+						
+              <nphead id="AAh2649">
+                
+							
+                <W Lpos="NNS">children</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <ne AAgf="dobj" id="ne2651">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh2650">
+                
+							
+                <W Lpos="NN">difference</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">between</W>
+              
+						
+              <ne AAgf="pobj" id="ne2652">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="JJ">old</W>
+                
+							
+                <W Lpos="JJ">English</W>
+                
+							
+                <nphead id="AAh2651">
+                  
+								
+                  <W Lpos="NN">system</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="CC">and</W>
+                
+							
+                <ne AAgf="conj" id="ne2653">
+                  
+								
+                  <W Lpos="DT">the</W>
+                  
+								
+                  <W Lpos="JJ">new</W>
+                  
+								
+                  <W Lpos="JJ">metric</W>
+                  
+								
+                  <nphead id="AAh2652">
+                    
+									
+                    <W Lpos="NN">system</W>
+                    
+								
+                  </nphead>
+                  
+							
+                </ne>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p159">
+        
+			
+        <s id="s401">
+          
+				
+          <W Lpos="RB">Ultimately</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2654">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <W Lpos="NNP">Metric</W>
+            
+					
+            <nphead id="AAh2653">
+              
+						
+              <W Lpos="NNP">Marvels</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">failed</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">convince</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2655">
+            
+					
+            <nphead id="AAh2654">
+              
+						
+              <W Lpos="NNPS">Americans</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">convert</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <ne AAgf="pobj" id="ne2656">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="JJ">metric</W>
+            
+					
+            <nphead id="AAh2655">
+              
+						
+              <W Lpos="NN">system</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s402">
+          
+				
+          <W Lpos="IN">Although</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2657">
+            
+					
+            <nphead id="AAh2656">
+              
+						
+              <W Lpos="PRP">it</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">shared</W>
+          
+				
+          <ne AAgf="dobj" id="ne2658">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="NN">animation</W>
+            
+					
+            <nphead id="AAh2657">
+              
+						
+              <W Lpos="NN">style</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <ne AAgf="conj" id="ne2659">
+              
+						
+              <W Lpos="NN">song</W>
+              
+						
+              <nphead id="AAh2658">
+                
+							
+                <W Lpos="NN">quality</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <ne AAgf="conj" id="ne2660">
+              
+						
+              <W Lpos="NN">voice</W>
+              
+						
+              <nphead id="AAh2659">
+                
+							
+                <W Lpos="NNS">actors</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne2661">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="RBR">more</W>
+              
+						
+              <W Lpos="JJ">popular</W>
+              
+						
+              <W Lpos="NNP">Schoolhouse</W>
+              
+						
+              <nphead id="AAh2660">
+                
+							
+                <W Lpos="NNP">Rock</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="NNP">!</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2662">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh2661">
+              
+						
+              <W Lpos="NNS">series</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">had</W>
+          
+				
+          <ne AAgf="dobj" id="ne2663">
+            
+					
+            <W Lpos="JJ">many</W>
+            
+					
+            <W Lpos="JJR">fewer</W>
+            
+					
+            <nphead id="AAh2662">
+              
+						
+              <W Lpos="NNS">episodes</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="VBD">was</W>
+          
+				
+          <W Lpos="RB">relatively</W>
+          
+				
+          <W Lpos="JJ">short-lived</W>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s403">
+          
+				
+          <ne AAgf="nsubj" id="ne2664">
+            
+					
+            <nphead id="AAh2663">
+              
+						
+              <W Lpos="NNPS">Americans</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">largely</W>
+          
+				
+          <W Lpos="VBD">ignored</W>
+          
+				
+          <ne AAgf="dobj" id="ne2665">
+            
+					
+            <W Lpos="JJ">governmental</W>
+            
+					
+            <nphead id="AAh2664">
+              
+						
+              <W Lpos="NNS">attempts</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="VB">push</W>
+            
+					
+            <ne AAgf="dobj" id="ne2666">
+              
+						
+              <nphead id="AAh2665">
+                
+							
+                <W Lpos="PRP">them</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="IN">in</W>
+            
+					
+            <ne AAgf="pobj" id="ne2667">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh2666">
+                
+							
+                <W Lpos="NN">direction</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne2668">
+                
+							
+                <nphead id="AAh2667">
+                  
+								
+                  <W Lpos="NN">metrication</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <ne AAgf="nsubjpass" id="ne2669">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh2668">
+              
+						
+              <W Lpos="NN">USMB</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">was</W>
+          
+				
+          <W Lpos="RB">eventually</W>
+          
+				
+          <W Lpos="VBN">disbanded</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne2670">
+            
+					
+            <nphead id="AAh2669">
+              
+						
+              <W Lpos="CD">1982</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+	
+    </section>
+    
+
+  </body>
+  
+
+</gnomedoc>

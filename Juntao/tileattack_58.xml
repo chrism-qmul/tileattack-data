@@ -1,0 +1,1529 @@
+<?xml version="1.0" ?>
+<gnomedoc>
+  
+
+  <header>
+    
+	
+    <fileDesc>
+      
+		
+      <titleStmt>
+        
+			
+        <title>Manhattanhenge</title>
+        
+			
+        <author>Wikipedia</author>
+        
+		
+      </titleStmt>
+      
+		
+      <publicationStmt>
+        
+			
+        <web>
+          
+				
+          <publisher>Wikipedia</publisher>
+          
+				
+          <url>http://en.wikipedia.org/wiki/Manhattanhenge</url>
+          
+			
+        </web>
+        
+			
+        <availability>All text is available under the terms of the GNU Free Documentation License</availability>
+        
+			
+        <date>18 December 2008</date>
+        
+		
+      </publicationStmt>
+      
+		
+      <sourceDesc>
+        
+			
+        <filename>data\game\wikipedia\unusual\Manhattanhenge.htm</filename>
+        
+			
+        <date>18 December 2008</date>
+        
+		
+      </sourceDesc>
+      
+	
+    </fileDesc>
+    
+	
+    <revisionDesc>
+      
+		
+      <change>
+        
+			
+        <date>21 June 2017</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Juntao Yu</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Mentions extracted from dependency parser</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>23 Apr 2016</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Phrase Detectives (Jon Chamberlain)</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Exported the document and annotations from the Phrase Detectives game</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>18 December 2008</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Mark Schellhase</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>File converted to MASXML by automatic processing from HTML</TEIitem>
+        
+		
+      </change>
+      
+	
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <body>
+    
+	
+    <section>
+      
+		
+      <p id="p80">
+        
+			
+        <s id="s212">
+          
+				
+          <ne AAgf="nsubj" id="ne1342">
+            
+					
+            <nphead id="AAh1341">
+              
+						
+              <W Lpos="NNP">Manhattanhenge</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="-LRB-">(</W>
+          
+				
+          <W Lpos="RB">sometimes</W>
+          
+				
+          <W Lpos="VBD">referred</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="IN">as</W>
+          
+				
+          <ne AAgf="pobj" id="ne1343">
+            
+					
+            <W Lpos="NNP">Manhattan</W>
+            
+					
+            <nphead id="AAh1342">
+              
+						
+              <W Lpos="NNP">Solstice</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="-RRB-">)</W>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <ne AAgf="ROOT" id="ne1344">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <W Lpos="JJ">semi-annual</W>
+            
+					
+            <nphead id="AAh1343">
+              
+						
+              <W Lpos="NN">occurrence</W>
+              
+					
+            </nphead>
+            
+					
+            <ne AAgf="rcmod" id="ne1345">
+              
+						
+              <W Lpos="IN">in</W>
+              
+						
+              <W Lpos="WDT">which</W>
+              
+						
+              <ne AAgf="nsubj" id="ne1346">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="VBG">setting</W>
+                
+							
+                <nphead id="AAh1344">
+                  
+								
+                  <W Lpos="NN">sun</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <nphead id="AAh1345">
+                
+							
+                <W Lpos="NNS">aligns</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">with</W>
+              
+						
+              <ne AAgf="pobj" id="ne1347">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="JJS">east-west</W>
+                
+							
+                <nphead id="AAh1346">
+                  
+								
+                  <W Lpos="NNS">streets</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="IN">of</W>
+                
+							
+                <ne AAgf="pobj" id="ne1348">
+                  
+								
+                  <ne AAgf="poss" id="ne1349">
+                    
+									
+                    <nphead id="AAh1347">
+                      
+										
+                      <W Lpos="NNP">Manhattan</W>
+                      
+									
+                    </nphead>
+                    
+									
+                    <W Lpos="POS">'s</W>
+                    
+								
+                  </ne>
+                  
+								
+                  <W Lpos="JJ">main</W>
+                  
+								
+                  <W Lpos="NN">street</W>
+                  
+								
+                  <nphead id="AAh1348">
+                    
+									
+                    <W Lpos="NN">grid</W>
+                    
+								
+                  </nphead>
+                  
+							
+                </ne>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s213">
+          
+				
+          <ne AAgf="nsubjpass" id="ne1350">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <nphead id="AAh1349">
+              
+						
+              <W Lpos="NN">term</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <W Lpos="VBN">derived</W>
+          
+				
+          <W Lpos="IN">from</W>
+          
+				
+          <ne AAgf="pobj" id="ne1351">
+            
+					
+            <nphead id="AAh1350">
+              
+						
+              <W Lpos="NNP">Stonehenge</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="IN">at</W>
+            
+					
+            <W Lpos="WDT">which</W>
+            
+					
+            <ne AAgf="nsubj" id="ne1352">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh1351">
+                
+							
+                <W Lpos="NN">sun</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="VBZ">aligns</W>
+            
+					
+            <W Lpos="IN">with</W>
+            
+					
+            <ne AAgf="pobj" id="ne1353">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh1352">
+                
+							
+                <W Lpos="NNS">stones</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">on</W>
+              
+						
+              <ne AAgf="pobj" id="ne1354">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <nphead id="AAh1353">
+                  
+								
+                  <W Lpos="NNS">solstices</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s214">
+          
+				
+          <ne AAgf="nsubjpass" id="ne1355">
+            
+					
+            <nphead id="AAh1354">
+              
+						
+              <W Lpos="PRP">It</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">was</W>
+          
+				
+          <W Lpos="VBN">coined</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne1356">
+            
+					
+            <nphead id="AAh1355">
+              
+						
+              <W Lpos="CD">2002</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">by</W>
+          
+				
+          <ne AAgf="pobj" id="ne1357">
+            
+					
+            <W Lpos="NNP">Neil</W>
+            
+					
+            <W Lpos="NN">deGrasse</W>
+            
+					
+            <nphead id="AAh1356">
+              
+						
+              <W Lpos="NNP">Tyson</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <ne AAgf="appos" id="ne1358">
+              
+						
+              <W Lpos="DT">an</W>
+              
+						
+              <nphead id="AAh1357">
+                
+							
+                <W Lpos="NN">astrophysicist</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">at</W>
+              
+						
+              <ne AAgf="pobj" id="ne1359">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="NNP">American</W>
+                
+							
+                <nphead id="AAh1358">
+                  
+								
+                  <W Lpos="NNP">Museum</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="IN">of</W>
+                
+							
+                <ne AAgf="pobj" id="ne1360">
+                  
+								
+                  <W Lpos="NNP">Natural</W>
+                  
+								
+                  <nphead id="AAh1359">
+                    
+									
+                    <W Lpos="NNP">History</W>
+                    
+								
+                  </nphead>
+                  
+							
+                </ne>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s215">
+          
+				
+          <ne AAgf="nsubj" id="ne1361">
+            
+					
+            <nphead id="AAh1360">
+              
+						
+              <W Lpos="PRP">It</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">applies</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <ne AAgf="pobj" id="ne1362">
+            
+					
+            <W Lpos="DT">those</W>
+            
+					
+            <nphead id="AAh1361">
+              
+						
+              <W Lpos="NNS">streets</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="WDT">that</W>
+            
+					
+            <W Lpos="VBP">follow</W>
+            
+					
+            <ne AAgf="dobj" id="ne1363">
+              
+						
+              <ne AAgf="poss" id="ne1364">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <nphead id="AAh1362">
+                  
+								
+                  <W Lpos="NNPS">Commissioners</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="POS">'</W>
+                
+						
+              </ne>
+              
+						
+              <nphead id="AAh1363">
+                
+							
+                <W Lpos="NN">Plan</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne1365">
+                
+							
+                <nphead id="AAh1364">
+                  
+								
+                  <W Lpos="CD">1811</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <W Lpos=",">,</W>
+              
+						
+              <W Lpos="WDT">which</W>
+              
+						
+              <W Lpos="VBD">laid</W>
+              
+						
+              <W Lpos="RP">out</W>
+              
+						
+              <ne AAgf="dobj" id="ne1366">
+                
+							
+                <W Lpos="DT">a</W>
+                
+							
+                <nphead id="AAh1365">
+                  
+								
+                  <W Lpos="NN">grid</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="VBN">offset</W>
+                
+							
+                <ne AAgf="dobj" id="ne1367">
+                  
+								
+                  <W Lpos="CD">28.9</W>
+                  
+								
+                  <nphead id="AAh1366">
+                    
+									
+                    <W Lpos="NNS">degrees</W>
+                    
+								
+                  </nphead>
+                  
+							
+                </ne>
+                
+							
+                <W Lpos="IN">from</W>
+                
+							
+                <W Lpos="JJ">true</W>
+                
+							
+                <W Lpos="JJS">east-west</W>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p81">
+        
+			
+        <s id="s216">
+          
+				
+          <W Lpos="IN">At</W>
+          
+				
+          <ne AAgf="pobj" id="ne1368">
+            
+					
+            <nphead id="AAh1367">
+              
+						
+              <W Lpos="NN">sunset</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne1369">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh1368">
+              
+						
+              <W Lpos="NN">traveler</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">along</W>
+            
+					
+            <ne AAgf="pobj" id="ne1370">
+              
+						
+              <nphead id="AAh1369">
+                
+							
+                <W Lpos="CD">one</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne1371">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="JJ">north-south</W>
+                
+							
+                <nphead id="AAh1370">
+                  
+								
+                  <W Lpos="NNS">avenues</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="IN">on</W>
+                
+							
+                <ne AAgf="pobj" id="ne1372">
+                  
+								
+                  <W Lpos="DT">the</W>
+                  
+								
+                  <W Lpos="NNP">West</W>
+                  
+								
+                  <nphead id="AAh1371">
+                    
+									
+                    <W Lpos="NNP">Side</W>
+                    
+								
+                  </nphead>
+                  
+							
+                </ne>
+                
+							
+                <W Lpos="VBG">looking</W>
+                
+							
+                <W Lpos="RB">east</W>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="MD">can</W>
+          
+				
+          <W Lpos="VB">observe</W>
+          
+				
+          <ne AAgf="dobj" id="ne1373">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh1372">
+              
+						
+              <W Lpos="NN">phenomenon</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">indirectly</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBG">being</W>
+          
+				
+          <W Lpos="VBN">struck</W>
+          
+				
+          <W Lpos="IN">by</W>
+          
+				
+          <ne AAgf="pobj" id="ne1374">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="VBN">reflected</W>
+            
+					
+            <nphead id="AAh1373">
+              
+						
+              <W Lpos="NN">light</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne1375">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="JJ">many</W>
+              
+						
+              <nphead id="AAh1374">
+                
+							
+                <W Lpos="NNS">windows</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="WDT">which</W>
+              
+						
+              <W Lpos="VBP">are</W>
+              
+						
+              <W Lpos="VBN">aligned</W>
+              
+						
+              <W Lpos="IN">with</W>
+              
+						
+              <ne AAgf="pobj" id="ne1376">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <nphead id="AAh1375">
+                  
+								
+                  <W Lpos="NN">grid</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s217">
+          
+				
+          <ne AAgf="nsubj" id="ne1377">
+            
+					
+            <W Lpos="DT">An</W>
+            
+					
+            <nphead id="AAh1376">
+              
+						
+              <W Lpos="NN">observer</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">on</W>
+            
+					
+            <ne AAgf="pobj" id="ne1378">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="NNP">East</W>
+              
+						
+              <nphead id="AAh1377">
+                
+							
+                <W Lpos="NNP">Side</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="MD">can</W>
+          
+				
+          <W Lpos="VB">look</W>
+          
+				
+          <W Lpos="RB">west</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="VB">see</W>
+          
+				
+          <ne AAgf="nsubj" id="ne1379">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh1378">
+              
+						
+              <W Lpos="NNP">Sun</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBG">shining</W>
+          
+				
+          <W Lpos="RP">down</W>
+          
+				
+          <ne AAgf="dobj" id="ne1380">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <W Lpos="JJ">canyon-like</W>
+            
+					
+            <nphead id="AAh1379">
+              
+						
+              <W Lpos="NN">street</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p82">
+        
+			
+        <s id="s218">
+          
+				
+          <ne AAgf="nsubj" id="ne1381">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <nphead id="AAh1380">
+              
+						
+              <W Lpos="NNS">dates</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne1382">
+              
+						
+              <nphead id="AAh1381">
+                
+							
+                <W Lpos="NNP">Manhattanhenge</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">are</W>
+          
+				
+          <ne AAgf="ROOT" id="ne1383">
+            
+					
+            <W Lpos="RB">usually</W>
+            
+					
+            <nphead id="AAh1382">
+              
+						
+              <W Lpos="NNP">May</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CD">28</W>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <W Lpos="NNP">July</W>
+            
+					
+            <W Lpos="CD">12</W>
+            
+					
+            <W Lpos="CC">or</W>
+            
+					
+            <W Lpos="NNP">July</W>
+            
+					
+            <W Lpos="CD">13</W>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="-LRB-">(</W>
+          
+				
+          <W Lpos="VBN">spaced</W>
+          
+				
+          <W Lpos="RB">evenly</W>
+          
+				
+          <W Lpos="IN">around</W>
+          
+				
+          <ne AAgf="pobj" id="ne1384">
+            
+					
+            <W Lpos="NNP">Summer</W>
+            
+					
+            <nphead id="AAh1383">
+              
+						
+              <W Lpos="NNP">Solstice</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="-RRB-">)</W>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s219">
+          
+				
+          <ne AAgf="nsubj" id="ne1385">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <W Lpos="CD">two</W>
+            
+					
+            <W Lpos="JJ">corresponding</W>
+            
+					
+            <nphead id="AAh1384">
+              
+						
+              <W Lpos="NNS">mornings</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne1386">
+              
+						
+              <W Lpos="NN">sunrise</W>
+              
+						
+              <nphead id="AAh1385">
+                
+							
+                <W Lpos="NN">right</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="IN">on</W>
+            
+					
+            <ne AAgf="pobj" id="ne1387">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="NN">center</W>
+              
+						
+              <nphead id="AAh1386">
+                
+							
+                <W Lpos="NNS">lines</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne1388">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="NNP">Manhattan</W>
+                
+							
+                <nphead id="AAh1387">
+                  
+								
+                  <W Lpos="NN">grid</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">are</W>
+          
+				
+          <ne AAgf="ROOT" id="ne1389">
+            
+					
+            <W Lpos="RB">approximately</W>
+            
+					
+            <nphead id="AAh1388">
+              
+						
+              <W Lpos="NNP">December</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CD">5</W>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <W Lpos="NNP">January</W>
+            
+					
+            <W Lpos="CD">8</W>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="-LRB-">(</W>
+          
+				
+          <W Lpos="VBN">spaced</W>
+          
+				
+          <W Lpos="RB">evenly</W>
+          
+				
+          <W Lpos="IN">around</W>
+          
+				
+          <ne AAgf="pobj" id="ne1390">
+            
+					
+            <W Lpos="NNP">Winter</W>
+            
+					
+            <nphead id="AAh1389">
+              
+						
+              <W Lpos="NNP">Solstice</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="-RRB-">)</W>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s220">
+          
+				
+          <W Lpos="IN">As</W>
+          
+				
+          <W Lpos="IN">with</W>
+          
+				
+          <ne AAgf="pobj" id="ne1391">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh1390">
+              
+						
+              <W Lpos="NNS">solstices</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <W Lpos="NNS">equinoxes</W>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne1392">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh1391">
+              
+						
+              <W Lpos="NNS">dates</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">vary</W>
+          
+				
+          <W Lpos="RB">somewhat</W>
+          
+				
+          <W Lpos="IN">from</W>
+          
+				
+          <ne AAgf="pobj" id="ne1393">
+            
+					
+            <nphead id="AAh1392">
+              
+						
+              <W Lpos="NN">year</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <ne AAgf="pobj" id="ne1394">
+            
+					
+            <nphead id="AAh1393">
+              
+						
+              <W Lpos="NN">year</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+	
+    </section>
+    
+
+  </body>
+  
+
+</gnomedoc>

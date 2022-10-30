@@ -1,0 +1,1553 @@
+<?xml version="1.0" ?>
+<gnomedoc>
+  
+
+  <header>
+    
+	
+    <fileDesc>
+      
+		
+      <titleStmt>
+        
+			
+        <title>Richard Nixon mask</title>
+        
+			
+        <author>Wikipedia</author>
+        
+		
+      </titleStmt>
+      
+		
+      <publicationStmt>
+        
+			
+        <web>
+          
+				
+          <publisher>Wikipedia</publisher>
+          
+				
+          <url>http://en.wikipedia.org/wiki/Richard_Nixon_mask</url>
+          
+			
+        </web>
+        
+			
+        <availability>All text is available under the terms of the GNU Free Documentation License</availability>
+        
+			
+        <date>20 December 2008</date>
+        
+		
+      </publicationStmt>
+      
+		
+      <sourceDesc>
+        
+			
+        <filename>data\game\wikipedia\unusual\Richard_Nixon_mask.htm</filename>
+        
+			
+        <date>20 December 2008</date>
+        
+		
+      </sourceDesc>
+      
+	
+    </fileDesc>
+    
+	
+    <revisionDesc>
+      
+		
+      <change>
+        
+			
+        <date>21 June 2017</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Juntao Yu</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Mentions extracted from dependency parser</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>23 Apr 2016</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Phrase Detectives (Jon Chamberlain)</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Exported the document and annotations from the Phrase Detectives game</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>20 December 2008</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Mark Schellhase</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>File converted to MASXML by automatic processing from HTML</TEIitem>
+        
+		
+      </change>
+      
+	
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <body>
+    
+	
+    <section>
+      
+		
+      <p id="p142">
+        
+			
+        <s id="s361">
+          
+				
+          <ne AAgf="nsubj" id="ne2375">
+            
+					
+            <W Lpos="DT">A</W>
+            
+					
+            <W Lpos="NNP">Richard</W>
+            
+					
+            <W Lpos="NNP">Nixon</W>
+            
+					
+            <nphead id="AAh2374">
+              
+						
+              <W Lpos="NN">mask</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <ne AAgf="ROOT" id="ne2376">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh2375">
+              
+						
+              <W Lpos="NN">mask</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">with</W>
+            
+					
+            <ne AAgf="pobj" id="ne2377">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh2376">
+                
+							
+                <W Lpos="NNS">features</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne2378">
+                
+							
+                <W Lpos="NNP">Richard</W>
+                
+							
+                <nphead id="AAh2377">
+                  
+								
+                  <W Lpos="NNP">Nixon</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s362">
+          
+				
+          <ne AAgf="nsubj" id="ne2379">
+            
+					
+            <nphead id="AAh2378">
+              
+						
+              <W Lpos="DT">These</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">were</W>
+          
+				
+          <W Lpos="RB">commercially</W>
+          
+				
+          <W Lpos="JJ">available</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="RB">quite</W>
+          
+				
+          <W Lpos="JJ">popular</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne2380">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="VBG">waning</W>
+            
+					
+            <nphead id="AAh2379">
+              
+						
+              <W Lpos="NNS">days</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne2381">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="NNP">Nixon</W>
+              
+						
+              <nphead id="AAh2380">
+                
+							
+                <W Lpos="NNP">Administration</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s363">
+          
+				
+          <ne AAgf="nsubjpass" id="ne2382">
+            
+					
+            <nphead id="AAh2381">
+              
+						
+              <W Lpos="PRP">They</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">are</W>
+          
+				
+          <W Lpos="RB">generally</W>
+          
+				
+          <W Lpos="VBN">made</W>
+          
+				
+          <W Lpos="IN">out</W>
+          
+				
+          <W Lpos="IN">of</W>
+          
+				
+          <ne AAgf="pobj" id="ne2383">
+            
+					
+            <W Lpos="JJ">thick</W>
+            
+					
+            <W Lpos="NN">latex</W>
+            
+					
+            <nphead id="AAh2382">
+              
+						
+              <W Lpos="NN">rubber</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CC">or</W>
+            
+					
+            <ne AAgf="conj" id="ne2384">
+              
+						
+              <W Lpos="JJ">similar</W>
+              
+						
+              <W Lpos="JJ">flexible</W>
+              
+						
+              <W Lpos="NN">castable</W>
+              
+						
+              <nphead id="AAh2383">
+                
+							
+                <W Lpos="NNS">compounds</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p143">
+        
+			
+        <s id="s364">
+          
+				
+          <ne AAgf="nsubj" id="ne2385">
+            
+					
+            <nphead id="AAh2384">
+              
+						
+              <W Lpos="CD">One</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne2386">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="JJ">notable</W>
+              
+						
+              <nphead id="AAh2385">
+                
+							
+                <W Lpos="NNS">features</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne2387">
+                
+							
+                <W Lpos="JJS">most</W>
+                
+							
+                <W Lpos="NNP">Richard</W>
+                
+							
+                <W Lpos="NNP">Nixon</W>
+                
+							
+                <nphead id="AAh2386">
+                  
+								
+                  <W Lpos="NNS">masks</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <ne AAgf="ROOT" id="ne2388">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="RB">classically</W>
+            
+					
+            <W Lpos="VBN">caricatured</W>
+            
+					
+            <nphead id="AAh2387">
+              
+						
+              <W Lpos="NN">nose</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s365">
+          
+				
+          <ne AAgf="nsubj" id="ne2389">
+            
+					
+            <nphead id="AAh2388">
+              
+						
+              <W Lpos="JJ">Many</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne2390">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="JJ">different</W>
+              
+						
+              <nphead id="AAh2389">
+                
+							
+                <W Lpos="NNS">versions</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne2391">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="NNP">Nixon</W>
+                
+							
+                <nphead id="AAh2390">
+                  
+								
+                  <W Lpos="NN">mask</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">have</W>
+          
+				
+          <ne AAgf="dobj" id="ne2392">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <W Lpos="JJ">wide</W>
+            
+					
+            <W Lpos="JJ">grinning</W>
+            
+					
+            <nphead id="AAh2391">
+              
+						
+              <W Lpos="NN">smile</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">as</W>
+          
+				
+          <W Lpos="RB">well</W>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p144">
+        
+			
+        <s id="s366">
+          
+				
+          <W Lpos="IN">Although</W>
+          
+				
+          <ne AAgf="nsubjpass" id="ne2393">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh2392">
+              
+						
+              <W Lpos="NNS">masks</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">were</W>
+          
+				
+          <W Lpos="RB">widely</W>
+          
+				
+          <W Lpos="VBN">believed</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">be</W>
+          
+				
+          <ne AAgf="xcomp" id="ne2394">
+            
+					
+            <W Lpos="RB">only</W>
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh2393">
+              
+						
+              <W Lpos="NN">fad</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="WDT">that</W>
+          
+				
+          <W Lpos="MD">would</W>
+          
+				
+          <W Lpos="RB">presumably</W>
+          
+				
+          <W Lpos="VB">die</W>
+          
+				
+          <W Lpos="RP">down</W>
+          
+				
+          <W Lpos="IN">as</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2395">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="JJ">public</W>
+            
+					
+            <nphead id="AAh2394">
+              
+						
+              <W Lpos="NN">attention</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">on</W>
+            
+					
+            <ne AAgf="pobj" id="ne2396">
+              
+						
+              <nphead id="AAh2395">
+                
+							
+                <W Lpos="NNP">Watergate</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">died</W>
+          
+				
+          <W Lpos="RB">down</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2397">
+            
+					
+            <nphead id="AAh2396">
+              
+						
+              <W Lpos="PRP">they</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">did</W>
+          
+				
+          <W Lpos="VB">manage</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="RB">somewhat</W>
+          
+				
+          <W Lpos="VB">outlive</W>
+          
+				
+          <ne AAgf="dobj" id="ne2398">
+            
+					
+            <ne AAgf="poss" id="ne2399">
+              
+						
+              <nphead id="AAh2397">
+                
+							
+                <W Lpos="PRP$">its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="VBN">presumed</W>
+            
+					
+            <W Lpos="NN">fad</W>
+            
+					
+            <nphead id="AAh2398">
+              
+						
+              <W Lpos="NN">status</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">by</W>
+          
+				
+          <W Lpos="VBG">being</W>
+          
+				
+          <W Lpos="JJ">popular</W>
+          
+				
+          <W Lpos="IN">at</W>
+          
+				
+          <ne AAgf="pobj" id="ne2400">
+            
+					
+            <nphead id="AAh2399">
+              
+						
+              <W Lpos="NNS">events</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">like</W>
+            
+					
+            <ne AAgf="pobj" id="ne2401">
+              
+						
+              <nphead id="AAh2400">
+                
+							
+                <W Lpos="NNP">Halloween</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="CC">and</W>
+              
+						
+              <ne AAgf="conj" id="ne2402">
+                
+							
+                <W Lpos="NN">adult</W>
+                
+							
+                <W Lpos="NN">masquerade</W>
+                
+							
+                <nphead id="AAh2401">
+                  
+								
+                  <W Lpos="NNS">parties</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="VBD">sparked</W>
+          
+				
+          <ne AAgf="dobj" id="ne2403">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <W Lpos="JJ">commercial</W>
+            
+					
+            <nphead id="AAh2402">
+              
+						
+              <W Lpos="NN">demand</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="pobj" id="ne2404">
+              
+						
+              <nphead id="AAh2403">
+                
+							
+                <W Lpos="NNS">masks</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="VBG">resembling</W>
+              
+						
+              <ne AAgf="dobj" id="ne2405">
+                
+							
+                <W Lpos="JJ">famous</W>
+                
+							
+                <nphead id="AAh2404">
+                  
+								
+                  <W Lpos="NNS">people</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="dep" id="ne2406">
+            
+					
+            <W Lpos="RBS">most</W>
+            
+					
+            <W Lpos="RB">notably</W>
+            
+					
+            <nphead id="AAh2405">
+              
+						
+              <W Lpos="NNS">Presidents</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne2407">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="NNP">United</W>
+              
+						
+              <nphead id="AAh2406">
+                
+							
+                <W Lpos="NNPS">States</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s367">
+          
+				
+          <ne AAgf="nsubj" id="ne2408">
+            
+					
+            <nphead id="AAh2407">
+              
+						
+              <W Lpos="NNS">Masks</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne2409">
+              
+						
+              <W Lpos="JJ">other</W>
+              
+						
+              <nphead id="AAh2408">
+                
+							
+                <W Lpos="NNS">presidents</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">have</W>
+          
+				
+          <W Lpos="RB">often</W>
+          
+				
+          <W Lpos="VBN">been</W>
+          
+				
+          <W Lpos="RBS">most</W>
+          
+				
+          <W Lpos="JJ">popular</W>
+          
+				
+          <W Lpos="CC">either</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne2410">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh2409">
+              
+						
+              <W Lpos="NN">term</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne2411">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="JJ">current</W>
+              
+						
+              <nphead id="AAh2410">
+                
+							
+                <W Lpos="NN">president</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="CC">or</W>
+              
+						
+              <ne AAgf="conj" id="ne2412">
+                
+							
+                <W Lpos="JJ">immediate</W>
+                
+							
+                <W Lpos="NN">preceding</W>
+                
+							
+                <nphead id="AAh2411">
+                  
+								
+                  <W Lpos="NN">term</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s368">
+          
+				
+          <W Lpos="IN">For</W>
+          
+				
+          <ne AAgf="pobj" id="ne2413">
+            
+					
+            <ne AAgf="poss" id="ne2414">
+              
+						
+              <nphead id="AAh2412">
+                
+							
+                <W Lpos="PRP$">its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh2413">
+              
+						
+              <W Lpos="NN">part</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2415">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="NNP">Richard</W>
+            
+					
+            <W Lpos="NNP">Nixon</W>
+            
+					
+            <nphead id="AAh2414">
+              
+						
+              <W Lpos="NN">mask</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">remains</W>
+          
+				
+          <W Lpos="JJ">popular</W>
+          
+				
+          <ne AAgf="tmod" id="ne2416">
+            
+					
+            <nphead id="AAh2415">
+              
+						
+              <W Lpos="NN">today</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBN">worn</W>
+          
+				
+          <W Lpos="DT">both</W>
+          
+				
+          <W Lpos="IN">for</W>
+          
+				
+          <ne AAgf="pobj" id="ne2417">
+            
+					
+            <W Lpos="JJ">humorous</W>
+            
+					
+            <nphead id="AAh2416">
+              
+						
+              <W Lpos="NN">effect</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne2418">
+            
+					
+            <W Lpos="NN">protest</W>
+            
+					
+            <nphead id="AAh2417">
+              
+						
+              <W Lpos="NNS">marches</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <ne AAgf="conj" id="ne2419">
+              
+						
+              <W Lpos="JJ">similar</W>
+              
+						
+              <W Lpos=",">&quot;</W>
+              
+						
+              <W Lpos="JJ">public</W>
+              
+						
+              <nphead id="AAh2418">
+                
+							
+                <W Lpos="NNS">displays</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne2420">
+                
+							
+                <nphead id="AAh2419">
+                  
+								
+                  <W Lpos="NN">disaffection</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="NN">&quot;</W>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s369">
+          
+				
+          <ne AAgf="ROOT" id="ne2421">
+            
+					
+            <W Lpos="VBG">According</W>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <ne AAgf="pobj" id="ne2422">
+              
+						
+              <ne AAgf="poss" id="ne2423">
+                
+							
+                <nphead id="AAh2420">
+                  
+								
+                  <W Lpos="NNP">Harper</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="POS">'s</W>
+                
+						
+              </ne>
+              
+						
+              <ne AAgf="poss" id="ne2424">
+                
+							
+                <nphead id="AAh2421">
+                  
+								
+                  <W Lpos="NN">magazine</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="POS">'s</W>
+                
+						
+              </ne>
+              
+						
+              <W Lpos="NNP">October</W>
+              
+						
+              <W Lpos="CD">2002</W>
+              
+						
+              <W Lpos="NNP">&quot;</W>
+              
+						
+              <W Lpos="NNP">Index</W>
+              
+						
+              <nphead id="AAh2422">
+                
+							
+                <W Lpos="NNP">&quot;</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <ne AAgf="nsubj" id="ne2425">
+              
+						
+              <W Lpos="NNP">Nixon</W>
+              
+						
+              <nphead id="AAh2423">
+                
+							
+                <W Lpos="NNS">masks</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="VBD">were</W>
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="JJ">best-selling</W>
+            
+					
+            <W Lpos="JJ">political</W>
+            
+					
+            <nphead id="AAh2424">
+              
+						
+              <W Lpos="NN">mask</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="pobj" id="ne2426">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="JJ">previous</W>
+              
+						
+              <W Lpos="CD">five</W>
+              
+						
+              <nphead id="AAh2425">
+                
+							
+                <W Lpos="NNS">years</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="pobj" id="ne2427">
+              
+						
+              <W Lpos="JJ">top</W>
+              
+						
+              <W Lpos="NNP">U.S.</W>
+              
+						
+              <W Lpos="NN">costume</W>
+              
+						
+              <W Lpos="NN">wholesaler</W>
+              
+						
+              <W Lpos="NNP">Morris</W>
+              
+						
+              <nphead id="AAh2426">
+                
+							
+                <W Lpos="NNP">Costumes</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+	
+    </section>
+    
+
+  </body>
+  
+
+</gnomedoc>

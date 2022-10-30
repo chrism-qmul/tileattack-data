@@ -1,0 +1,1085 @@
+<?xml version="1.0" ?>
+<dalidoc>
+  
+
+  <header>
+    
+ 
+    <fileDesc>
+      
+  
+      <titleStmt>
+        
+   
+        <title>The library</title>
+        
+   
+        <author>unknown</author>
+        
+  
+      </titleStmt>
+      
+  
+      <categoryStmt>ReadEasyEnglish</categoryStmt>
+      
+  
+      <difficultyStmt>A</difficultyStmt>
+      
+  
+      <publicationStmt>
+        
+   
+        <web>
+          
+    
+          <publisher>FLAX</publisher>
+          
+    
+          <url>http://flax.nzdl.org/greenstone3/flax?a=b&amp;rt=r&amp;s=ClassifierBrowse&amp;c=flaxc252&amp;cl=CL1&amp;if=&amp;cls=</url>
+          
+   
+        </web>
+        
+   
+        <availability>GNU General Public License</availability>
+        
+   
+        <date>19 June 2018</date>
+        
+  
+      </publicationStmt>
+      
+  
+      <sourceDesc>
+        
+   
+        <filename>data\game\DALI-LEARN\Read_Easy_English\A_library.txt</filename>
+        
+   
+        <date>19 June 2018</date>
+        
+  
+      </sourceDesc>
+      
+ 
+    </fileDesc>
+    
+ 
+    <revisionDesc>
+      
+  
+      <change>
+        
+   
+        <date>19 June 2018</date>
+        
+   
+        <respStmt>
+          
+    
+          <name>Juntao Yu</name>
+          
+    
+          <resp>Automatic Processing</resp>
+          
+   
+        </respStmt>
+        
+   
+        <TEIitem>Sentence split, tokenization, pos tagging, mention extraction, named entity recoganation and mention head finding</TEIitem>
+        
+  
+      </change>
+      
+ 
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <primaryData end="513" start="0">
+    
+
+    <textualContent>
+Sammy was seven years old. He loved to read, so his mother took him to the library. She told him to choose some books. While Sammy was looking at the books, his mother looked at the CDs. She loved to listen to music. Sammy chose ten books and the library said he could borrow them for one month. His mother chose three CDs but she could only borrow them for seven days. Sammy s books were free but his mother had to pay $2 for each CD. When they got home
+Sammy read his books and his mother listened to her music!
+</textualContent>
+    
+
+  </primaryData>
+  
+
+  <body>
+    
+ 
+    <section>
+      
+  
+      <p id="p1">
+        
+   
+        <s id="s1">
+          
+    
+          <ne head="AAh1" id="ne1" ner="abstract">
+            
+     
+            <nphead id="AAh1">
+              
+      
+              <W Lpos="NNP" end="5" start="0">Sammy</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="9" start="6">was</W>
+          
+    
+          <ne head="AAh2" id="ne2" ner="time">
+            
+     
+            <W Lpos="CD" end="15" start="10">seven</W>
+            
+     
+            <nphead id="AAh2">
+              
+      
+              <W Lpos="NNS" end="21" start="16">years</W>
+              
+     
+            </nphead>
+            
+     
+            <W Lpos="JJ" end="25" start="22">old</W>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="26" start="25">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s2">
+          
+    
+          <ne head="AAh5" id="ne3" ner="person">
+            
+     
+            <nphead id="AAh5">
+              
+      
+              <W Lpos="PRP" end="29" start="27">He</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="35" start="30">loved</W>
+          
+    
+          <W Lpos="TO" end="38" start="36">to</W>
+          
+    
+          <W Lpos="VB" end="43" start="39">read</W>
+          
+    
+          <W Lpos="," end="44" start="43">,</W>
+          
+    
+          <W Lpos="IN" end="47" start="45">so</W>
+          
+    
+          <ne head="AAh3" id="ne4" ner="person">
+            
+     
+            <ne head="AAh6" id="ne5" ner="person">
+              
+      
+              <nphead id="AAh6">
+                
+       
+                <W Lpos="PRP$" end="51" start="48">his</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <nphead id="AAh3">
+              
+      
+              <W Lpos="NN" end="58" start="52">mother</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="63" start="59">took</W>
+          
+    
+          <ne head="AAh7" id="ne6" ner="person">
+            
+     
+            <nphead id="AAh7">
+              
+      
+              <W Lpos="PRP" end="67" start="64">him</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="TO" end="70" start="68">to</W>
+          
+    
+          <ne head="AAh4" id="ne7" ner="space">
+            
+     
+            <W Lpos="DT" end="74" start="71">the</W>
+            
+     
+            <nphead id="AAh4">
+              
+      
+              <W Lpos="NN" end="82" start="75">library</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="83" start="82">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s3">
+          
+    
+          <ne head="AAh9" id="ne8" ner="person">
+            
+     
+            <nphead id="AAh9">
+              
+      
+              <W Lpos="PRP" end="87" start="84">She</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="92" start="88">told</W>
+          
+    
+          <ne head="AAh10" id="ne9" ner="person">
+            
+     
+            <nphead id="AAh10">
+              
+      
+              <W Lpos="PRP" end="96" start="93">him</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="TO" end="99" start="97">to</W>
+          
+    
+          <W Lpos="VB" end="106" start="100">choose</W>
+          
+    
+          <ne head="AAh8" id="ne10" ner="unknown">
+            
+     
+            <W Lpos="DT" end="111" start="107">some</W>
+            
+     
+            <nphead id="AAh8">
+              
+      
+              <W Lpos="NNS" end="117" start="112">books</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="118" start="117">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s4">
+          
+    
+          <W Lpos="IN" end="124" start="119">While</W>
+          
+    
+          <ne head="AAh14" id="ne11" ner="person">
+            
+     
+            <nphead id="AAh14">
+              
+      
+              <W Lpos="NNP" end="130" start="125">Sammy</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="134" start="131">was</W>
+          
+    
+          <W Lpos="VBG" end="142" start="135">looking</W>
+          
+    
+          <W Lpos="IN" end="145" start="143">at</W>
+          
+    
+          <ne head="AAh11" id="ne12" ner="concrete">
+            
+     
+            <W Lpos="DT" end="149" start="146">the</W>
+            
+     
+            <nphead id="AAh11">
+              
+      
+              <W Lpos="NNS" end="155" start="150">books</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="," end="156" start="155">,</W>
+          
+    
+          <ne head="AAh12" id="ne13" ner="person">
+            
+     
+            <ne head="AAh15" id="ne14" ner="person">
+              
+      
+              <nphead id="AAh15">
+                
+       
+                <W Lpos="PRP$" end="160" start="157">his</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <nphead id="AAh12">
+              
+      
+              <W Lpos="NN" end="167" start="161">mother</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="174" start="168">looked</W>
+          
+    
+          <W Lpos="IN" end="177" start="175">at</W>
+          
+    
+          <ne head="AAh13" id="ne15" ner="concrete">
+            
+     
+            <W Lpos="DT" end="181" start="178">the</W>
+            
+     
+            <nphead id="AAh13">
+              
+      
+              <W Lpos="NNS" end="185" start="182">CDs</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="186" start="185">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s5">
+          
+    
+          <ne head="AAh16" id="ne16" ner="person">
+            
+     
+            <nphead id="AAh16">
+              
+      
+              <W Lpos="PRP" end="190" start="187">She</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="196" start="191">loved</W>
+          
+    
+          <W Lpos="TO" end="199" start="197">to</W>
+          
+    
+          <W Lpos="VB" end="206" start="200">listen</W>
+          
+    
+          <W Lpos="TO" end="209" start="207">to</W>
+          
+    
+          <ne head="AAh17" id="ne17" ner="abstract">
+            
+     
+            <nphead id="AAh17">
+              
+      
+              <W Lpos="NN" end="215" start="210">music</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="216" start="215">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s6">
+          
+    
+          <ne head="AAh21" id="ne18" ner="unknown">
+            
+     
+            <ne head="AAh20" id="ne19" ner="organization">
+              
+      
+              <nphead id="AAh20">
+                
+       
+                <W Lpos="NNP" end="222" start="217">Sammy</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <W Lpos="VBD" end="228" start="223">chose</W>
+            
+     
+            <W Lpos="CD" end="232" start="229">ten</W>
+            
+     
+            <ne head="AAh21" id="ne20" ner="unknown">
+              
+      
+              <ne head="AAh21" id="ne21" ner="concrete">
+                
+       
+                <nphead id="AAh21">
+                  
+        
+                  <W Lpos="NNS" end="238" start="233">books</W>
+                  
+       
+                </nphead>
+                
+      
+              </ne>
+              
+      
+              <W Lpos="CC" end="242" start="239">and</W>
+              
+      
+              <ne head="AAh18" id="ne22" ner="concrete">
+                
+       
+                <W Lpos="DT" end="246" start="243">the</W>
+                
+       
+                <nphead id="AAh18">
+                  
+        
+                  <W Lpos="NN" end="254" start="247">library</W>
+                  
+       
+                </nphead>
+                
+      
+              </ne>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="259" start="255">said</W>
+          
+    
+          <ne head="AAh22" id="ne23" ner="person">
+            
+     
+            <nphead id="AAh22">
+              
+      
+              <W Lpos="PRP" end="262" start="260">he</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="MD" end="268" start="263">could</W>
+          
+    
+          <W Lpos="VB" end="275" start="269">borrow</W>
+          
+    
+          <ne head="AAh23" id="ne24" ner="concrete">
+            
+     
+            <nphead id="AAh23">
+              
+      
+              <W Lpos="PRP" end="280" start="276">them</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="IN" end="284" start="281">for</W>
+          
+    
+          <ne head="AAh19" id="ne25" ner="time">
+            
+     
+            <W Lpos="CD" end="288" start="285">one</W>
+            
+     
+            <nphead id="AAh19">
+              
+      
+              <W Lpos="NN" end="294" start="289">month</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="295" start="294">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s7">
+          
+    
+          <ne head="AAh24" id="ne26" ner="person">
+            
+     
+            <ne head="AAh27" id="ne27" ner="person">
+              
+      
+              <nphead id="AAh27">
+                
+       
+                <W Lpos="PRP$" end="299" start="296">His</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <nphead id="AAh24">
+              
+      
+              <W Lpos="NN" end="306" start="300">mother</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="312" start="307">chose</W>
+          
+    
+          <ne head="AAh25" id="ne28" ner="abstract">
+            
+     
+            <W Lpos="CD" end="318" start="313">three</W>
+            
+     
+            <nphead id="AAh25">
+              
+      
+              <W Lpos="NNS" end="322" start="319">CDs</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="CC" end="326" start="323">but</W>
+          
+    
+          <ne head="AAh28" id="ne29" ner="person">
+            
+     
+            <nphead id="AAh28">
+              
+      
+              <W Lpos="PRP" end="330" start="327">she</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="MD" end="336" start="331">could</W>
+          
+    
+          <W Lpos="RB" end="341" start="337">only</W>
+          
+    
+          <W Lpos="VB" end="348" start="342">borrow</W>
+          
+    
+          <ne head="AAh29" id="ne30" ner="person">
+            
+     
+            <nphead id="AAh29">
+              
+      
+              <W Lpos="PRP" end="353" start="349">them</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="IN" end="357" start="354">for</W>
+          
+    
+          <ne head="AAh26" id="ne31" ner="time">
+            
+     
+            <W Lpos="CD" end="363" start="358">seven</W>
+            
+     
+            <nphead id="AAh26">
+              
+      
+              <W Lpos="NNS" end="368" start="364">days</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="369" start="368">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s8">
+          
+    
+          <ne head="AAh35" id="ne32" ner="concrete">
+            
+     
+            <ne head="AAh30" id="ne33" ner="concrete">
+              
+      
+              <W Lpos="JJ" end="375" start="370">Sammy</W>
+              
+      
+              <nphead id="AAh30">
+                
+       
+                <W Lpos="NN" end="377" start="376">s</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <nphead id="AAh35">
+              
+      
+              <W Lpos="NNS" end="383" start="378">books</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="388" start="384">were</W>
+          
+    
+          <W Lpos="JJ" end="393" start="389">free</W>
+          
+    
+          <W Lpos="CC" end="397" start="394">but</W>
+          
+    
+          <ne head="AAh31" id="ne34" ner="person">
+            
+     
+            <ne head="AAh34" id="ne35" ner="person">
+              
+      
+              <nphead id="AAh34">
+                
+       
+                <W Lpos="PRP$" end="401" start="398">his</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <nphead id="AAh31">
+              
+      
+              <W Lpos="NN" end="408" start="402">mother</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="412" start="409">had</W>
+          
+    
+          <W Lpos="TO" end="415" start="413">to</W>
+          
+    
+          <W Lpos="VB" end="419" start="416">pay</W>
+          
+    
+          <ne head="AAh32" id="ne36" ner="numerical">
+            
+     
+            <W Lpos="$" end="421" start="420">$</W>
+            
+     
+            <nphead id="AAh32">
+              
+      
+              <W Lpos="CD" end="422" start="421">2</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="IN" end="426" start="423">for</W>
+          
+    
+          <ne head="AAh33" id="ne37" ner="unknown">
+            
+     
+            <W Lpos="DT" end="431" start="427">each</W>
+            
+     
+            <nphead id="AAh33">
+              
+      
+              <W Lpos="NNP" end="434" start="432">CD</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="435" start="434">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s9">
+          
+    
+          <W Lpos="WRB" end="440" start="436">When</W>
+          
+    
+          <ne head="AAh36" id="ne38" ner="person">
+            
+     
+            <nphead id="AAh36">
+              
+      
+              <W Lpos="PRP" end="445" start="441">they</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="449" start="446">got</W>
+          
+    
+          <ne head="AAh37" id="ne39" ner="concrete">
+            
+     
+            <nphead id="AAh37">
+              
+      
+              <W Lpos="NN" end="454" start="450">home</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+   
+        </s>
+        
+  
+      </p>
+      
+  
+      <p id="p2">
+        
+   
+        <s id="s10">
+          
+    
+          <ne head="AAh41" id="ne40" ner="person">
+            
+     
+            <nphead id="AAh41">
+              
+      
+              <W Lpos="NNP" end="460" start="455">Sammy</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="465" start="461">read</W>
+          
+    
+          <ne head="AAh38" id="ne41" ner="unknown">
+            
+     
+            <ne head="AAh38" id="ne42" ner="concrete">
+              
+      
+              <ne head="AAh42" id="ne43" ner="person">
+                
+       
+                <nphead id="AAh42">
+                  
+        
+                  <W Lpos="PRP$" end="469" start="466">his</W>
+                  
+       
+                </nphead>
+                
+      
+              </ne>
+              
+      
+              <nphead id="AAh38">
+                
+       
+                <W Lpos="NNS" end="475" start="470">books</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <W Lpos="CC" end="479" start="476">and</W>
+            
+     
+            <ne head="AAh39" id="ne44" ner="person">
+              
+      
+              <ne head="AAh43" id="ne45" ner="person">
+                
+       
+                <nphead id="AAh43">
+                  
+        
+                  <W Lpos="PRP$" end="483" start="480">his</W>
+                  
+       
+                </nphead>
+                
+      
+              </ne>
+              
+      
+              <nphead id="AAh39">
+                
+       
+                <W Lpos="NN" end="490" start="484">mother</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="499" start="491">listened</W>
+          
+    
+          <W Lpos="TO" end="502" start="500">to</W>
+          
+    
+          <ne head="AAh40" id="ne46" ner="concrete">
+            
+     
+            <ne head="AAh44" id="ne47" ner="person">
+              
+      
+              <nphead id="AAh44">
+                
+       
+                <W Lpos="PRP$" end="506" start="503">her</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <nphead id="AAh40">
+              
+      
+              <W Lpos="NN" end="512" start="507">music</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="513" start="512">!</W>
+          
+   
+        </s>
+        
+  
+      </p>
+      
+ 
+    </section>
+    
+
+  </body>
+  
+
+</dalidoc>

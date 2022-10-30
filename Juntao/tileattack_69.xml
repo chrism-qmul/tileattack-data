@@ -1,0 +1,2066 @@
+<?xml version="1.0" ?>
+<gnomedoc>
+  
+
+  <header>
+    
+	
+    <fileDesc>
+      
+		
+      <titleStmt>
+        
+			
+        <title>Taro Tsujimoto</title>
+        
+			
+        <author>Wikipedia</author>
+        
+		
+      </titleStmt>
+      
+		
+      <publicationStmt>
+        
+			
+        <web>
+          
+				
+          <publisher>Wikipedia</publisher>
+          
+				
+          <url>http://en.wikipedia.org/wiki/Taro_Tsujimoto</url>
+          
+			
+        </web>
+        
+			
+        <availability>All text is available under the terms of the GNU Free Documentation License</availability>
+        
+			
+        <date>19 December 2008</date>
+        
+		
+      </publicationStmt>
+      
+		
+      <sourceDesc>
+        
+			
+        <filename>data\game\wikipedia\unusual\Taro_Tsujimoto.htm</filename>
+        
+			
+        <date>19 December 2008</date>
+        
+		
+      </sourceDesc>
+      
+	
+    </fileDesc>
+    
+	
+    <revisionDesc>
+      
+		
+      <change>
+        
+			
+        <date>21 June 2017</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Juntao Yu</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Mentions extracted from dependency parser</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>23 Apr 2016</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Phrase Detectives (Jon Chamberlain)</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Exported the document and annotations from the Phrase Detectives game</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>19 December 2008</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Mark Schellhase</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>File converted to MASXML by automatic processing from HTML</TEIitem>
+        
+		
+      </change>
+      
+	
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <body>
+    
+	
+    <section>
+      
+		
+      <p id="p152">
+        
+			
+        <s id="s380">
+          
+				
+          <ne AAgf="nsubj" id="ne2511">
+            
+					
+            <W Lpos="NNP">Taro</W>
+            
+					
+            <nphead id="AAh2510">
+              
+						
+              <W Lpos="NNP">Tsujimoto</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <ne AAgf="ROOT" id="ne2512">
+            
+					
+            <W Lpos="DT">an</W>
+            
+					
+            <W Lpos="JJ">imaginary</W>
+            
+					
+            <W Lpos="NN">ice</W>
+            
+					
+            <W Lpos="NN">hockey</W>
+            
+					
+            <nphead id="AAh2511">
+              
+						
+              <W Lpos="NN">player</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="WDT">that</W>
+            
+					
+            <W Lpos="VBD">was</W>
+            
+					
+            <W Lpos="RB">legally</W>
+            
+					
+            <W Lpos="VBN">drafted</W>
+            
+					
+            <W Lpos="IN">by</W>
+            
+					
+            <ne AAgf="pobj" id="ne2513">
+              
+						
+              <ne AAgf="poss" id="ne2514">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="NNP">National</W>
+                
+							
+                <W Lpos="NNP">Hockey</W>
+                
+							
+                <nphead id="AAh2512">
+                  
+								
+                  <W Lpos="NNP">League</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="POS">'s</W>
+                
+						
+              </ne>
+              
+						
+              <W Lpos="NNP">Buffalo</W>
+              
+						
+              <nphead id="AAh2513">
+                
+							
+                <W Lpos="NNP">Sabres</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="IN">in</W>
+            
+					
+            <ne AAgf="pobj" id="ne2515">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="JJ">11th</W>
+              
+						
+              <nphead id="AAh2514">
+                
+							
+                <W Lpos="NN">round</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne2516">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="CD">1974</W>
+                
+							
+                <W Lpos="NNP">NHL</W>
+                
+							
+                <W Lpos="NNP">Entry</W>
+                
+							
+                <nphead id="AAh2515">
+                  
+								
+                  <W Lpos="NNP">Draft</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p153">
+        
+			
+        <s id="s381">
+          
+				
+          <ne AAgf="nsubjpass" id="ne2517">
+            
+					
+            <ne AAgf="poss" id="ne2518">
+              
+						
+              <W Lpos="DT">The</W>
+              
+						
+              <nphead id="AAh2516">
+                
+							
+                <W Lpos="NNP">Sabres</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="POS">'</W>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="NNP">General</W>
+            
+					
+            <nphead id="AAh2517">
+              
+						
+              <W Lpos="NNP">Manager</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">at</W>
+            
+					
+            <ne AAgf="pobj" id="ne2519">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh2518">
+                
+							
+                <W Lpos="NN">time</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <ne AAgf="appos" id="ne2520">
+              
+						
+              <W Lpos="NNP">Punch</W>
+              
+						
+              <nphead id="AAh2519">
+                
+							
+                <W Lpos="NNP">Imlach</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBD">was</W>
+          
+				
+          <W Lpos="RB">reportedly</W>
+          
+				
+          <W Lpos="VBN">fed</W>
+          
+				
+          <W Lpos="RP">up</W>
+          
+				
+          <W Lpos="IN">with</W>
+          
+				
+          <ne AAgf="pobj" id="ne2521">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="JJ">slow</W>
+            
+					
+            <W Lpos="NN">drafting</W>
+            
+					
+            <nphead id="AAh2520">
+              
+						
+              <W Lpos="NN">process</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">via</W>
+          
+				
+          <ne AAgf="pobj" id="ne2522">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh2521">
+              
+						
+              <W Lpos="NN">telephone</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s382">
+          
+				
+          <ne AAgf="nsubj" id="ne2523">
+            
+					
+            <nphead id="AAh2522">
+              
+						
+              <W Lpos="PRP">He</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">decided</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">have</W>
+          
+				
+          <ne AAgf="dobj" id="ne2524">
+            
+					
+            <W Lpos="DT">some</W>
+            
+					
+            <nphead id="AAh2523">
+              
+						
+              <W Lpos="NN">fun</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">at</W>
+            
+					
+            <ne AAgf="pobj" id="ne2525">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh2524">
+                
+							
+                <W Lpos="NN">expense</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne2526">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <nphead id="AAh2525">
+                  
+								
+                  <W Lpos="NN">league</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <W Lpos="CC">and</W>
+              
+						
+              <W Lpos="NN">President</W>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne2527">
+                
+							
+                <W Lpos="CD">28</W>
+                
+							
+                <nphead id="AAh2526">
+                  
+								
+                  <W Lpos="NNS">years</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <W Lpos=",">,</W>
+              
+						
+              <ne AAgf="appos" id="ne2528">
+                
+							
+                <W Lpos="NNP">Clarence</W>
+                
+							
+                <nphead id="AAh2527">
+                  
+								
+                  <W Lpos="NNP">Campbell</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="VBD">contacted</W>
+          
+				
+          <ne AAgf="dobj" id="ne2529">
+            
+					
+            <W Lpos="JJ">public</W>
+            
+					
+            <W Lpos="NNS">relations</W>
+            
+					
+            <W Lpos="NN">director</W>
+            
+					
+            <W Lpos="NNP">Paul</W>
+            
+					
+            <nphead id="AAh2528">
+              
+						
+              <W Lpos="NNP">Wieland</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">for</W>
+          
+				
+          <ne AAgf="pobj" id="ne2530">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="NN">translation</W>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <nphead id="AAh2529">
+              
+						
+              <W Lpos="NNP">Sabre</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">in</W>
+            
+					
+            <ne AAgf="pobj" id="ne2531">
+              
+						
+              <nphead id="AAh2530">
+                
+							
+                <W Lpos="NNP">Japanese</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <ne AAgf="conj" id="ne2532">
+              
+						
+              <W Lpos="DT">a</W>
+              
+						
+              <W Lpos="JJ">common</W>
+              
+						
+              <W Lpos="JJ">Japanese</W>
+              
+						
+              <nphead id="AAh2531">
+                
+							
+                <W Lpos="NN">name</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s383">
+          
+				
+          <W Lpos="WRB">When</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2533">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="JJ">11th</W>
+            
+					
+            <nphead id="AAh2532">
+              
+						
+              <W Lpos="NN">round</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">surfaced</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2534">
+            
+					
+            <nphead id="AAh2533">
+              
+						
+              <W Lpos="NNP">Imlach</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">chose</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">select</W>
+          
+				
+          <ne AAgf="dobj" id="ne2535">
+            
+					
+            <W Lpos="JJ">star</W>
+            
+					
+            <W Lpos="NN">center</W>
+            
+					
+            <W Lpos="NNP">Taro</W>
+            
+					
+            <nphead id="AAh2534">
+              
+						
+              <W Lpos="NNP">Tsujimoto</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne2536">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="NNP">Tokyo</W>
+              
+						
+              <nphead id="AAh2535">
+                
+							
+                <W Lpos="NNP">Katanas</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos=",">,</W>
+              
+						
+              <ne AAgf="appos" id="ne2537">
+                
+							
+                <W Lpos="DT">a</W>
+                
+							
+                <nphead id="AAh2536">
+                  
+								
+                  <W Lpos="NN">team</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="IN">from</W>
+                
+							
+                <ne AAgf="pobj" id="ne2538">
+                  
+								
+                  <W Lpos="DT">the</W>
+                  
+								
+                  <W Lpos="NNP">Japanese</W>
+                  
+								
+                  <W Lpos="NNP">Hockey</W>
+                  
+								
+                  <nphead id="AAh2537">
+                    
+									
+                    <W Lpos="NNP">League</W>
+                    
+								
+                  </nphead>
+                  
+							
+                </ne>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s384">
+          
+				
+          <ne AAgf="nsubj" id="ne2539">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <nphead id="AAh2538">
+              
+						
+              <W Lpos="NNP">NHL</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">made</W>
+          
+				
+          <ne AAgf="dobj" id="ne2540">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="NN">pick</W>
+            
+					
+            <nphead id="AAh2539">
+              
+						
+              <W Lpos="NN">official</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="IN">so</W>
+          
+				
+          <ne AAgf="nsubjpass" id="ne2541">
+            
+					
+            <nphead id="AAh2540">
+              
+						
+              <W Lpos="PRP">it</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">was</W>
+          
+				
+          <W Lpos="VBN">reported</W>
+          
+				
+          <W Lpos="IN">by</W>
+          
+				
+          <ne AAgf="pobj" id="ne2542">
+            
+					
+            <W Lpos="DT">all</W>
+            
+					
+            <W Lpos="JJ">major</W>
+            
+					
+            <W Lpos="NNS">media</W>
+            
+					
+            <nphead id="AAh2541">
+              
+						
+              <W Lpos="NNS">outlets</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="VBG">including</W>
+            
+					
+            <ne AAgf="pobj" id="ne2543">
+              
+						
+              <W Lpos="JJ">reputable</W>
+              
+						
+              <W Lpos="NN">magazine</W>
+              
+						
+              <W Lpos="NNP">The</W>
+              
+						
+              <W Lpos="NNP">Hockey</W>
+              
+						
+              <nphead id="AAh2542">
+                
+							
+                <W Lpos="NNP">News</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p154">
+        
+			
+        <s id="s385">
+          
+				
+          <ne AAgf="nsubj" id="ne2544">
+            
+					
+            <nphead id="AAh2543">
+              
+						
+              <W Lpos="NNP">Imlach</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">did</W>
+          
+				
+          <W Lpos="RB">not</W>
+          
+				
+          <W Lpos="VB">clear</W>
+          
+				
+          <ne AAgf="dobj" id="ne2545">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh2544">
+              
+						
+              <W Lpos="NN">air</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">about</W>
+            
+					
+            <ne AAgf="pobj" id="ne2546">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="JJ">fake</W>
+              
+						
+              <W Lpos="NN">draft</W>
+              
+						
+              <nphead id="AAh2545">
+                
+							
+                <W Lpos="NN">pick</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">until</W>
+              
+						
+              <ne AAgf="npadvmod" id="ne2547">
+                
+							
+                <nphead id="AAh2546">
+                  
+								
+                  <W Lpos="NNS">weeks</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <W Lpos="RB">later</W>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s386">
+          
+				
+          <ne AAgf="nsubj" id="ne2548">
+            
+					
+            <nphead id="AAh2547">
+              
+						
+              <W Lpos="PRP">He</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">admitted</W>
+          
+				
+          <W Lpos="IN">that</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2549">
+            
+					
+            <nphead id="AAh2548">
+              
+						
+              <W Lpos="PRP">he</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">had</W>
+          
+				
+          <W Lpos="VBN">made</W>
+          
+				
+          <W Lpos="RP">up</W>
+          
+				
+          <ne AAgf="dobj" id="ne2550">
+            
+					
+            <W Lpos="NNP">Taro</W>
+            
+					
+            <nphead id="AAh2549">
+              
+						
+              <W Lpos="NNP">Tsujimoto</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="VBN">based</W>
+            
+					
+            <W Lpos="IN">on</W>
+            
+					
+            <ne AAgf="pobj" id="ne2551">
+              
+						
+              <W Lpos="DT">a</W>
+              
+						
+              <nphead id="AAh2550">
+                
+							
+                <W Lpos="NN">name</W>
+                
+						
+              </nphead>
+              
+						
+              <ne AAgf="nsubj" id="ne2552">
+                
+							
+                <nphead id="AAh2551">
+                  
+								
+                  <W Lpos="PRP">he</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <W Lpos="VBD">found</W>
+              
+						
+              <W Lpos="IN">in</W>
+              
+						
+              <ne AAgf="pobj" id="ne2553">
+                
+							
+                <W Lpos="DT">a</W>
+                
+							
+                <W Lpos="JJ">Buffalo-area</W>
+                
+							
+                <W Lpos="NN">phone</W>
+                
+							
+                <nphead id="AAh2552">
+                  
+								
+                  <W Lpos="NN">book</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <W Lpos=",">,</W>
+              
+						
+              <W Lpos="CC">and</W>
+              
+						
+              <ne AAgf="conj" id="ne2554">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="NN">team</W>
+                
+							
+                <nphead id="AAh2553">
+                  
+								
+                  <W Lpos="NN">name</W>
+                  
+							
+                </nphead>
+                
+							
+                <ne AAgf="nsubj" id="ne2555">
+                  
+								
+                  <W Lpos="NNP">Tokyo</W>
+                  
+								
+                  <nphead id="AAh2554">
+                    
+									
+                    <W Lpos="NNP">Katanas</W>
+                    
+								
+                  </nphead>
+                  
+							
+                </ne>
+                
+							
+                <W Lpos="VBD">translated</W>
+                
+							
+                <W Lpos="RB">loosely</W>
+                
+							
+                <W Lpos="IN">into</W>
+                
+							
+                <ne AAgf="pobj" id="ne2556">
+                  
+								
+                  <nphead id="AAh2555">
+                    
+									
+                    <W Lpos="NNP">English</W>
+                    
+								
+                  </nphead>
+                  
+							
+                </ne>
+                
+							
+                <W Lpos="IN">as</W>
+                
+							
+                <ne AAgf="pobj" id="ne2557">
+                  
+								
+                  <W Lpos="NNP">Tokyo</W>
+                  
+								
+                  <nphead id="AAh2556">
+                    
+									
+                    <W Lpos="NNP">Sabres</W>
+                    
+								
+                  </nphead>
+                  
+							
+                </ne>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s387">
+          
+				
+          <ne AAgf="nsubj" id="ne2558">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <nphead id="AAh2557">
+              
+						
+              <W Lpos="NNP">NHL</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="MD">would</W>
+          
+				
+          <W Lpos="RB">eventually</W>
+          
+				
+          <W Lpos="VB">change</W>
+          
+				
+          <ne AAgf="dobj" id="ne2559">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh2558">
+              
+						
+              <W Lpos="NN">pick</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <ne AAgf="pobj" id="ne2560">
+            
+					
+            <W Lpos="DT">an</W>
+            
+					
+            <W Lpos="RBS">&quot;</W>
+            
+					
+            <W Lpos="JJ">invalid</W>
+            
+					
+            <nphead id="AAh2559">
+              
+						
+              <W Lpos="NN">claim</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <ne AAgf="pobj" id="ne2561">
+            
+					
+            <nphead id="AAh2560">
+              
+						
+              <W Lpos="NN">&quot;</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="pobj" id="ne2562">
+              
+						
+              <ne AAgf="poss" id="ne2563">
+                
+							
+                <nphead id="AAh2561">
+                  
+								
+                  <W Lpos="PRP$">its</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <W Lpos="JJ">official</W>
+              
+						
+              <W Lpos="NN">record-keeping</W>
+              
+						
+              <nphead id="AAh2562">
+                
+							
+                <W Lpos="NNS">purposes</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="-LRB-">(</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2564">
+            
+					
+            <nphead id="AAh2563">
+              
+						
+              <W Lpos="NNP">Campbell</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">not</W>
+          
+				
+          <W Lpos="VBG">finding</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2565">
+            
+					
+            <nphead id="AAh2564">
+              
+						
+              <W Lpos="PRP">it</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">nearly</W>
+          
+				
+          <W Lpos="RB">as</W>
+          
+				
+          <W Lpos="JJ">funny</W>
+          
+				
+          <W Lpos="IN">as</W>
+          
+				
+          <ne AAgf="pobj" id="ne2566">
+            
+					
+            <nphead id="AAh2565">
+              
+						
+              <W Lpos="NNP">Imlach</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="-RRB-">)</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">but</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2567">
+            
+					
+            <nphead id="AAh2566">
+              
+						
+              <W Lpos="DT">this</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">was</W>
+          
+				
+          <W Lpos="IN">after</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2568">
+            
+					
+            <ne AAgf="poss" id="ne2569">
+              
+						
+              <nphead id="AAh2567">
+                
+							
+                <W Lpos="NNP">Tsujimoto</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="POS">'s</W>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh2568">
+              
+						
+              <W Lpos="NN">name</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">had</W>
+          
+				
+          <W Lpos="VBN">appeared</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <W Lpos="JJ">several</W>
+          
+				
+          <W Lpos="IN">of</W>
+          
+				
+          <ne AAgf="pobj" id="ne2570">
+            
+					
+            <W Lpos="NNP">NHL</W>
+            
+					
+            <nphead id="AAh2569">
+              
+						
+              <W Lpos="NNP">Guide</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <ne AAgf="conj" id="ne2571">
+              
+						
+              <W Lpos="NNP">Record</W>
+              
+						
+              <nphead id="AAh2570">
+                
+							
+                <W Lpos="NNP">Books</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s388">
+          
+				
+          <ne AAgf="nsubjpass" id="ne2572">
+            
+					
+            <nphead id="AAh2571">
+              
+						
+              <W Lpos="NNP">Tsujimoto</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <W Lpos="RB">still</W>
+          
+				
+          <W Lpos="VBN">listed</W>
+          
+				
+          <W Lpos="IN">among</W>
+          
+				
+          <ne AAgf="pobj" id="ne2573">
+            
+					
+            <ne AAgf="poss" id="ne2574">
+              
+						
+              <nphead id="AAh2572">
+                
+							
+                <W Lpos="NNS">Sabres</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="POS">'</W>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="NN">draft</W>
+            
+					
+            <nphead id="AAh2573">
+              
+						
+              <W Lpos="NNS">picks</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">in</W>
+            
+					
+            <ne AAgf="pobj" id="ne2575">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="NNP">Sabres</W>
+              
+						
+              <W Lpos="NNP">media</W>
+              
+						
+              <nphead id="AAh2574">
+                
+							
+                <W Lpos="NN">guide</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p155">
+        
+			
+        <s id="s389">
+          
+				
+          <ne AAgf="nsubj" id="ne2576">
+            
+					
+            <nphead id="AAh2575">
+              
+						
+              <W Lpos="NNP">Taro</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <ne AAgf="ROOT" id="ne2577">
+            
+					
+            <W Lpos="RB">quickly</W>
+            
+					
+            <W Lpos="VBD">became</W>
+            
+					
+            <W Lpos="DT">an</W>
+            
+					
+            <W Lpos="JJ">inside</W>
+            
+					
+            <nphead id="AAh2576">
+              
+						
+              <W Lpos="NN">joke</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="pobj" id="ne2578">
+              
+						
+              <ne AAgf="poss" id="ne2579">
+                
+							
+                <nphead id="AAh2577">
+                  
+								
+                  <W Lpos="NNP">Sabres</W>
+                  
+							
+                </nphead>
+                
+							
+                <W Lpos="POS">'</W>
+                
+						
+              </ne>
+              
+						
+              <nphead id="AAh2578">
+                
+							
+                <W Lpos="NNS">fans</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="CC">and</W>
+              
+						
+              <W Lpos="NNS">staffers</W>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s390">
+          
+				
+          <W Lpos="IN">For</W>
+          
+				
+          <ne AAgf="pobj" id="ne2580">
+            
+					
+            <nphead id="AAh2579">
+              
+						
+              <W Lpos="NNS">years</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">after</W>
+            
+					
+            <ne AAgf="pobj" id="ne2581">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh2580">
+                
+							
+                <W Lpos="NN">pick</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2582">
+            
+					
+            <nphead id="AAh2581">
+              
+						
+              <W Lpos="NNS">fans</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="MD">would</W>
+          
+				
+          <W Lpos="VB">chant</W>
+          
+				
+          <W Lpos="NNP">&quot;</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2583">
+            
+					
+            <nphead id="AAh2582">
+              
+						
+              <W Lpos="NNP">We</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <ne AAgf="ccomp" id="ne2584">
+            
+					
+            <nphead id="AAh2583">
+              
+						
+              <W Lpos="NNP">Want</W>
+              
+					
+            </nphead>
+            
+					
+            <ne AAgf="dobj" id="ne2585">
+              
+						
+              <nphead id="AAh2584">
+                
+							
+                <W Lpos="NNP">Taro</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">&quot;</W>
+          
+				
+          <W Lpos="WRB">when</W>
+          
+				
+          <ne AAgf="nsubj" id="ne2586">
+            
+					
+            <nphead id="AAh2585">
+              
+						
+              <W Lpos="NNS">games</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">at</W>
+            
+					
+            <ne AAgf="pobj" id="ne2587">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="NNP">Buffalo</W>
+              
+						
+              <W Lpos="NNP">Memorial</W>
+              
+						
+              <nphead id="AAh2586">
+                
+							
+                <W Lpos="NNP">Auditorium</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">got</W>
+          
+				
+          <W Lpos="VBN">one-sided</W>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+	
+    </section>
+    
+
+  </body>
+  
+
+</gnomedoc>

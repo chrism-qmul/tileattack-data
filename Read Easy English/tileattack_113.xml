@@ -1,0 +1,1394 @@
+<?xml version="1.0" ?>
+<dalidoc>
+  
+
+  <header>
+    
+ 
+    <fileDesc>
+      
+  
+      <titleStmt>
+        
+   
+        <title>No food</title>
+        
+   
+        <author>unknown</author>
+        
+  
+      </titleStmt>
+      
+  
+      <categoryStmt>ReadEasyEnglish</categoryStmt>
+      
+  
+      <difficultyStmt>A</difficultyStmt>
+      
+  
+      <publicationStmt>
+        
+   
+        <web>
+          
+    
+          <publisher>FLAX</publisher>
+          
+    
+          <url>http://flax.nzdl.org/greenstone3/flax?a=b&amp;rt=r&amp;s=ClassifierBrowse&amp;c=flaxc252&amp;cl=CL1&amp;if=&amp;cls=</url>
+          
+   
+        </web>
+        
+   
+        <availability>GNU General Public License</availability>
+        
+   
+        <date>19 June 2018</date>
+        
+  
+      </publicationStmt>
+      
+  
+      <sourceDesc>
+        
+   
+        <filename>data\game\DALI-LEARN\Read_Easy_English\A_no_food.txt</filename>
+        
+   
+        <date>19 June 2018</date>
+        
+  
+      </sourceDesc>
+      
+ 
+    </fileDesc>
+    
+ 
+    <revisionDesc>
+      
+  
+      <change>
+        
+   
+        <date>19 June 2018</date>
+        
+   
+        <respStmt>
+          
+    
+          <name>Juntao Yu</name>
+          
+    
+          <resp>Automatic Processing</resp>
+          
+   
+        </respStmt>
+        
+   
+        <TEIitem>Sentence split, tokenization, pos tagging, mention extraction, named entity recoganation and mention head finding</TEIitem>
+        
+  
+      </change>
+      
+ 
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <primaryData end="633" start="0">
+    
+
+    <textualContent>
+Sammy looked out the window and saw his cousins coming to visit. Oh, no! He hadn t been to the supermarket for days.
+He didn t think he had any food in the house. Quickly Sammy looked in the cupboard. He found some rice. Good start! He looked in the fridge. He found some frozen peas. Ok!
+He looked in the back of the cupboard by the sink. He found a tin of tomatoes. Fine!
+Sammy put the rice on to cook. He turned on the TV for his cousins.  Sammy, we re hungry!   Sammy smiled at his young cousins.
+ Today we are having stop and go rice! Red tomato rice to stop and green pea rice to go!  His cousins laughed and looked very happy.
+</textualContent>
+    
+
+  </primaryData>
+  
+
+  <body>
+    
+ 
+    <section>
+      
+  
+      <p id="p1">
+        
+   
+        <s id="s1">
+          
+    
+          <ne head="AAh3" id="ne1" ner="person">
+            
+     
+            <nphead id="AAh3">
+              
+      
+              <W Lpos="NNP" end="5" start="0">Sammy</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="12" start="6">looked</W>
+          
+    
+          <W Lpos="RP" end="16" start="13">out</W>
+          
+    
+          <ne head="AAh1" id="ne2" ner="concrete">
+            
+     
+            <W Lpos="DT" end="20" start="17">the</W>
+            
+     
+            <nphead id="AAh1">
+              
+      
+              <W Lpos="NN" end="27" start="21">window</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="CC" end="31" start="28">and</W>
+          
+    
+          <W Lpos="VBD" end="35" start="32">saw</W>
+          
+    
+          <ne head="AAh2" id="ne3" ner="person">
+            
+     
+            <ne head="AAh4" id="ne4" ner="person">
+              
+      
+              <nphead id="AAh4">
+                
+       
+                <W Lpos="PRP$" end="39" start="36">his</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <nphead id="AAh2">
+              
+      
+              <W Lpos="NNS" end="47" start="40">cousins</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBG" end="54" start="48">coming</W>
+          
+    
+          <W Lpos="TO" end="57" start="55">to</W>
+          
+    
+          <W Lpos="VB" end="63" start="58">visit</W>
+          
+    
+          <W Lpos="." end="64" start="63">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s2">
+          
+    
+          <W Lpos="UH" end="67" start="65">Oh</W>
+          
+    
+          <W Lpos="," end="68" start="67">,</W>
+          
+    
+          <W Lpos="DT" end="71" start="69">no</W>
+          
+    
+          <W Lpos="." end="72" start="71">!</W>
+          
+   
+        </s>
+        
+   
+        <s id="s3">
+          
+    
+          <ne head="AAh6" id="ne5" ner="person">
+            
+     
+            <nphead id="AAh6">
+              
+      
+              <W Lpos="PRP" end="75" start="73">He</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="80" start="76">hadn</W>
+          
+    
+          <ne head="AAh7" id="ne6" ner="concrete">
+            
+     
+            <nphead id="AAh7">
+              
+      
+              <W Lpos="NN" end="82" start="81">t</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBN" end="87" start="83">been</W>
+          
+    
+          <W Lpos="TO" end="90" start="88">to</W>
+          
+    
+          <ne head="AAh5" id="ne7" ner="organization">
+            
+     
+            <W Lpos="DT" end="94" start="91">the</W>
+            
+     
+            <nphead id="AAh5">
+              
+      
+              <W Lpos="NN" end="106" start="95">supermarket</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="IN" end="110" start="107">for</W>
+          
+    
+          <ne head="AAh8" id="ne8" ner="time">
+            
+     
+            <nphead id="AAh8">
+              
+      
+              <W Lpos="NNS" end="115" start="111">days</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="116" start="115">.</W>
+          
+   
+        </s>
+        
+  
+      </p>
+      
+  
+      <p id="p2">
+        
+   
+        <s id="s4">
+          
+    
+          <ne head="AAh10" id="ne9" ner="person">
+            
+     
+            <nphead id="AAh10">
+              
+      
+              <W Lpos="PRP" end="119" start="117">He</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="124" start="120">didn</W>
+          
+    
+          <ne head="AAh11" id="ne10" ner="person">
+            
+     
+            <nphead id="AAh11">
+              
+      
+              <W Lpos="NN" end="126" start="125">t</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="NN" end="132" start="127">think</W>
+          
+    
+          <ne head="AAh12" id="ne11" ner="person">
+            
+     
+            <nphead id="AAh12">
+              
+      
+              <W Lpos="PRP" end="135" start="133">he</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="139" start="136">had</W>
+          
+    
+          <ne head="AAh13" id="ne12" ner="unknown">
+            
+     
+            <W Lpos="DT" end="143" start="140">any</W>
+            
+     
+            <ne head="AAh13" id="ne13" ner="concrete">
+              
+      
+              <ne head="AAh13" id="ne14" ner="concrete">
+                
+       
+                <nphead id="AAh13">
+                  
+        
+                  <W Lpos="NN" end="148" start="144">food</W>
+                  
+       
+                </nphead>
+                
+      
+              </ne>
+              
+      
+              <W Lpos="IN" end="151" start="149">in</W>
+              
+      
+              <ne head="AAh9" id="ne15" ner="concrete">
+                
+       
+                <W Lpos="DT" end="155" start="152">the</W>
+                
+       
+                <nphead id="AAh9">
+                  
+        
+                  <W Lpos="NN" end="161" start="156">house</W>
+                  
+       
+                </nphead>
+                
+      
+              </ne>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="162" start="161">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s5">
+          
+    
+          <ne head="AAh14" id="ne16" ner="person">
+            
+     
+            <W Lpos="RB" end="170" start="163">Quickly</W>
+            
+     
+            <nphead id="AAh14">
+              
+      
+              <W Lpos="NNP" end="176" start="171">Sammy</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="183" start="177">looked</W>
+          
+    
+          <W Lpos="IN" end="186" start="184">in</W>
+          
+    
+          <ne head="AAh15" id="ne17" ner="concrete">
+            
+     
+            <W Lpos="DT" end="190" start="187">the</W>
+            
+     
+            <nphead id="AAh15">
+              
+      
+              <W Lpos="NN" end="199" start="191">cupboard</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="200" start="199">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s6">
+          
+    
+          <ne head="AAh17" id="ne18" ner="person">
+            
+     
+            <nphead id="AAh17">
+              
+      
+              <W Lpos="PRP" end="203" start="201">He</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="209" start="204">found</W>
+          
+    
+          <ne head="AAh16" id="ne19" ner="unknown">
+            
+     
+            <W Lpos="DT" end="214" start="210">some</W>
+            
+     
+            <ne head="AAh16" id="ne20" ner="concrete">
+              
+      
+              <nphead id="AAh16">
+                
+       
+                <W Lpos="NN" end="219" start="215">rice</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="220" start="219">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s7">
+          
+    
+          <ne head="AAh18" id="ne21" ner="unknown">
+            
+     
+            <W Lpos="JJ" end="225" start="221">Good</W>
+            
+     
+            <nphead id="AAh18">
+              
+      
+              <W Lpos="NN" end="231" start="226">start</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="232" start="231">!</W>
+          
+   
+        </s>
+        
+   
+        <s id="s8">
+          
+    
+          <ne head="AAh20" id="ne22" ner="person">
+            
+     
+            <nphead id="AAh20">
+              
+      
+              <W Lpos="PRP" end="235" start="233">He</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="242" start="236">looked</W>
+          
+    
+          <W Lpos="IN" end="245" start="243">in</W>
+          
+    
+          <ne head="AAh19" id="ne23" ner="abstract">
+            
+     
+            <W Lpos="DT" end="249" start="246">the</W>
+            
+     
+            <nphead id="AAh19">
+              
+      
+              <W Lpos="NN" end="256" start="250">fridge</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="257" start="256">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s9">
+          
+    
+          <ne head="AAh23" id="ne24" ner="person">
+            
+     
+            <nphead id="AAh23">
+              
+      
+              <W Lpos="PRP" end="260" start="258">He</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="266" start="261">found</W>
+          
+    
+          <ne head="AAh22" id="ne25" ner="space">
+            
+     
+            <ne head="AAh21" id="ne26" ner="space">
+              
+      
+              <W Lpos="DT" end="271" start="267">some</W>
+              
+      
+              <ne head="AAh22" id="ne27" ner="concrete">
+                
+       
+                <ne head="AAh21" id="ne28" ner="space">
+                  
+        
+                  <nphead id="AAh21">
+                    
+         
+                    <W Lpos="JJ" end="278" start="272">frozen</W>
+                    
+        
+                  </nphead>
+                  
+       
+                </ne>
+                
+      
+              </ne>
+              
+      
+              <nphead id="AAh22">
+                
+       
+                <W Lpos="NNS" end="283" start="279">peas</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="284" start="283">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s10">
+          
+    
+          <ne head="AAh24" id="ne29" ner="concrete">
+            
+     
+            <nphead id="AAh24">
+              
+      
+              <W Lpos="NN" end="287" start="285">Ok</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="288" start="287">!</W>
+          
+   
+        </s>
+        
+  
+      </p>
+      
+  
+      <p id="p3">
+        
+   
+        <s id="s11">
+          
+    
+          <ne head="AAh27" id="ne30" ner="person">
+            
+     
+            <nphead id="AAh27">
+              
+      
+              <W Lpos="PRP" end="291" start="289">He</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="298" start="292">looked</W>
+          
+    
+          <W Lpos="IN" end="301" start="299">in</W>
+          
+    
+          <ne head="AAh28" id="ne31" ner="abstract">
+            
+     
+            <W Lpos="DT" end="305" start="302">the</W>
+            
+     
+            <nphead id="AAh28">
+              
+      
+              <W Lpos="NN" end="310" start="306">back</W>
+              
+     
+            </nphead>
+            
+     
+            <W Lpos="IN" end="313" start="311">of</W>
+            
+     
+            <ne head="AAh25" id="ne32" ner="concrete">
+              
+      
+              <ne head="AAh25" id="ne33" ner="concrete">
+                
+       
+                <W Lpos="DT" end="317" start="314">the</W>
+                
+       
+                <nphead id="AAh25">
+                  
+        
+                  <W Lpos="NN" end="326" start="318">cupboard</W>
+                  
+       
+                </nphead>
+                
+      
+              </ne>
+              
+      
+              <W Lpos="IN" end="329" start="327">by</W>
+              
+      
+              <ne head="AAh26" id="ne34" ner="concrete">
+                
+       
+                <W Lpos="DT" end="333" start="330">the</W>
+                
+       
+                <nphead id="AAh26">
+                  
+        
+                  <W Lpos="NN" end="338" start="334">sink</W>
+                  
+       
+                </nphead>
+                
+      
+              </ne>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="339" start="338">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s12">
+          
+    
+          <ne head="AAh29" id="ne35" ner="person">
+            
+     
+            <nphead id="AAh29">
+              
+      
+              <W Lpos="PRP" end="342" start="340">He</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="348" start="343">found</W>
+          
+    
+          <ne head="AAh31" id="ne36" ner="concrete">
+            
+     
+            <W Lpos="DT" end="350" start="349">a</W>
+            
+     
+            <nphead id="AAh31">
+              
+      
+              <W Lpos="NN" end="354" start="351">tin</W>
+              
+     
+            </nphead>
+            
+     
+            <W Lpos="IN" end="357" start="355">of</W>
+            
+     
+            <ne head="AAh30" id="ne37" ner="concrete">
+              
+      
+              <nphead id="AAh30">
+                
+       
+                <W Lpos="NNS" end="366" start="358">tomatoes</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="367" start="366">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s13">
+          
+    
+          <ne head="AAh32" id="ne38" ner="concrete">
+            
+     
+            <nphead id="AAh32">
+              
+      
+              <W Lpos="NNP" end="372" start="368">Fine</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="373" start="372">!</W>
+          
+   
+        </s>
+        
+  
+      </p>
+      
+  
+      <p id="p4">
+        
+   
+        <s id="s14">
+          
+    
+          <ne head="AAh34" id="ne39" ner="person">
+            
+     
+            <nphead id="AAh34">
+              
+      
+              <W Lpos="NNP" end="379" start="374">Sammy</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="383" start="380">put</W>
+          
+    
+          <ne head="AAh33" id="ne40" ner="abstract">
+            
+     
+            <ne head="AAh33" id="ne41" ner="concrete">
+              
+      
+              <W Lpos="DT" end="387" start="384">the</W>
+              
+      
+              <nphead id="AAh33">
+                
+       
+                <W Lpos="NN" end="392" start="388">rice</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <W Lpos="IN" end="395" start="393">on</W>
+            
+     
+            <W Lpos="TO" end="398" start="396">to</W>
+            
+     
+            <ne head="AAh35" id="ne42" ner="person">
+              
+      
+              <nphead id="AAh35">
+                
+       
+                <W Lpos="NN" end="403" start="399">cook</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="404" start="403">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s15">
+          
+    
+          <ne head="AAh38" id="ne43" ner="person">
+            
+     
+            <nphead id="AAh38">
+              
+      
+              <W Lpos="PRP" end="407" start="405">He</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="414" start="408">turned</W>
+          
+    
+          <W Lpos="IN" end="417" start="415">on</W>
+          
+    
+          <ne head="AAh36" id="ne44" ner="abstract">
+            
+     
+            <W Lpos="DT" end="421" start="418">the</W>
+            
+     
+            <nphead id="AAh36">
+              
+      
+              <W Lpos="NN" end="424" start="422">TV</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="IN" end="428" start="425">for</W>
+          
+    
+          <ne head="AAh37" id="ne45" ner="person">
+            
+     
+            <ne head="AAh39" id="ne46" ner="person">
+              
+      
+              <nphead id="AAh39">
+                
+       
+                <W Lpos="PRP$" end="432" start="429">his</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <nphead id="AAh37">
+              
+      
+              <W Lpos="NNS" end="440" start="433">cousins</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="441" start="440">.</W>
+          
+   
+        </s>
+        
+   
+        <s id="s16">
+          
+    
+          <ne head="AAh40" id="ne47" ner="animate">
+            
+     
+            <nphead id="AAh40">
+              
+      
+              <W Lpos="NNP" end="448" start="443">Sammy</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="," end="449" start="448">,</W>
+          
+    
+          <ne head="AAh41" id="ne48" ner="person">
+            
+     
+            <nphead id="AAh41">
+              
+      
+              <W Lpos="PRP" end="452" start="450">we</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBP" end="455" start="453">re</W>
+          
+    
+          <W Lpos="JJ" end="462" start="456">hungry</W>
+          
+    
+          <W Lpos="." end="463" start="462">!</W>
+          
+   
+        </s>
+        
+   
+        <s id="s17">
+          
+    
+          <ne head="AAh42" id="ne49" ner="person">
+            
+     
+            <nphead id="AAh42">
+              
+      
+              <W Lpos="NNP" end="471" start="466">Sammy</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="478" start="472">smiled</W>
+          
+    
+          <W Lpos="IN" end="481" start="479">at</W>
+          
+    
+          <ne head="AAh44" id="ne50" ner="person">
+            
+     
+            <ne head="AAh43" id="ne51" ner="person">
+              
+      
+              <nphead id="AAh43">
+                
+       
+                <W Lpos="PRP$" end="485" start="482">his</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <W Lpos="JJ" end="491" start="486">young</W>
+            
+     
+            <nphead id="AAh44">
+              
+      
+              <W Lpos="NNS" end="499" start="492">cousins</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="500" start="499">.</W>
+          
+   
+        </s>
+        
+  
+      </p>
+      
+  
+      <p id="p5">
+        
+   
+        <s id="s18">
+          
+    
+          <ne head="AAh45" id="ne52" ner="time">
+            
+     
+            <nphead id="AAh45">
+              
+      
+              <W Lpos="NN" end="507" start="502">Today</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <ne head="AAh46" id="ne53" ner="organization">
+            
+     
+            <nphead id="AAh46">
+              
+      
+              <W Lpos="PRP" end="510" start="508">we</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBP" end="514" start="511">are</W>
+          
+    
+          <W Lpos="VBG" end="521" start="515">having</W>
+          
+    
+          <W Lpos="NN" end="526" start="522">stop</W>
+          
+    
+          <W Lpos="CC" end="530" start="527">and</W>
+          
+    
+          <W Lpos="VB" end="533" start="531">go</W>
+          
+    
+          <ne head="AAh47" id="ne54" ner="concrete">
+            
+     
+            <nphead id="AAh47">
+              
+      
+              <W Lpos="NN" end="538" start="534">rice</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="." end="539" start="538">!</W>
+          
+   
+        </s>
+        
+   
+        <s id="s19">
+          
+    
+          <ne head="AAh48" id="ne55" ner="concrete">
+            
+     
+            <W Lpos="JJ" end="543" start="540">Red</W>
+            
+     
+            <nphead id="AAh48">
+              
+      
+              <W Lpos="NN" end="550" start="544">tomato</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="NN" end="555" start="551">rice</W>
+          
+    
+          <W Lpos="TO" end="558" start="556">to</W>
+          
+    
+          <W Lpos="VB" end="563" start="559">stop</W>
+          
+    
+          <W Lpos="CC" end="567" start="564">and</W>
+          
+    
+          <ne head="AAh50" id="ne56" ner="concrete">
+            
+     
+            <ne head="AAh49" id="ne57" ner="concrete">
+              
+      
+              <W Lpos="JJ" end="573" start="568">green</W>
+              
+      
+              <ne head="AAh49" id="ne58" ner="concrete">
+                
+       
+                <nphead id="AAh49">
+                  
+        
+                  <W Lpos="NN" end="577" start="574">pea</W>
+                  
+       
+                </nphead>
+                
+      
+              </ne>
+              
+     
+            </ne>
+            
+     
+            <nphead id="AAh50">
+              
+      
+              <W Lpos="NN" end="582" start="578">rice</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="TO" end="585" start="583">to</W>
+          
+    
+          <W Lpos="VB" end="588" start="586">go</W>
+          
+    
+          <W Lpos="." end="589" start="588">!</W>
+          
+   
+        </s>
+        
+   
+        <s id="s20">
+          
+    
+          <ne head="AAh51" id="ne59" ner="person">
+            
+     
+            <ne head="AAh52" id="ne60" ner="person">
+              
+      
+              <nphead id="AAh52">
+                
+       
+                <W Lpos="PRP$" end="594" start="591">His</W>
+                
+      
+              </nphead>
+              
+     
+            </ne>
+            
+     
+            <nphead id="AAh51">
+              
+      
+              <W Lpos="NNS" end="602" start="595">cousins</W>
+              
+     
+            </nphead>
+            
+    
+          </ne>
+          
+    
+          <W Lpos="VBD" end="610" start="603">laughed</W>
+          
+    
+          <W Lpos="CC" end="614" start="611">and</W>
+          
+    
+          <W Lpos="VBD" end="621" start="615">looked</W>
+          
+    
+          <W Lpos="RB" end="626" start="622">very</W>
+          
+    
+          <W Lpos="JJ" end="632" start="627">happy</W>
+          
+    
+          <W Lpos="." end="633" start="632">.</W>
+          
+   
+        </s>
+        
+  
+      </p>
+      
+ 
+    </section>
+    
+
+  </body>
+  
+
+</dalidoc>

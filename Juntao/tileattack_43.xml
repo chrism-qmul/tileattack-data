@@ -1,0 +1,2564 @@
+<?xml version="1.0" ?>
+<gnomedoc>
+  
+
+  <header>
+    
+	
+    <fileDesc>
+      
+		
+      <titleStmt>
+        
+			
+        <title>Chicken hypnotism</title>
+        
+			
+        <author>Wikipedia</author>
+        
+		
+      </titleStmt>
+      
+		
+      <publicationStmt>
+        
+			
+        <web>
+          
+				
+          <publisher>Wikipedia</publisher>
+          
+				
+          <url>http://en.wikipedia.org/wiki/Chicken_hypnotism</url>
+          
+			
+        </web>
+        
+			
+        <availability>All text is available under the terms of the GNU Free Documentation License</availability>
+        
+			
+        <date>19 December 2008</date>
+        
+		
+      </publicationStmt>
+      
+		
+      <sourceDesc>
+        
+			
+        <filename>data\game\wikipedia\unusual\Chicken_hypnotism.htm</filename>
+        
+			
+        <date>19 December 2008</date>
+        
+		
+      </sourceDesc>
+      
+	
+    </fileDesc>
+    
+	
+    <revisionDesc>
+      
+		
+      <change>
+        
+			
+        <date>21 June 2017</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Juntao Yu</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Mentions extracted from dependency parser</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>23 Apr 2016</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Phrase Detectives (Jon Chamberlain)</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Exported the document and annotations from the Phrase Detectives game</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>19 December 2008</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Mark Schellhase</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>File converted to MASXML by automatic processing from HTML</TEIitem>
+        
+		
+      </change>
+      
+	
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <body>
+    
+	
+    <section>
+      
+		
+      <p id="p11">
+        
+			
+        <s id="s42">
+          
+				
+          <ne AAgf="nsubjpass" id="ne246">
+            
+					
+            <W Lpos="DT">A</W>
+            
+					
+            <nphead id="AAh246">
+              
+						
+              <W Lpos="NN">chicken</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="MD">can</W>
+          
+				
+          <W Lpos="VB">be</W>
+          
+				
+          <W Lpos="VBN">hypnotized</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">or</W>
+          
+				
+          <W Lpos="VBD">put</W>
+          
+				
+          <W Lpos="IN">into</W>
+          
+				
+          <ne AAgf="pobj" id="ne247">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh247">
+              
+						
+              <W Lpos="NN">trance</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="IN">by</W>
+          
+				
+          <W Lpos="VBG">holding</W>
+          
+				
+          <ne AAgf="dobj" id="ne248">
+            
+					
+            <ne AAgf="poss" id="ne249">
+              
+						
+              <nphead id="AAh248">
+                
+							
+                <W Lpos="PRP$">its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh249">
+              
+						
+              <W Lpos="NN">head</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">down</W>
+          
+				
+          <W Lpos="IN">against</W>
+          
+				
+          <ne AAgf="pobj" id="ne250">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh250">
+              
+						
+              <W Lpos="NN">ground</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="RB">continuously</W>
+          
+				
+          <W Lpos="VBG">drawing</W>
+          
+				
+          <ne AAgf="dobj" id="ne251">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh251">
+              
+						
+              <W Lpos="NN">line</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">along</W>
+          
+				
+          <ne AAgf="pobj" id="ne252">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh252">
+              
+						
+              <W Lpos="NN">ground</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">with</W>
+          
+				
+          <ne AAgf="pobj" id="ne253">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh253">
+              
+						
+              <W Lpos="NN">stick</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CC">or</W>
+            
+					
+            <ne AAgf="conj" id="ne254">
+              
+						
+              <W Lpos="DT">a</W>
+              
+						
+              <nphead id="AAh254">
+                
+							
+                <W Lpos="NN">finger</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBG">starting</W>
+          
+				
+          <W Lpos="IN">at</W>
+          
+				
+          <ne AAgf="pobj" id="ne255">
+            
+					
+            <ne AAgf="poss" id="ne256">
+              
+						
+              <nphead id="AAh255">
+                
+							
+                <W Lpos="PRP$">its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh256">
+              
+						
+              <W Lpos="NN">beak</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="VBG">extending</W>
+          
+				
+          <W Lpos="RB">straight</W>
+          
+				
+          <W Lpos="RB">outward</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne257">
+            
+					
+            <nphead id="AAh257">
+              
+						
+              <W Lpos="NN">front</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne258">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh258">
+                
+							
+                <W Lpos="NN">chicken</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s43">
+          
+				
+          <W Lpos="IN">If</W>
+          
+				
+          <ne AAgf="nsubjpass" id="ne259">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh259">
+              
+						
+              <W Lpos="NN">chicken</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <W Lpos="VBN">hypnotized</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne260">
+            
+					
+            <W Lpos="DT">this</W>
+            
+					
+            <nphead id="AAh260">
+              
+						
+              <W Lpos="NN">manner</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne261">
+            
+					
+            <nphead id="AAh261">
+              
+						
+              <W Lpos="PRP">it</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="MD">will</W>
+          
+				
+          <W Lpos="VB">remain</W>
+          
+				
+          <W Lpos="JJ">immobile</W>
+          
+				
+          <W Lpos="IN">for</W>
+          
+				
+          <ne AAgf="pobj" id="ne262">
+            
+					
+            <W Lpos="RB">somewhere</W>
+            
+					
+            <W Lpos="IN">between</W>
+            
+					
+            <W Lpos="CD">15</W>
+            
+					
+            <nphead id="AAh262">
+              
+						
+              <W Lpos="NNS">seconds</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <ne AAgf="conj" id="ne263">
+              
+						
+              <W Lpos="CD">30</W>
+              
+						
+              <nphead id="AAh263">
+                
+							
+                <W Lpos="NNS">minutes</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBG">continuing</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">stare</W>
+          
+				
+          <W Lpos="IN">at</W>
+          
+				
+          <ne AAgf="pobj" id="ne264">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh264">
+              
+						
+              <W Lpos="NN">line</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p12">
+        
+			
+        <s id="s44">
+          
+				
+          <ne AAgf="nsubj" id="ne265">
+            
+					
+            <nphead id="AAh265">
+              
+						
+              <W Lpos="DT">This</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="MD">may</W>
+          
+				
+          <W Lpos="RB">not</W>
+          
+				
+          <W Lpos="VB">be</W>
+          
+				
+          <ne AAgf="ROOT" id="ne266">
+            
+					
+            <W Lpos="JJ">clinical</W>
+            
+					
+            <nphead id="AAh266">
+              
+						
+              <W Lpos="NN">hypnosis</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="CC">but</W>
+            
+					
+            <W Lpos="RB">instead</W>
+            
+				
+          </ne>
+          
+				
+          <ne AAgf="dep" id="ne267">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh267">
+              
+						
+              <W Lpos="NN">case</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne268">
+              
+						
+              <W Lpos="JJ">tonic</W>
+              
+						
+              <nphead id="AAh268">
+                
+							
+                <W Lpos="NN">immobility</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s45">
+          
+				
+          <W Lpos="RB">Instead</W>
+          
+				
+          <W Lpos="IN">of</W>
+          
+				
+          <ne AAgf="pobj" id="ne269">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <W Lpos="JJ">hypnotic</W>
+            
+					
+            <nphead id="AAh269">
+              
+						
+              <W Lpos="NN">state</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne270">
+            
+					
+            <ne AAgf="poss" id="ne271">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh270">
+                
+							
+                <W Lpos="NN">chicken</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="POS">'s</W>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh271">
+              
+						
+              <W Lpos="NNS">reactions</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">are</W>
+          
+				
+          <W Lpos="RBR">more</W>
+          
+				
+          <W Lpos="JJ">akin</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <ne AAgf="pobj" id="ne272">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh272">
+              
+						
+              <W Lpos="NN">turtle</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="VBG">moving</W>
+            
+					
+            <W Lpos="IN">into</W>
+            
+					
+            <ne AAgf="pobj" id="ne273">
+              
+						
+              <ne AAgf="poss" id="ne274">
+                
+							
+                <nphead id="AAh273">
+                  
+								
+                  <W Lpos="PRP$">its</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <nphead id="AAh274">
+                
+							
+                <W Lpos="NN">shell</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="CC">or</W>
+            
+					
+            <ne AAgf="conj" id="ne275">
+              
+						
+              <W Lpos="DT">a</W>
+              
+						
+              <nphead id="AAh275">
+                
+							
+                <W Lpos="NN">deer</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="VBG">freezing</W>
+              
+						
+              <W Lpos="IN">from</W>
+              
+						
+              <ne AAgf="pobj" id="ne276">
+                
+							
+                <W Lpos="DT">a</W>
+                
+							
+                <nphead id="AAh276">
+                  
+								
+                  <W Lpos="NN">spotlight</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=":">--</W>
+          
+				
+          <ne AAgf="dep" id="ne277">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <W Lpos="JJ">defensive</W>
+            
+					
+            <nphead id="AAh277">
+              
+						
+              <W Lpos="NN">mechanism</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="VBN">intended</W>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="JJ">feign</W>
+            
+					
+            <ne AAgf="dobj" id="ne278">
+              
+						
+              <nphead id="AAh278">
+                
+							
+                <W Lpos="NN">death</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="IN">albeit</W>
+            
+					
+            <W Lpos="RB">poorly</W>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p13">
+        
+			
+        <s id="s46">
+          
+				
+          <ne AAgf="nsubj" id="ne279">
+            
+					
+            <W Lpos="DT">This</W>
+            
+					
+            <nphead id="AAh279">
+              
+						
+              <W Lpos="NN">technique</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <W Lpos="JJ">useful</W>
+          
+				
+          <W Lpos="IN">for</W>
+          
+				
+          <ne AAgf="pobj" id="ne280">
+            
+					
+            <nphead id="AAh280">
+              
+						
+              <W Lpos="NNS">farmers</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="WP">who</W>
+            
+					
+            <W Lpos="VBP">need</W>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="VB">slaughter</W>
+            
+					
+            <ne AAgf="dobj" id="ne281">
+              
+						
+              <W Lpos="DT">a</W>
+              
+						
+              <nphead id="AAh281">
+                
+							
+                <W Lpos="NN">chicken</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <W Lpos="VBP">do</W>
+            
+					
+            <W Lpos="RB">not</W>
+            
+					
+            <W Lpos="VB">have</W>
+            
+					
+            <ne AAgf="dobj" id="ne282">
+              
+						
+              <nphead id="AAh282">
+                
+							
+                <W Lpos="VB">help</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">immediately</W>
+          
+				
+          <W Lpos="JJ">available</W>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s47">
+          
+				
+          <ne AAgf="nsubj" id="ne283">
+            
+					
+            <nphead id="AAh283">
+              
+						
+              <W Lpos="PRP">It</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <W Lpos="RB">also</W>
+          
+				
+          <W Lpos="JJ">useful</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <W Lpos="VBG">feeding</W>
+          
+				
+          <ne AAgf="dobj" id="ne284">
+            
+					
+            <W Lpos="JJ">large</W>
+            
+					
+            <W Lpos="JJ">pet</W>
+            
+					
+            <nphead id="AAh284">
+              
+						
+              <W Lpos="NNS">reptiles</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="WP">who</W>
+            
+					
+            <W Lpos="VBP">are</W>
+            
+					
+            <W Lpos="RB">too</W>
+            
+					
+            <W Lpos="JJ">slow</W>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="VB">catch</W>
+            
+					
+            <ne AAgf="dobj" id="ne285">
+              
+						
+              <W Lpos="DT">a</W>
+              
+						
+              <W Lpos="JJ">moving</W>
+              
+						
+              <nphead id="AAh285">
+                
+							
+                <W Lpos="NN">chicken</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p14">
+        
+			
+        <s id="s48">
+          
+				
+          <ne AAgf="nsubj" id="ne286">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <W Lpos="JJ">first</W>
+            
+					
+            <W Lpos="JJ">known</W>
+            
+					
+            <W Lpos="JJ">written</W>
+            
+					
+            <nphead id="AAh286">
+              
+						
+              <W Lpos="NN">reference</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="pobj" id="ne287">
+              
+						
+              <W Lpos="DT">this</W>
+              
+						
+              <nphead id="AAh287">
+                
+							
+                <W Lpos="NN">method</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">came</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne288">
+            
+					
+            <nphead id="AAh288">
+              
+						
+              <W Lpos="CD">1646</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne289">
+            
+					
+            <W Lpos="NNP">Mirabile</W>
+            
+					
+            <W Lpos="NNP">Experimentum</W>
+            
+					
+            <W Lpos="FW">de</W>
+            
+					
+            <W Lpos="NNP">Imaginatione</W>
+            
+					
+            <nphead id="AAh289">
+              
+						
+              <W Lpos="NNP">Gallinae</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">by</W>
+            
+					
+            <ne AAgf="pobj" id="ne290">
+              
+						
+              <W Lpos="NNP">Athanasius</W>
+              
+						
+              <nphead id="AAh290">
+                
+							
+                <W Lpos="NNP">Kircher</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p15">
+        
+			
+        <s id="s49">
+          
+				
+          <ne AAgf="nsubj" id="ne291">
+            
+					
+            <W Lpos="DT">Another</W>
+            
+					
+            <nphead id="AAh291">
+              
+						
+              <W Lpos="NN">technique</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne292">
+              
+						
+              <nphead id="AAh292">
+                
+							
+                <W Lpos="NN">hypnosis</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">hold</W>
+          
+				
+          <ne AAgf="nsubj" id="ne293">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh293">
+              
+						
+              <W Lpos="NN">chicken</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <ne AAgf="dobj" id="ne294">
+            
+					
+            <nphead id="AAh294">
+              
+						
+              <W Lpos="NN">face</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RP">up</W>
+          
+				
+          <W Lpos="IN">with</W>
+          
+				
+          <ne AAgf="pobj" id="ne295">
+            
+					
+            <ne AAgf="poss" id="ne296">
+              
+						
+              <nphead id="AAh295">
+                
+							
+                <W Lpos="PRP$">its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh296">
+              
+						
+              <W Lpos="NN">back</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">on</W>
+            
+					
+            <ne AAgf="pobj" id="ne297">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh297">
+                
+							
+                <W Lpos="NN">ground</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="RB">then</W>
+          
+				
+          <W Lpos="VB">run</W>
+          
+				
+          <ne AAgf="dobj" id="ne298">
+            
+					
+            <ne AAgf="poss" id="ne299">
+              
+						
+              <nphead id="AAh298">
+                
+							
+                <W Lpos="PRP$">your</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh299">
+              
+						
+              <W Lpos="NN">finger</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">vertically</W>
+          
+				
+          <W Lpos="RB">downwards</W>
+          
+				
+          <W Lpos="IN">from</W>
+          
+				
+          <ne AAgf="pobj" id="ne300">
+            
+					
+            <ne AAgf="poss" id="ne301">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh300">
+                
+							
+                <W Lpos="NN">chicken</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="POS">'s</W>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh301">
+              
+						
+              <W Lpos="NNS">wattles</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="RB">just</W>
+          
+				
+          <W Lpos="VB">above</W>
+          
+				
+          <ne AAgf="pobj" id="ne302">
+            
+					
+            <ne AAgf="poss" id="ne303">
+              
+						
+              <nphead id="AAh302">
+                
+							
+                <W Lpos="PRP$">its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh303">
+              
+						
+              <W Lpos="NN">vent</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s50">
+          
+				
+          <ne AAgf="nsubjpass" id="ne304">
+            
+					
+            <ne AAgf="poss" id="ne305">
+              
+						
+              <W Lpos="DT">The</W>
+              
+						
+              <nphead id="AAh304">
+                
+							
+                <W Lpos="NN">chicken</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="POS">'s</W>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh305">
+              
+						
+              <W Lpos="NNS">feet</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">are</W>
+          
+				
+          <W Lpos="VBN">exposed</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="WDT">which</W>
+          
+				
+          <W Lpos="VBZ">allows</W>
+          
+				
+          <ne AAgf="dobj" id="ne306">
+            
+					
+            <W Lpos="JJ">easy</W>
+            
+					
+            <nphead id="AAh306">
+              
+						
+              <W Lpos="NN">application</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne307">
+              
+						
+              <nphead id="AAh307">
+                
+							
+                <W Lpos="NN">medication</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="pobj" id="ne308">
+              
+						
+              <W Lpos="NN">foot</W>
+              
+						
+              <nphead id="AAh308">
+                
+							
+                <W Lpos="NNS">mites</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos=",">,</W>
+              
+						
+              <W Lpos="FW">etc</W>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s51">
+          
+				
+          <W Lpos="TO">To</W>
+          
+				
+          <W Lpos="VB">wake</W>
+          
+				
+          <W Lpos="RP">up</W>
+          
+				
+          <ne AAgf="dobj" id="ne309">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh309">
+              
+						
+              <W Lpos="NN">chicken</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VB">clap</W>
+          
+				
+          <ne AAgf="dobj" id="ne310">
+            
+					
+            <ne AAgf="poss" id="ne311">
+              
+						
+              <nphead id="AAh310">
+                
+							
+                <W Lpos="PRP$">your</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh311">
+              
+						
+              <W Lpos="NNS">hands</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="CC">or</W>
+          
+				
+          <W Lpos="VB">give</W>
+          
+				
+          <ne AAgf="iobj" id="ne312">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh312">
+              
+						
+              <W Lpos="NN">chicken</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <ne AAgf="dobj" id="ne313">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <W Lpos="JJ">gentle</W>
+            
+					
+            <nphead id="AAh313">
+              
+						
+              <W Lpos="NN">shove</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p16">
+        
+			
+        <s id="s52">
+          
+				
+          <ne AAgf="nsubj" id="ne314">
+            
+					
+            <nphead id="AAh314">
+              
+						
+              <W Lpos="PRP">One</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="MD">can</W>
+          
+				
+          <W Lpos="RB">also</W>
+          
+				
+          <W Lpos="VB">hypnotize</W>
+          
+				
+          <ne AAgf="dobj" id="ne315">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh315">
+              
+						
+              <W Lpos="NN">chicken</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">by</W>
+          
+				
+          <W Lpos="VBG">mimicking</W>
+          
+				
+          <W Lpos="WRB">how</W>
+          
+				
+          <ne AAgf="nsubj" id="ne316">
+            
+					
+            <nphead id="AAh316">
+              
+						
+              <W Lpos="PRP">it</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">sleeps</W>
+          
+				
+          <W Lpos="PRP">-</W>
+          
+				
+          <W Lpos="IN">with</W>
+          
+				
+          <ne AAgf="pobj" id="ne317">
+            
+					
+            <ne AAgf="poss" id="ne318">
+              
+						
+              <nphead id="AAh317">
+                
+							
+                <W Lpos="PRP$">its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh318">
+              
+						
+              <W Lpos="NN">head</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">under</W>
+            
+					
+            <ne AAgf="pobj" id="ne319">
+              
+						
+              <ne AAgf="poss" id="ne320">
+                
+							
+                <nphead id="AAh319">
+                  
+								
+                  <W Lpos="PRP$">its</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <nphead id="AAh320">
+                
+							
+                <W Lpos="NN">wing</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s53">
+          
+				
+          <W Lpos="IN">In</W>
+          
+				
+          <ne AAgf="pobj" id="ne321">
+            
+					
+            <W Lpos="DT">this</W>
+            
+					
+            <nphead id="AAh321">
+              
+						
+              <W Lpos="NN">method</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne322">
+            
+					
+            <nphead id="AAh322">
+              
+						
+              <W Lpos="PRP">you</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">hold</W>
+          
+				
+          <ne AAgf="dobj" id="ne323">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh323">
+              
+						
+              <W Lpos="NN">bird</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">firmly</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBG">placing</W>
+          
+				
+          <ne AAgf="dobj" id="ne324">
+            
+					
+            <ne AAgf="poss" id="ne325">
+              
+						
+              <nphead id="AAh324">
+                
+							
+                <W Lpos="PRP$">its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh325">
+              
+						
+              <W Lpos="NN">head</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">under</W>
+          
+				
+          <ne AAgf="pobj" id="ne326">
+            
+					
+            <ne AAgf="poss" id="ne327">
+              
+						
+              <nphead id="AAh326">
+                
+							
+                <W Lpos="PRP$">its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh327">
+              
+						
+              <W Lpos="NN">wing</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="RB">then</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="RB">gently</W>
+          
+				
+          <W Lpos="VBP">rock</W>
+          
+				
+          <ne AAgf="dobj" id="ne328">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh328">
+              
+						
+              <W Lpos="NN">chicken</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">back</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="RB">forth</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="VB">set</W>
+          
+				
+          <ne AAgf="dobj" id="ne329">
+            
+					
+            <nphead id="AAh329">
+              
+						
+              <W Lpos="PRP">it</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">very</W>
+          
+				
+          <W Lpos="RB">carefully</W>
+          
+				
+          <W Lpos="IN">on</W>
+          
+				
+          <ne AAgf="pobj" id="ne330">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh330">
+              
+						
+              <W Lpos="NN">ground</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s54">
+          
+				
+          <ne AAgf="nsubj" id="ne331">
+            
+					
+            <nphead id="AAh331">
+              
+						
+              <W Lpos="PRP">It</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="MD">should</W>
+          
+				
+          <W Lpos="VB">stay</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne332">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="JJ">same</W>
+            
+					
+            <nphead id="AAh332">
+              
+						
+              <W Lpos="NN">position</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">for</W>
+          
+				
+          <ne AAgf="pobj" id="ne333">
+            
+					
+            <W Lpos="RB">about</W>
+            
+					
+            <W Lpos="CD">30</W>
+            
+					
+            <nphead id="AAh333">
+              
+						
+              <W Lpos="NNS">seconds</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p17">
+        
+			
+        <s id="s55">
+          
+				
+          <ne AAgf="nsubj" id="ne334">
+            
+					
+            <W Lpos="NNP">H</W>
+            
+					
+            <W Lpos="NNP">B</W>
+            
+					
+            <nphead id="AAh334">
+              
+						
+              <W Lpos="NNP">Gibson</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne335">
+            
+					
+            <ne AAgf="poss" id="ne336">
+              
+						
+              <nphead id="AAh335">
+                
+							
+                <W Lpos="PRP$">his</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="NN">book</W>
+            
+					
+            <nphead id="AAh336">
+              
+						
+              <W Lpos="NNP">Hypnosis</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=":">-</W>
+          
+				
+          <ne AAgf="dep" id="ne337">
+            
+					
+            <ne AAgf="poss" id="ne338">
+              
+						
+              <nphead id="AAh337">
+                
+							
+                <W Lpos="PRP$">its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh338">
+              
+						
+              <W Lpos="NNP">Nature</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <ne AAgf="conj" id="ne339">
+              
+						
+              <W Lpos="NNP">Therapeutic</W>
+              
+						
+              <nphead id="AAh339">
+                
+							
+                <W Lpos="NNP">Uses</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBZ">states</W>
+          
+				
+          <W Lpos="IN">that</W>
+          
+				
+          <ne AAgf="nsubj" id="ne340">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="NN">record</W>
+            
+					
+            <nphead id="AAh340">
+              
+						
+              <W Lpos="NN">period</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="pobj" id="ne341">
+              
+						
+              <W Lpos="DT">a</W>
+              
+						
+              <nphead id="AAh341">
+                
+							
+                <W Lpos="NN">chicken</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="VBG">remaining</W>
+              
+						
+              <W Lpos="IN">in</W>
+              
+						
+              <ne AAgf="pobj" id="ne342">
+                
+							
+                <nphead id="AAh342">
+                  
+								
+                  <W Lpos="NN">hypnosis</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <ne AAgf="ccomp" id="ne343">
+            
+					
+            <W Lpos="CD">3</W>
+            
+					
+            <nphead id="AAh343">
+              
+						
+              <W Lpos="NNS">hours</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <ne AAgf="ccomp" id="ne344">
+            
+					
+            <W Lpos="CD">47</W>
+            
+					
+            <nphead id="AAh344">
+              
+						
+              <W Lpos="NNS">minutes</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+	
+    </section>
+    
+
+  </body>
+  
+
+</gnomedoc>

@@ -1,0 +1,2819 @@
+<?xml version="1.0" ?>
+<gnomedoc>
+  
+
+  <header>
+    
+	
+    <fileDesc>
+      
+		
+      <titleStmt>
+        
+			
+        <title>Voluntary Human Extinction Movement</title>
+        
+			
+        <author>Wikipedia</author>
+        
+		
+      </titleStmt>
+      
+		
+      <publicationStmt>
+        
+			
+        <web>
+          
+				
+          <publisher>Wikipedia</publisher>
+          
+				
+          <url>http://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement</url>
+          
+			
+        </web>
+        
+			
+        <availability>All text is available under the terms of the GNU Free Documentation License</availability>
+        
+			
+        <date>19 December 2008</date>
+        
+		
+      </publicationStmt>
+      
+		
+      <sourceDesc>
+        
+			
+        <filename>data\game\wikipedia\unusual\Voluntary_Human_Extinction_Movement.htm</filename>
+        
+			
+        <date>19 December 2008</date>
+        
+		
+      </sourceDesc>
+      
+	
+    </fileDesc>
+    
+	
+    <revisionDesc>
+      
+		
+      <change>
+        
+			
+        <date>21 June 2017</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Juntao Yu</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Mentions extracted from dependency parser</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>23 Apr 2016</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Phrase Detectives (Jon Chamberlain)</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>Exported the document and annotations from the Phrase Detectives game</TEIitem>
+        
+		
+      </change>
+      
+		
+      <change>
+        
+			
+        <date>19 December 2008</date>
+        
+			
+        <respStmt>
+          
+				
+          <name>Mark Schellhase</name>
+          
+				
+          <resp>Automatic Processing</resp>
+          
+			
+        </respStmt>
+        
+			
+        <TEIitem>File converted to MASXML by automatic processing from HTML</TEIitem>
+        
+		
+      </change>
+      
+	
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <body>
+    
+	
+    <section>
+      
+		
+      <p id="p176">
+        
+			
+        <s id="s465">
+          
+				
+          <ne AAgf="nsubj" id="ne3080">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <W Lpos="NNP">Voluntary</W>
+            
+					
+            <W Lpos="NNP">Human</W>
+            
+					
+            <W Lpos="NNP">Extinction</W>
+            
+					
+            <nphead id="AAh3079">
+              
+						
+              <W Lpos="NNP">Movement</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="CC">or</W>
+            
+					
+            <W Lpos="NNP">VHEMT</W>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="-LRB-">(</W>
+          
+				
+          <W Lpos="VBN">pronounced</W>
+          
+				
+          <W Lpos="NNP">&quot;</W>
+          
+				
+          <ne AAgf="dep" id="ne3081">
+            
+					
+            <W Lpos="NN">vehement</W>
+            
+					
+            <nphead id="AAh3080">
+              
+						
+              <W Lpos="NN">&quot;</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="-RRB-">)</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <ne AAgf="ROOT" id="ne3082">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh3081">
+              
+						
+              <W Lpos="NN">movement</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="WDT">which</W>
+            
+					
+            <W Lpos="VBZ">calls</W>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="pobj" id="ne3083">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="JJ">voluntary</W>
+              
+						
+              <nphead id="AAh3082">
+                
+							
+                <W Lpos="NN">self-extinction</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne3084">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <W Lpos="JJ">human</W>
+                
+							
+                <nphead id="AAh3083">
+                  
+								
+                  <W Lpos="NNS">species</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p177">
+        
+			
+        <s id="s466">
+          
+				
+          <ne AAgf="nsubj" id="ne3085">
+            
+					
+            <W Lpos="DT">The</W>
+            
+					
+            <W Lpos="JJ">basic</W>
+            
+					
+            <nphead id="AAh3084">
+              
+						
+              <W Lpos="NN">concept</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">behind</W>
+            
+					
+            <ne AAgf="pobj" id="ne3086">
+              
+						
+              <nphead id="AAh3085">
+                
+							
+                <W Lpos="NNP">VHEMT</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <ne AAgf="ROOT" id="ne3087">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh3086">
+              
+						
+              <W Lpos="NN">belief</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">that</W>
+            
+					
+            <ne AAgf="nsubj" id="ne3088">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh3087">
+                
+							
+                <W Lpos="NNP">Earth</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="MD">would</W>
+            
+					
+            <W Lpos="VB">be</W>
+            
+					
+            <W Lpos="JJR">better</W>
+            
+					
+            <W Lpos="RP">off</W>
+            
+					
+            <W Lpos="IN">without</W>
+            
+					
+            <ne AAgf="pobj" id="ne3089">
+              
+						
+              <nphead id="AAh3088">
+                
+							
+                <W Lpos="NNS">humans</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <W Lpos="IN">as</W>
+            
+					
+            <W Lpos="JJ">such</W>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <ne AAgf="nsubj" id="ne3090">
+              
+						
+              <nphead id="AAh3089">
+                
+							
+                <W Lpos="NNS">humans</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="MD">should</W>
+            
+					
+            <W Lpos="VB">refuse</W>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="VB">breed</W>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s467">
+          
+				
+          <W Lpos="RB">However</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3091">
+            
+					
+            <nphead id="AAh3090">
+              
+						
+              <W Lpos="DT">this</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">does</W>
+          
+				
+          <W Lpos="RB">not</W>
+          
+				
+          <W Lpos="VB">mean</W>
+          
+				
+          <W Lpos="IN">that</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3092">
+            
+					
+            <nphead id="AAh3091">
+              
+						
+              <W Lpos="PRP">they</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">intend</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">prevent</W>
+          
+				
+          <ne AAgf="dobj" id="ne3093">
+            
+					
+            <nphead id="AAh3092">
+              
+						
+              <W Lpos="NNS">people</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">from</W>
+          
+				
+          <ne AAgf="pobj" id="ne3094">
+            
+					
+            <nphead id="AAh3093">
+              
+						
+              <W Lpos="NN">breeding</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">kill</W>
+          
+				
+          <ne AAgf="dobj" id="ne3095">
+            
+					
+            <nphead id="AAh3094">
+              
+						
+              <W Lpos="NN">anyone</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">or</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">commit</W>
+          
+				
+          <ne AAgf="dobj" id="ne3096">
+            
+					
+            <nphead id="AAh3095">
+              
+						
+              <W Lpos="NN">suicide</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s468">
+          
+				
+          <ne AAgf="nsubjpass" id="ne3097">
+            
+					
+            <W Lpos="DT">This</W>
+            
+					
+            <W Lpos="JJ">last</W>
+            
+					
+            <nphead id="AAh3096">
+              
+						
+              <W Lpos="NN">point</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <W Lpos="VBN">illustrated</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne3098">
+            
+					
+            <ne AAgf="poss" id="ne3099">
+              
+						
+              <nphead id="AAh3097">
+                
+							
+                <W Lpos="PRP$">their</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh3098">
+              
+						
+              <W Lpos="NN">motto</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="NNP">&quot;</W>
+            
+					
+            <ne AAgf="dobj" id="ne3100">
+              
+						
+              <nphead id="AAh3099">
+                
+							
+                <W Lpos="NNP">May</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <ne AAgf="nsubj" id="ne3101">
+              
+						
+              <nphead id="AAh3100">
+                
+							
+                <W Lpos="PRP">we</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="VBP">live</W>
+            
+					
+            <W Lpos="RB">long</W>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <W Lpos="VB">die</W>
+            
+					
+            <W Lpos="RP">out</W>
+            
+					
+            <ne AAgf="dobj" id="ne3102">
+              
+						
+              <nphead id="AAh3101">
+                
+							
+                <W Lpos="NNP">&quot;</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p178">
+        
+			
+        <s id="s469">
+          
+				
+          <ne AAgf="nsubj" id="ne3103">
+            
+					
+            <nphead id="AAh3102">
+              
+						
+              <W Lpos="NNP">VHEMT</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">recognizes</W>
+          
+				
+          <ne AAgf="dobj" id="ne3104">
+            
+					
+            <W Lpos="CD">two</W>
+            
+					
+            <nphead id="AAh3103">
+              
+						
+              <W Lpos="NNS">levels</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne3105">
+              
+						
+              <nphead id="AAh3104">
+                
+							
+                <W Lpos="NN">support</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=":">:</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p179">
+        
+			
+        <s id="s470">
+          
+				
+          <ne AAgf="nsubj" id="ne3106">
+            
+					
+            <nphead id="AAh3105">
+              
+						
+              <W Lpos="NNP">VHEMT</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">does</W>
+          
+				
+          <W Lpos="RB">not</W>
+          
+				
+          <W Lpos="VB">request</W>
+          
+				
+          <ne AAgf="dobj" id="ne3107">
+            
+					
+            <nphead id="AAh3106">
+              
+						
+              <W Lpos="NNS">participants</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">declare</W>
+          
+				
+          <ne AAgf="dobj" id="ne3108">
+            
+					
+            <W Lpos="WDT">which</W>
+            
+					
+            <nphead id="AAh3107">
+              
+						
+              <W Lpos="NN">type</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne3109">
+              
+						
+              <nphead id="AAh3108">
+                
+							
+                <W Lpos="NN">member</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <ne AAgf="nsubj" id="ne3110">
+            
+					
+            <nphead id="AAh3109">
+              
+						
+              <W Lpos="PRP">they</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">are</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">nor</W>
+          
+				
+          <W Lpos="VBZ">does</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3111">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh3110">
+              
+						
+              <W Lpos="NN">movement</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VB">require</W>
+          
+				
+          <ne AAgf="nsubjpass" id="ne3112">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh3111">
+              
+						
+              <W Lpos="NN">choice</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">be</W>
+          
+				
+          <W Lpos="RB">implicitly</W>
+          
+				
+          <W Lpos="VBN">made</W>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p180">
+        
+			
+        <s id="s471">
+          
+				
+          <ne AAgf="expl" id="ne3113">
+            
+					
+            <nphead id="AAh3112">
+              
+						
+              <W Lpos="EX">There</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">has</W>
+          
+				
+          <W Lpos="VBN">been</W>
+          
+				
+          <ne AAgf="ROOT" id="ne3114">
+            
+					
+            <W Lpos="DT">some</W>
+            
+					
+            <W Lpos="NNS">media</W>
+            
+					
+            <nphead id="AAh3113">
+              
+						
+              <W Lpos="NN">coverage</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne3115">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh3114">
+                
+							
+                <W Lpos="NNS">ideas</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne3116">
+                
+							
+                <nphead id="AAh3115">
+                  
+								
+                  <W Lpos="NNP">Knight</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <W Lpos="CC">and</W>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne3117">
+                
+							
+                <nphead id="AAh3116">
+                  
+								
+                  <W Lpos="NNP">VHEMT</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=":">:</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne3118">
+            
+					
+            <nphead id="AAh3117">
+              
+						
+              <W Lpos="CD">2001</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3119">
+            
+					
+            <nphead id="AAh3118">
+              
+						
+              <W Lpos="NNP">Knight</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">appeared</W>
+          
+				
+          <W Lpos="IN">on</W>
+          
+				
+          <ne AAgf="pobj" id="ne3120">
+            
+					
+            <nphead id="AAh3119">
+              
+						
+              <W Lpos="NNP">Hannity</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CC">&amp;</W>
+            
+					
+            <W Lpos="NNP">Colmes</W>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">present</W>
+          
+				
+          <ne AAgf="dobj" id="ne3121">
+            
+					
+            <ne AAgf="poss" id="ne3122">
+              
+						
+              <nphead id="AAh3120">
+                
+							
+                <W Lpos="NNP">VHEMT</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="POS">'s</W>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh3121">
+              
+						
+              <W Lpos="NN">ideology</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s472">
+          
+				
+          <W Lpos="IN">On</W>
+          
+				
+          <ne AAgf="pobj" id="ne3123">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh3122">
+              
+						
+              <W Lpos="NN">program</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3124">
+            
+					
+            <nphead id="AAh3123">
+              
+						
+              <W Lpos="PRP">he</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">stated</W>
+          
+				
+          <W Lpos="DT">that</W>
+          
+				
+          <W Lpos="NN">&quot;</W>
+          
+				
+          <W Lpos="RB">as</W>
+          
+				
+          <W Lpos="RB">long</W>
+          
+				
+          <W Lpos="IN">as</W>
+          
+				
+          <ne AAgf="expl" id="ne3125">
+            
+					
+            <nphead id="AAh3124">
+              
+						
+              <W Lpos="EX">there</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">'s</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3126">
+            
+					
+            <W Lpos="CD">one</W>
+            
+					
+            <W Lpos="NN">breeding</W>
+            
+					
+            <nphead id="AAh3125">
+              
+						
+              <W Lpos="NN">pair</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne3127">
+              
+						
+              <W Lpos="NN">Homo</W>
+              
+						
+              <nphead id="AAh3126">
+                
+							
+                <W Lpos="NNS">sapiens</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="expl" id="ne3128">
+            
+					
+            <nphead id="AAh3127">
+              
+						
+              <W Lpos="EX">there</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">'s</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3129">
+            
+					
+            <W Lpos="RB">too</W>
+            
+					
+            <W Lpos="JJ">great</W>
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh3128">
+              
+						
+              <W Lpos="NN">threat</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <ne AAgf="pobj" id="ne3130">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh3129">
+                
+							
+                <W Lpos="NN">biosphere</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="NN">&quot;</W>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s473">
+          
+				
+          <ne AAgf="nsubj" id="ne3131">
+            
+					
+            <nphead id="AAh3130">
+              
+						
+              <W Lpos="PRP">He</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">also</W>
+          
+				
+          <W Lpos="VBD">expressed</W>
+          
+				
+          <ne AAgf="dobj" id="ne3132">
+            
+					
+            <W Lpos="DT">no</W>
+            
+					
+            <nphead id="AAh3131">
+              
+						
+              <W Lpos="NN">hope</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">for</W>
+            
+					
+            <ne AAgf="pobj" id="ne3133">
+              
+						
+              <W Lpos="JJ">voluntary</W>
+              
+						
+              <W Lpos="JJ">human</W>
+              
+						
+              <nphead id="AAh3132">
+                
+							
+                <W Lpos="NN">extinction</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">but</W>
+          
+				
+          <W Lpos="VBD">stated</W>
+          
+				
+          <W Lpos="IN">that</W>
+          
+				
+          <W Lpos="WP">&quot;</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3134">
+            
+					
+            <nphead id="AAh3133">
+              
+						
+              <W Lpos="PRP">it</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <ne AAgf="ccomp" id="ne3135">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="JJ">right</W>
+            
+					
+            <nphead id="AAh3134">
+              
+						
+              <W Lpos="NN">thing</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="VB">do</W>
+            
+					
+            <W Lpos="PRP">&quot;</W>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p181">
+        
+			
+        <s id="s474">
+          
+				
+          <ne AAgf="nsubjpass" id="ne3136">
+            
+					
+            <nphead id="AAh3135">
+              
+						
+              <W Lpos="NN">Knight</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">was</W>
+          
+				
+          <W Lpos="RB">also</W>
+          
+				
+          <W Lpos="VBN">interviewed</W>
+          
+				
+          <W Lpos="IN">by</W>
+          
+				
+          <ne AAgf="pobj" id="ne3137">
+            
+					
+            <ne AAgf="poss" id="ne3138">
+              
+						
+              <nphead id="AAh3136">
+                
+							
+                <W Lpos="NNP">MSNBC</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="POS">'s</W>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="NNP">Tucker</W>
+            
+					
+            <nphead id="AAh3137">
+              
+						
+              <W Lpos="NNP">Carlson</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="IN">during</W>
+            
+					
+            <W Lpos="WDT">which</W>
+            
+					
+            <ne AAgf="nsubj" id="ne3139">
+              
+						
+              <nphead id="AAh3138">
+                
+							
+                <W Lpos="PRP">he</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="VBD">debated</W>
+            
+					
+            <W Lpos="IN">with</W>
+            
+					
+            <ne AAgf="pobj" id="ne3140">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh3139">
+                
+							
+                <W Lpos="NN">host</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="IN">on</W>
+            
+					
+            <ne AAgf="pobj" id="ne3141">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh3140">
+                
+							
+                <W Lpos="NNS">merits</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne3142">
+                
+							
+                <W Lpos="DT">the</W>
+                
+							
+                <nphead id="AAh3141">
+                  
+								
+                  <W Lpos="NN">movement</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s475">
+          
+				
+          <ne AAgf="nsubj" id="ne3143">
+            
+					
+            <nphead id="AAh3142">
+              
+						
+              <W Lpos="NN">Knight</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBD">stressed</W>
+          
+				
+          <ne AAgf="dobj" id="ne3144">
+            
+					
+            <ne AAgf="poss" id="ne3145">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh3143">
+                
+							
+                <W Lpos="NN">movement</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="POS">'s</W>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="JJ">peaceful</W>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="JJ">nonviolent</W>
+            
+					
+            <nphead id="AAh3144">
+              
+						
+              <W Lpos="NNS">goals</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="VBD">reiterated</W>
+          
+				
+          <W Lpos="IN">that</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3146">
+            
+					
+            <ne AAgf="poss" id="ne3147">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh3145">
+                
+							
+                <W Lpos="NN">movement</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="POS">'s</W>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh3146">
+              
+						
+              <W Lpos="NN">motivation</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <ne AAgf="ccomp" id="ne3148">
+            
+					
+            <W Lpos="JJ">environmental</W>
+            
+					
+            <nphead id="AAh3147">
+              
+						
+              <W Lpos="NN">protection</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p182">
+        
+			
+        <s id="s476">
+          
+				
+          <ne AAgf="nsubj" id="ne3149">
+            
+					
+            <nphead id="AAh3148">
+              
+						
+              <W Lpos="NNP">VHEMT</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">spreads</W>
+          
+				
+          <ne AAgf="dobj" id="ne3150">
+            
+					
+            <ne AAgf="poss" id="ne3151">
+              
+						
+              <nphead id="AAh3149">
+                
+							
+                <W Lpos="PRP$">its</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <nphead id="AAh3150">
+              
+						
+              <W Lpos="NN">message</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="IN">through</W>
+          
+				
+          <ne AAgf="pobj" id="ne3152">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <nphead id="AAh3151">
+              
+						
+              <W Lpos="NN">Internet</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="RB">thus</W>
+          
+				
+          <W Lpos="VBG">reaching</W>
+          
+				
+          <ne AAgf="dobj" id="ne3153">
+            
+					
+            <W Lpos="RB">mainly</W>
+            
+					
+            <W Lpos="JJR">wealthier</W>
+            
+					
+            <nphead id="AAh3152">
+              
+						
+              <W Lpos="NNS">nations</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s477">
+          
+				
+          <ne AAgf="nsubj" id="ne3154">
+            
+					
+            <W Lpos="DT">A</W>
+            
+					
+            <nphead id="AAh3153">
+              
+						
+              <W Lpos="JJ">few</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne3155">
+              
+						
+              <W Lpos="DT">these</W>
+              
+						
+              <nphead id="AAh3154">
+                
+							
+                <W Lpos="NNS">countries</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="RB">already</W>
+          
+				
+          <W Lpos="VBP">have</W>
+          
+				
+          <ne AAgf="dobj" id="ne3156">
+            
+					
+            <W Lpos="NN">fertility</W>
+            
+					
+            <nphead id="AAh3155">
+              
+						
+              <W Lpos="NNS">rates</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">below</W>
+            
+					
+            <ne AAgf="pobj" id="ne3157">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <W Lpos="NN">replacement</W>
+              
+						
+              <nphead id="AAh3156">
+                
+							
+                <W Lpos="NN">rate</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="VBP">are</W>
+          
+				
+          <W Lpos="RB">thus</W>
+          
+				
+          <W Lpos="RB">already</W>
+          
+				
+          <W Lpos="VBG">trending</W>
+          
+				
+          <ne AAgf="dobj" id="ne3158">
+            
+					
+            <nphead id="AAh3157">
+              
+						
+              <W Lpos="NNS">towards</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=":">&quot;</W>
+          
+				
+          <ne AAgf="dobj" id="ne3159">
+            
+					
+            <W Lpos="JJ">human</W>
+            
+					
+            <W Lpos="NN">extinction</W>
+            
+					
+            <nphead id="AAh3158">
+              
+						
+              <W Lpos="NN">&quot;</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos=",">,</W>
+            
+					
+            <W Lpos="CC">or</W>
+            
+					
+            <ne AAgf="conj" id="ne3160">
+              
+						
+              <W Lpos="IN">at</W>
+              
+						
+              <W Lpos="JJS">least</W>
+              
+						
+              <W Lpos="DT">a</W>
+              
+						
+              <W Lpos="JJ">reduced</W>
+              
+						
+              <nphead id="AAh3159">
+                
+							
+                <W Lpos="NN">population</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s478">
+          
+				
+          <W Lpos="RB">However</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBG">according</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <ne AAgf="pobj" id="ne3161">
+            
+					
+            <nphead id="AAh3160">
+              
+						
+              <W Lpos="NNP">VHEMT</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3162">
+            
+					
+            <W Lpos="JJR">wealthier</W>
+            
+					
+            <nphead id="AAh3161">
+              
+						
+              <W Lpos="NNS">nations</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">have</W>
+          
+				
+          <ne AAgf="dobj" id="ne3163">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="JJS">largest</W>
+            
+					
+            <nphead id="AAh3162">
+              
+						
+              <W Lpos="NN">impact</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">on</W>
+            
+					
+            <ne AAgf="pobj" id="ne3164">
+              
+						
+              <W Lpos="NN">world</W>
+              
+						
+              <nphead id="AAh3163">
+                
+							
+                <W Lpos="NNS">resources</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+		
+      <p id="p183">
+        
+			
+        <s id="s479">
+          
+				
+          <ne AAgf="nsubj" id="ne3165">
+            
+					
+            <nphead id="AAh3164">
+              
+						
+              <W Lpos="NNS">Transhumanists</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="CC">and</W>
+            
+					
+            <ne AAgf="conj" id="ne3166">
+              
+						
+              <W Lpos="JJ">other</W>
+              
+						
+              <nphead id="AAh3165">
+                
+							
+                <W Lpos="NNS">critics</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">reject</W>
+          
+				
+          <ne AAgf="dobj" id="ne3167">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="NNP">VHEMT</W>
+            
+					
+            <nphead id="AAh3166">
+              
+						
+              <W Lpos="NN">assumption</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">that</W>
+            
+					
+            <ne AAgf="nsubj" id="ne3168">
+              
+						
+              <nphead id="AAh3167">
+                
+							
+                <W Lpos="NNPS">humans</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="VBP">have</W>
+            
+					
+            <W Lpos="VBN">ceased</W>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="VB">be</W>
+            
+					
+            <ne AAgf="xcomp" id="ne3169">
+              
+						
+              <W Lpos="DT">a</W>
+              
+						
+              <nphead id="AAh3168">
+                
+							
+                <W Lpos="NN">part</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos="IN">of</W>
+              
+						
+              <ne AAgf="pobj" id="ne3170">
+                
+							
+                <nphead id="AAh3169">
+                  
+								
+                  <W Lpos="NN">nature</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s480">
+          
+				
+          <W Lpos="RB">Instead</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3171">
+            
+					
+            <nphead id="AAh3170">
+              
+						
+              <W Lpos="PRP">they</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBP">argue</W>
+          
+				
+          <W Lpos="DT">that</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3172">
+            
+					
+            <nphead id="AAh3171">
+              
+						
+              <W Lpos="NN">nature</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">has</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="IN">through</W>
+          
+				
+          <ne AAgf="pobj" id="ne3173">
+            
+					
+            <nphead id="AAh3172">
+              
+						
+              <W Lpos="NN">humanity</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="VBP">become</W>
+          
+				
+          <W Lpos="JJ">conscious</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="JJ">self-reflective</W>
+          
+				
+          <W Lpos="IN">for</W>
+          
+				
+          <ne AAgf="pobj" id="ne3174">
+            
+					
+            <W Lpos="DT">the</W>
+            
+					
+            <W Lpos="JJ">first</W>
+            
+					
+            <nphead id="AAh3173">
+              
+						
+              <W Lpos="NN">time</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="CC">and</W>
+          
+				
+          <W Lpos="IN">that</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3175">
+            
+					
+            <nphead id="AAh3174">
+              
+						
+              <W Lpos="PRP">it</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <W Lpos="JJ">inconsistent</W>
+          
+				
+          <W Lpos="IN">for</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3176">
+            
+					
+            <nphead id="AAh3175">
+              
+						
+              <W Lpos="DT">those</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="WP">who</W>
+            
+					
+            <W Lpos="VBP">claim</W>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="VB">value</W>
+            
+					
+            <ne AAgf="dobj" id="ne3177">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh3176">
+                
+							
+                <W Lpos="NN">biosphere</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">seek</W>
+          
+				
+          <W Lpos="TO">to</W>
+          
+				
+          <W Lpos="VB">extinguish</W>
+          
+				
+          <ne AAgf="dobj" id="ne3178">
+            
+					
+            <nphead id="AAh3177">
+              
+						
+              <W Lpos="CD">one</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="IN">of</W>
+            
+					
+            <ne AAgf="pobj" id="ne3179">
+              
+						
+              <ne AAgf="poss" id="ne3180">
+                
+							
+                <nphead id="AAh3178">
+                  
+								
+                  <W Lpos="PRP$">its</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+						
+              <nphead id="AAh3179">
+                
+							
+                <W Lpos="NNS">creations</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+			
+        <s id="s481">
+          
+				
+          <W Lpos="RB">Furthermore</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <W Lpos="IN">as</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3181">
+            
+					
+            <W Lpos="NN">transhumanist</W>
+            
+					
+            <W Lpos="NNP">Nick</W>
+            
+					
+            <nphead id="AAh3180">
+              
+						
+              <W Lpos="NNP">Bostrom</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">has</W>
+          
+				
+          <W Lpos="VBN">argued</W>
+          
+				
+          <W Lpos=",">,</W>
+          
+				
+          <ne AAgf="nsubj" id="ne3182">
+            
+					
+            <W Lpos="RB">only</W>
+            
+					
+            <nphead id="AAh3181">
+              
+						
+              <W Lpos="NN">humanity</W>
+              
+					
+            </nphead>
+            
+				
+          </ne>
+          
+				
+          <W Lpos="VBZ">is</W>
+          
+				
+          <W Lpos="IN">in</W>
+          
+				
+          <ne AAgf="pobj" id="ne3183">
+            
+					
+            <W Lpos="DT">a</W>
+            
+					
+            <nphead id="AAh3182">
+              
+						
+              <W Lpos="NN">position</W>
+              
+					
+            </nphead>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <W Lpos="VB">avert</W>
+            
+					
+            <ne AAgf="dobj" id="ne3184">
+              
+						
+              <W Lpos="JJ">existential</W>
+              
+						
+              <nphead id="AAh3183">
+                
+							
+                <W Lpos="NNS">risks</W>
+                
+						
+              </nphead>
+              
+					
+            </ne>
+            
+					
+            <W Lpos="TO">to</W>
+            
+					
+            <ne AAgf="pobj" id="ne3185">
+              
+						
+              <W Lpos="DT">the</W>
+              
+						
+              <nphead id="AAh3184">
+                
+							
+                <W Lpos="NN">biosphere</W>
+                
+						
+              </nphead>
+              
+						
+              <W Lpos=",">,</W>
+              
+						
+              <W Lpos="JJ">such</W>
+              
+						
+              <W Lpos="IN">as</W>
+              
+						
+              <ne AAgf="pobj" id="ne3186">
+                
+							
+                <W Lpos="JJ">asteroid</W>
+                
+							
+                <nphead id="AAh3185">
+                  
+								
+                  <W Lpos="NN">impact</W>
+                  
+							
+                </nphead>
+                
+						
+              </ne>
+              
+					
+            </ne>
+            
+				
+          </ne>
+          
+				
+          <W Lpos=".">.</W>
+          
+			
+        </s>
+        
+		
+      </p>
+      
+	
+    </section>
+    
+
+  </body>
+  
+
+</gnomedoc>
