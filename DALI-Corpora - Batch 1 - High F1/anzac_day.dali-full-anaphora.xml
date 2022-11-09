@@ -1,0 +1,1083 @@
+<dalidoc>
+  
+
+  <header>
+    
+ 
+    <fileDesc>
+      
+  
+      <titleStmt>
+        
+   
+        <title>Anzac Day</title>
+        
+   
+        <author>unknown</author>
+        
+  
+      </titleStmt>
+      
+  
+      <categoryStmt>ReadEasyEnglish</categoryStmt>
+      
+  
+      <difficultyStmt>C</difficultyStmt>
+      
+  
+      <publicationStmt>
+        
+   
+        <web>
+          
+    
+          <publisher>FLAX</publisher>
+          
+    
+          <url>http://flax.nzdl.org/greenstone3/flax?a=b&amp;rt=r&amp;s=ClassifierBrowse&amp;c=flaxc252&amp;cl=CL1&amp;if=&amp;cls=</url>
+          
+   
+        </web>
+        
+   
+        <availability>GNU General Public License</availability>
+        
+   
+        <date>19 June 2018</date>
+        
+  
+      </publicationStmt>
+      
+  
+      <sourceDesc>
+        
+   
+        <filename>data\game\DALI-LEARN\Read_Easy_English\C_anzac_day.txt</filename>
+        
+   
+        <date>19 June 2018</date>
+        
+  
+      </sourceDesc>
+      
+ 
+    </fileDesc>
+    
+ 
+    <revisionDesc>
+      
+  
+      <change>
+        
+   
+        <date>19 June 2018</date>
+        
+   
+        <respStmt>
+          
+    
+          <name>Juntao Yu</name>
+          
+    
+          <resp>Automatic Processing</resp>
+          
+   
+        </respStmt>
+        
+   
+        <TEIitem>Sentence split, tokenization, pos tagging, mention extraction, named entity recognition and mention head finding</TEIitem>
+        
+  
+      </change>
+      
+ 
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <primaryData end="673" start="0">
+    
+
+    <textualContent>
+Early on the 25th April each year many New Zealanders get out of bed. They get dressed and then meet with others in their towns and cities. They remember together soldiers from wars which were fought long ago.
+Everyone sings a hymn or song and says a prayer to remember the soldiers. Sometimes they leave flowers. A special song called "The Last Post" is played and then everyone stays silent for a few minutes to show respect for the soldiers who died.
+Finally the old soldiers march through the streets to meet together at the soldiers' club, called the RSA. Here they eat together, tell stories to each other and remember their friends and family who fought as soldiers.
+</textualContent>
+    
+
+  </primaryData>
+  
+
+  <baseLayer>
+    
+ 
+    <W Lpos="RB" att_score="0.6079736" end="5" id="w0" start="0">Early</W>
+    
+ 
+    <W Lpos="IN" att_score="-30.365974" end="8" id="w1" start="6">on</W>
+    
+ 
+    <W Lpos="DT" att_score="-61.29929" end="12" id="w2" start="9">the</W>
+    
+ 
+    <W Lpos="JJ" att_score="-39.964676" end="17" id="w3" start="13">25th</W>
+    
+ 
+    <W Lpos="NNP" att_score="-17.963654" end="23" id="w4" start="18">April</W>
+    
+ 
+    <W Lpos="DT" att_score="-27.749012" end="28" id="w5" start="24">each</W>
+    
+ 
+    <W Lpos="NN" att_score="-12.137857" end="33" id="w6" start="29">year</W>
+    
+ 
+    <W Lpos="JJ" att_score="-27.27995" end="38" id="w7" start="34">many</W>
+    
+ 
+    <W Lpos="NNP" att_score="-51.643677" end="42" id="w8" start="39">New</W>
+    
+ 
+    <W Lpos="NNP" att_score="-12.930318" end="53" id="w9" start="43">Zealanders</W>
+    
+ 
+    <W Lpos="VB" att_score="-12.9481735" end="57" id="w10" start="54">get</W>
+    
+ 
+    <W Lpos="IN" att_score="-21.97488" end="61" id="w11" start="58">out</W>
+    
+ 
+    <W Lpos="IN" att_score="-48.282276" end="64" id="w12" start="62">of</W>
+    
+ 
+    <W Lpos="NN" att_score="-36.414673" end="68" id="w13" start="65">bed</W>
+    
+ 
+    <W Lpos="." att_score="-30.921055" end="69" id="w14" start="68">.</W>
+    
+ 
+    <W Lpos="PRP" att_score="-20.333618" end="74" id="w15" start="70">They</W>
+    
+ 
+    <W Lpos="VBP" att_score="-22.117062" end="78" id="w16" start="75">get</W>
+    
+ 
+    <W Lpos="VBN" att_score="-8.22528" end="86" id="w17" start="79">dressed</W>
+    
+ 
+    <W Lpos="CC" att_score="-14.228375" end="90" id="w18" start="87">and</W>
+    
+ 
+    <W Lpos="RB" att_score="-9.089547" end="95" id="w19" start="91">then</W>
+    
+ 
+    <W Lpos="VB" att_score="2.6381006" end="100" id="w20" start="96">meet</W>
+    
+ 
+    <W Lpos="IN" att_score="-21.57542" end="105" id="w21" start="101">with</W>
+    
+ 
+    <W Lpos="NNS" att_score="-4.912082" end="112" id="w22" start="106">others</W>
+    
+ 
+    <W Lpos="IN" att_score="-35.061954" end="115" id="w23" start="113">in</W>
+    
+ 
+    <W Lpos="PRP$" att_score="-61.96809" end="121" id="w24" start="116">their</W>
+    
+ 
+    <W Lpos="NNS" att_score="-22.483486" end="127" id="w25" start="122">towns</W>
+    
+ 
+    <W Lpos="CC" att_score="-38.91876" end="131" id="w26" start="128">and</W>
+    
+ 
+    <W Lpos="NNS" att_score="-33.027416" end="138" id="w27" start="132">cities</W>
+    
+ 
+    <W Lpos="." att_score="-39.275288" end="139" id="w28" start="138">.</W>
+    
+ 
+    <W Lpos="PRP" att_score="-27.080437" end="144" id="w29" start="140">They</W>
+    
+ 
+    <W Lpos="VBP" att_score="-5.188241" end="153" id="w30" start="145">remember</W>
+    
+ 
+    <W Lpos="RB" att_score="-36.647907" end="162" id="w31" start="154">together</W>
+    
+ 
+    <W Lpos="NNS" att_score="-2.9546614" end="171" id="w32" start="163">soldiers</W>
+    
+ 
+    <W Lpos="IN" att_score="-31.242798" end="176" id="w33" start="172">from</W>
+    
+ 
+    <W Lpos="NNS" att_score="-13.264561" end="181" id="w34" start="177">wars</W>
+    
+ 
+    <W Lpos="WDT" att_score="-57.064068" end="187" id="w35" start="182">which</W>
+    
+ 
+    <W Lpos="VBD" att_score="-26.80251" end="192" id="w36" start="188">were</W>
+    
+ 
+    <W Lpos="VBN" att_score="-46.300842" end="199" id="w37" start="193">fought</W>
+    
+ 
+    <W Lpos="RB" att_score="-50.268574" end="204" id="w38" start="200">long</W>
+    
+ 
+    <W Lpos="RB" att_score="-36.2606" end="208" id="w39" start="205">ago</W>
+    
+ 
+    <W Lpos="." att_score="-35.865124" end="209" id="w40" start="208">.</W>
+    
+ 
+    <W Lpos="NN" att_score="5.55103" end="218" id="w41" start="210">Everyone</W>
+    
+ 
+    <W Lpos="VBZ" att_score="4.847522" end="224" id="w42" start="219">sings</W>
+    
+ 
+    <W Lpos="DT" att_score="-38.619095" end="226" id="w43" start="225">a</W>
+    
+ 
+    <W Lpos="NN" att_score="-17.874325" end="231" id="w44" start="227">hymn</W>
+    
+ 
+    <W Lpos="CC" att_score="-30.139767" end="234" id="w45" start="232">or</W>
+    
+ 
+    <W Lpos="NN" att_score="-4.946659" end="239" id="w46" start="235">song</W>
+    
+ 
+    <W Lpos="CC" att_score="-19.129025" end="243" id="w47" start="240">and</W>
+    
+ 
+    <W Lpos="VBZ" att_score="-4.8231955" end="248" id="w48" start="244">says</W>
+    
+ 
+    <W Lpos="DT" att_score="-43.03931" end="250" id="w49" start="249">a</W>
+    
+ 
+    <W Lpos="NN" att_score="-13.247354" end="257" id="w50" start="251">prayer</W>
+    
+ 
+    <W Lpos="TO" att_score="-50.44224" end="260" id="w51" start="258">to</W>
+    
+ 
+    <W Lpos="VB" att_score="-38.41624" end="269" id="w52" start="261">remember</W>
+    
+ 
+    <W Lpos="DT" att_score="-75.51944" end="273" id="w53" start="270">the</W>
+    
+ 
+    <W Lpos="NNS" att_score="-40.297863" end="282" id="w54" start="274">soldiers</W>
+    
+ 
+    <W Lpos="." att_score="-43.590282" end="283" id="w55" start="282">.</W>
+    
+ 
+    <W Lpos="RB" att_score="-9.691301" end="293" id="w56" start="284">Sometimes</W>
+    
+ 
+    <W Lpos="PRP" att_score="-22.81546" end="298" id="w57" start="294">they</W>
+    
+ 
+    <W Lpos="VBP" att_score="-42.952045" end="304" id="w58" start="299">leave</W>
+    
+ 
+    <W Lpos="NNS" att_score="-25.025772" end="312" id="w59" start="305">flowers</W>
+    
+ 
+    <W Lpos="." att_score="-25.981712" end="313" id="w60" start="312">.</W>
+    
+ 
+    <W Lpos="DT" att_score="-12.042974" end="315" id="w61" start="314">A</W>
+    
+ 
+    <W Lpos="JJ" att_score="8.789764" end="323" id="w62" start="316">special</W>
+    
+ 
+    <W Lpos="NN" att_score="40.372185" end="328" id="w63" start="324">song</W>
+    
+ 
+    <W Lpos="VBN" att_score="9.916518" end="335" id="w64" start="329">called</W>
+    
+ 
+    <W Lpos="``" att_score="-21.759457" end="337" id="w65" start="336">"</W>
+    
+ 
+    <W Lpos="DT" att_score="-35.94319" end="340" id="w66" start="337">The</W>
+    
+ 
+    <W Lpos="JJ" att_score="-21.988785" end="345" id="w67" start="341">Last</W>
+    
+ 
+    <W Lpos="NN" att_score="10.0781355" end="350" id="w68" start="346">Post</W>
+    
+ 
+    <W Lpos="''" att_score="-10.573235" end="351" id="w69" start="350">"</W>
+    
+ 
+    <W Lpos="VBZ" att_score="-5.206208" end="354" id="w70" start="352">is</W>
+    
+ 
+    <W Lpos="VBN" att_score="-0.12177563" end="361" id="w71" start="355">played</W>
+    
+ 
+    <W Lpos="CC" att_score="-11.049769" end="365" id="w72" start="362">and</W>
+    
+ 
+    <W Lpos="RB" att_score="-0.96476173" end="370" id="w73" start="366">then</W>
+    
+ 
+    <W Lpos="NN" att_score="21.98883" end="379" id="w74" start="371">everyone</W>
+    
+ 
+    <W Lpos="NNS" att_score="31.162098" end="385" id="w75" start="380">stays</W>
+    
+ 
+    <W Lpos="JJ" att_score="45.727066" end="392" id="w76" start="386">silent</W>
+    
+ 
+    <W Lpos="IN" att_score="10.798307" end="396" id="w77" start="393">for</W>
+    
+ 
+    <W Lpos="DT" att_score="-16.855873" end="398" id="w78" start="397">a</W>
+    
+ 
+    <W Lpos="JJ" att_score="3.5993228" end="402" id="w79" start="399">few</W>
+    
+ 
+    <W Lpos="NNS" att_score="34.87055" end="410" id="w80" start="403">minutes</W>
+    
+ 
+    <W Lpos="TO" att_score="-15.701646" end="413" id="w81" start="411">to</W>
+    
+ 
+    <W Lpos="VB" att_score="-0.2777927" end="418" id="w82" start="414">show</W>
+    
+ 
+    <W Lpos="NN" att_score="23.855972" end="426" id="w83" start="419">respect</W>
+    
+ 
+    <W Lpos="IN" att_score="-14.541005" end="430" id="w84" start="427">for</W>
+    
+ 
+    <W Lpos="DT" att_score="-35.868397" end="434" id="w85" start="431">the</W>
+    
+ 
+    <W Lpos="NNS" att_score="-0.40716767" end="443" id="w86" start="435">soldiers</W>
+    
+ 
+    <W Lpos="WP" att_score="-42.676018" end="447" id="w87" start="444">who</W>
+    
+ 
+    <W Lpos="VBD" att_score="-36.42011" end="452" id="w88" start="448">died</W>
+    
+ 
+    <W Lpos="." att_score="-39.98385" end="453" id="w89" start="452">.</W>
+    
+ 
+    <W Lpos="RB" att_score="-3.3061986" end="461" id="w90" start="454">Finally</W>
+    
+ 
+    <W Lpos="DT" att_score="-37.789448" end="465" id="w91" start="462">the</W>
+    
+ 
+    <W Lpos="JJ" att_score="-12.161439" end="469" id="w92" start="466">old</W>
+    
+ 
+    <W Lpos="NNS" att_score="20.59652" end="478" id="w93" start="470">soldiers</W>
+    
+ 
+    <W Lpos="VBP" att_score="38.62634" end="484" id="w94" start="479">march</W>
+    
+ 
+    <W Lpos="IN" att_score="-12.2397375" end="492" id="w95" start="485">through</W>
+    
+ 
+    <W Lpos="DT" att_score="-24.66233" end="496" id="w96" start="493">the</W>
+    
+ 
+    <W Lpos="NNS" att_score="20.971004" end="504" id="w97" start="497">streets</W>
+    
+ 
+    <W Lpos="TO" att_score="-13.3288145" end="507" id="w98" start="505">to</W>
+    
+ 
+    <W Lpos="VB" att_score="-1.8238022" end="512" id="w99" start="508">meet</W>
+    
+ 
+    <W Lpos="RB" att_score="-18.176517" end="521" id="w100" start="513">together</W>
+    
+ 
+    <W Lpos="IN" att_score="-21.299454" end="524" id="w101" start="522">at</W>
+    
+ 
+    <W Lpos="DT" att_score="-65.17927" end="528" id="w102" start="525">the</W>
+    
+ 
+    <W Lpos="NNS" att_score="-28.006435" end="537" id="w103" start="529">soldiers</W>
+    
+ 
+    <W Lpos="POS" att_score="-52.086826" end="538" id="w104" start="537">'</W>
+    
+ 
+    <W Lpos="NN" att_score="-4.2190504" end="543" id="w105" start="539">club</W>
+    
+ 
+    <W Lpos="," att_score="-38.05924" end="544" id="w106" start="543">,</W>
+    
+ 
+    <W Lpos="VBD" att_score="-39.739307" end="551" id="w107" start="545">called</W>
+    
+ 
+    <W Lpos="DT" att_score="-65.192444" end="555" id="w108" start="552">the</W>
+    
+ 
+    <W Lpos="NNP" att_score="-32.457184" end="559" id="w109" start="556">RSA</W>
+    
+ 
+    <W Lpos="." att_score="-34.56654" end="560" id="w110" start="559">.</W>
+    
+ 
+    <W Lpos="RB" att_score="24.556705" end="565" id="w111" start="561">Here</W>
+    
+ 
+    <W Lpos="PRP" att_score="-9.124768" end="570" id="w112" start="566">they</W>
+    
+ 
+    <W Lpos="VBP" att_score="-7.1196556" end="574" id="w113" start="571">eat</W>
+    
+ 
+    <W Lpos="RB" att_score="-10.4151945" end="583" id="w114" start="575">together</W>
+    
+ 
+    <W Lpos="," att_score="-23.540527" end="584" id="w115" start="583">,</W>
+    
+ 
+    <W Lpos="VB" att_score="-10.898527" end="589" id="w116" start="585">tell</W>
+    
+ 
+    <W Lpos="NNS" att_score="18.886368" end="597" id="w117" start="590">stories</W>
+    
+ 
+    <W Lpos="TO" att_score="-16.78152" end="600" id="w118" start="598">to</W>
+    
+ 
+    <W Lpos="DT" att_score="-27.934193" end="605" id="w119" start="601">each</W>
+    
+ 
+    <W Lpos="JJ" att_score="-11.100118" end="611" id="w120" start="606">other</W>
+    
+ 
+    <W Lpos="CC" att_score="-31.99578" end="615" id="w121" start="612">and</W>
+    
+ 
+    <W Lpos="VB" att_score="-15.357354" end="624" id="w122" start="616">remember</W>
+    
+ 
+    <W Lpos="PRP$" att_score="-41.51446" end="630" id="w123" start="625">their</W>
+    
+ 
+    <W Lpos="NNS" att_score="-15.186458" end="638" id="w124" start="631">friends</W>
+    
+ 
+    <W Lpos="CC" att_score="-39.9697" end="642" id="w125" start="639">and</W>
+    
+ 
+    <W Lpos="NN" att_score="-18.365448" end="649" id="w126" start="643">family</W>
+    
+ 
+    <W Lpos="WP" att_score="-37.351597" end="653" id="w127" start="650">who</W>
+    
+ 
+    <W Lpos="VBD" att_score="-46.02364" end="660" id="w128" start="654">fought</W>
+    
+ 
+    <W Lpos="IN" att_score="-67.78157" end="663" id="w129" start="661">as</W>
+    
+ 
+    <W Lpos="NNS" att_score="-40.946835" end="672" id="w130" start="664">soldiers</W>
+    
+ 
+    <W Lpos="." att_score="-43.130753" end="673" id="w131" start="672">.</W>
+    
+
+  </baseLayer>
+  
+
+  <layoutLayer>
+    
+ 
+    <layMarkable end="w131" id="l1" layType="section" start="w0" />
+    
+ 
+    <layMarkable end="w40" id="l2" layType="p" start="w0" />
+    
+ 
+    <layMarkable end="w89" id="l3" layType="p" start="w41" />
+    
+ 
+    <layMarkable end="w131" id="l4" layType="p" start="w90" />
+    
+ 
+    <layMarkable end="w14" id="l5" layType="s" start="w0" />
+    
+ 
+    <layMarkable end="w28" id="l6" layType="s" start="w15" />
+    
+ 
+    <layMarkable end="w40" id="l7" layType="s" start="w29" />
+    
+ 
+    <layMarkable end="w55" id="l8" layType="s" start="w41" />
+    
+ 
+    <layMarkable end="w60" id="l9" layType="s" start="w56" />
+    
+ 
+    <layMarkable end="w89" id="l10" layType="s" start="w61" />
+    
+ 
+    <layMarkable end="w110" id="l11" layType="s" start="w90" />
+    
+ 
+    <layMarkable end="w131" id="l12" layType="s" start="w111" />
+    
+
+  </layoutLayer>
+  
+
+  <markableLayer>
+    
+ 
+    <nh head="w6..w6">
+      
+  
+      <am id="am1" player="dalipipeline201806" span="w5..w6" />
+      
+ 
+      <am id="am43" player="tileattack/aggregation/mpa" span="w5..w6" />
+    </nh>
+    
+ 
+    <nh head="w9..w9">
+      
+  
+      <am id="am2" player="dalipipeline201806" span="w7..w9" />
+      
+  
+      <am id="am3" player="dalipipeline201806" span="w8..w9" />
+      
+ 
+      <am id="am44" player="tileattack/aggregation/mpa" span="w7..w9" />
+    </nh>
+    
+ 
+    <nh head="w13..w13">
+      
+  
+      <am id="am4" player="dalipipeline201806" span="w13..w13" />
+      
+ 
+      <am id="am45" player="tileattack/aggregation/mpa" span="w13..w13" />
+    </nh>
+    
+ 
+    <nh head="w15..w15">
+      
+  
+      <am id="am5" player="dalipipeline201806" span="w15..w15" />
+      
+ 
+      <am id="am46" player="tileattack/aggregation/mpa" span="w15..w15" />
+    </nh>
+    
+ 
+    <nh head="w22..w22">
+      
+  
+      <am id="am6" player="dalipipeline201806" span="w22..w27" />
+      
+ 
+      <am id="am47" player="tileattack/aggregation/mpa" span="w22..w22" />
+    </nh>
+    
+ 
+    <nh head="w24..w24">
+      
+  
+      <am id="am7" player="dalipipeline201806" span="w24..w24" />
+      
+ 
+      <am id="am48" player="tileattack/aggregation/mpa" span="w24..w24" />
+    </nh>
+    
+ 
+    <nh head="w25..w25">
+      
+  
+      <am id="am8" player="dalipipeline201806" span="w24..w25" />
+      
+  
+      <am id="am9" player="dalipipeline201806" span="w24..w27" />
+      
+ 
+      <am id="am49" player="tileattack/aggregation/mpa" span="w25..w25" />
+    </nh>
+    
+ 
+    <nh head="w29..w29">
+      
+  
+      <am id="am10" player="dalipipeline201806" span="w29..w29" />
+      
+ 
+      <am id="am52" player="tileattack/aggregation/mpa" span="w29..w29" />
+    </nh>
+    
+ 
+    <nh head="w32..w32">
+      
+  
+      <am id="am11" player="dalipipeline201806" span="w32..w39" />
+      
+ 
+      <am id="am53" player="tileattack/aggregation/mpa" span="w32..w32" />
+    </nh>
+    
+ 
+    <nh head="w34..w34">
+      
+  
+      <am id="am12" player="dalipipeline201806" span="w34..w39" />
+      
+ 
+      <am id="am54" player="tileattack/aggregation/mpa" span="w34..w34" />
+    </nh>
+    
+ 
+    <nh head="w39..w39">
+      
+  
+      <am id="am13" player="dalipipeline201806" span="w38..w39" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w41..w41">
+      
+  
+      <am id="am14" player="dalipipeline201806" span="w41..w41" />
+      
+ 
+      <am id="am55" player="tileattack/aggregation/mpa" span="w41..w41" />
+    </nh>
+    
+ 
+    <nh head="w44..w44">
+      
+  
+      <am id="am15" player="dalipipeline201806" span="w43..w44" />
+      
+ 
+      <am id="am56" player="tileattack/aggregation/mpa" span="w43..w44" />
+    </nh>
+    
+ 
+    <nh head="w46..w46">
+      
+  
+      <am id="am16" player="dalipipeline201806" span="w43..w46" />
+      
+ 
+      <am id="am58" player="tileattack/aggregation/mpa" span="w46..w46" />
+    </nh>
+    
+ 
+    <nh head="w50..w50">
+      
+  
+      <am id="am17" player="dalipipeline201806" span="w49..w50" />
+      
+  
+      <am id="am18" player="dalipipeline201806" span="w49..w54" />
+      
+ 
+      <am id="am59" player="tileattack/aggregation/mpa" span="w49..w50" />
+    </nh>
+    
+ 
+    <nh head="w54..w54">
+      
+  
+      <am id="am19" player="dalipipeline201806" span="w53..w54" />
+      
+ 
+      <am id="am60" player="tileattack/aggregation/mpa" span="w53..w54" />
+    </nh>
+    
+ 
+    <nh head="w57..w57">
+      
+  
+      <am id="am20" player="dalipipeline201806" span="w57..w57" />
+      
+ 
+      <am id="am61" player="tileattack/aggregation/mpa" span="w57..w57" />
+    </nh>
+    
+ 
+    <nh head="w59..w59">
+      
+  
+      <am id="am21" player="dalipipeline201806" span="w59..w59" />
+      
+ 
+      <am id="am62" player="tileattack/aggregation/mpa" span="w59..w59" />
+    </nh>
+    
+ 
+    <nh head="w63..w63">
+      
+  
+      <am id="am22" player="dalipipeline201806" span="w61..w69" />
+      
+ 
+      <am id="am63" player="tileattack/aggregation/mpa" span="w61..w63" />
+    </nh>
+    
+ 
+    <nh head="w68..w68">
+      
+  
+      <am id="am23" player="dalipipeline201806" span="w66..w68" />
+      
+ 
+      <am id="am64" player="tileattack/aggregation/mpa" span="w66..w68" />
+    </nh>
+    
+ 
+    <nh head="w74..w74">
+      
+  
+      <am id="am24" player="dalipipeline201806" span="w74..w74" />
+      
+ 
+      <am id="am65" player="tileattack/aggregation/mpa" span="w74..w74" />
+    </nh>
+    
+ 
+    <nh head="w75..w75">
+      
+  
+      <am id="am25" player="dalipipeline201806" span="w74..w75" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w76..w76">
+      
+  
+      <am id="am26" player="dalipipeline201806" span="w61..w88" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w80..w80">
+      
+  
+      <am id="am27" player="dalipipeline201806" span="w78..w88" />
+      
+ 
+      <am id="am66" player="tileattack/aggregation/mpa" span="w78..w80" />
+    </nh>
+    
+ 
+    <nh head="w83..w83">
+      
+  
+      <am id="am28" player="dalipipeline201806" span="w83..w88" />
+      
+ 
+      <am id="am67" player="tileattack/aggregation/mpa" span="w83..w83" />
+    </nh>
+    
+ 
+    <nh head="w86..w86">
+      
+  
+      <am id="am29" player="dalipipeline201806" span="w85..w88" />
+      
+ 
+      <am id="am68" player="tileattack/aggregation/mpa" span="w85..w88" />
+    </nh>
+    
+ 
+    <nh head="w93..w93">
+      
+  
+      <am id="am30" player="dalipipeline201806" span="w91..w93" />
+      
+ 
+      <am id="am69" player="tileattack/aggregation/mpa" span="w91..w93" />
+    </nh>
+    
+ 
+    <nh head="w97..w97">
+      
+  
+      <am id="am31" player="dalipipeline201806" span="w96..w97" />
+      
+ 
+      <am id="am70" player="tileattack/aggregation/mpa" span="w96..w97" />
+    </nh>
+    
+ 
+    <nh head="w103..w103">
+      
+  
+      <am id="am32" player="dalipipeline201806" span="w102..w104" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w105..w105">
+      
+  
+      <am id="am33" player="dalipipeline201806" span="w102..w105" />
+      
+  
+      <am id="am34" player="dalipipeline201806" span="w102..w109" />
+      
+ 
+      <am id="am71" player="tileattack/aggregation/mpa" span="w102..w109" />
+    </nh>
+    
+ 
+    <nh head="w109..w109">
+      
+  
+      <am id="am35" player="dalipipeline201806" span="w108..w109" />
+      
+ 
+      <am id="am72" player="tileattack/aggregation/mpa" span="w108..w109" />
+    </nh>
+    
+ 
+    <nh head="w112..w112">
+      
+  
+      <am id="am36" player="dalipipeline201806" span="w112..w112" />
+      
+ 
+      <am id="am73" player="tileattack/aggregation/mpa" span="w112..w112" />
+    </nh>
+    
+ 
+    <nh head="w120..w120">
+      
+  
+      <am id="am37" player="dalipipeline201806" span="w119..w120" />
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w123..w123">
+      
+  
+      <am id="am38" player="dalipipeline201806" span="w123..w123" />
+      
+ 
+      <am id="am75" player="tileattack/aggregation/mpa" span="w123..w123" />
+    </nh>
+    
+ 
+    <nh head="w124..w124">
+      
+  
+      <am id="am39" player="dalipipeline201806" span="w123..w124" />
+      
+  
+      <am id="am40" player="dalipipeline201806" span="w123..w130" />
+      
+ 
+      <am id="am76" player="tileattack/aggregation/mpa" span="w123..w124" />
+    </nh>
+    
+ 
+    <nh head="w130..w130">
+      
+  
+      <am id="am41" player="dalipipeline201806" span="w130..w130" />
+      
+ 
+      <am id="am79" player="tileattack/aggregation/mpa" span="w130..w130" />
+    </nh>
+    
+
+    <nh head="w4..w4">
+      <am id="am42" player="tileattack/aggregation/mpa" span="w2..w4" />
+    </nh>
+    <nh head="w26..w26">
+      <am id="am50" player="tileattack/aggregation/mpa" span="w24..w27" />
+    </nh>
+    <nh head="w27..w27">
+      <am id="am51" player="tileattack/aggregation/mpa" span="w27..w27" />
+    </nh>
+    <nh head="w45..w45">
+      <am id="am57" player="tileattack/aggregation/mpa" span="w43..w46" />
+    </nh>
+    <nh head="w117..w117">
+      <am id="am74" player="tileattack/aggregation/mpa" span="w117..w117" />
+    </nh>
+    <nh head="w125..w125">
+      <am id="am77" player="tileattack/aggregation/mpa" span="w123..w130" />
+    </nh>
+    <nh head="w126..w126">
+      <am id="am78" player="tileattack/aggregation/mpa" span="w126..w126" />
+    </nh>
+  </markableLayer>
+  
+
+  <nerLayer>
+    
+ 
+    <nerMarkable end="w6" id="ner1" nerType="time" start="w5" />
+    
+ 
+    <nerMarkable end="w9" id="ner2" nerType="unknown" start="w7" />
+    
+ 
+    <nerMarkable end="w9" id="ner3" nerType="person" start="w8" />
+    
+ 
+    <nerMarkable end="w13" id="ner4" nerType="concrete" start="w13" />
+    
+ 
+    <nerMarkable end="w15" id="ner5" nerType="person" start="w15" />
+    
+ 
+    <nerMarkable end="w27" id="ner6" nerType="person" start="w22" />
+    
+ 
+    <nerMarkable end="w24" id="ner7" nerType="person" start="w24" />
+    
+ 
+    <nerMarkable end="w25" id="ner8" nerType="space" start="w24" />
+    
+ 
+    <nerMarkable end="w27" id="ner9" nerType="unknown" start="w24" />
+    
+ 
+    <nerMarkable end="w29" id="ner10" nerType="person" start="w29" />
+    
+ 
+    <nerMarkable end="w39" id="ner11" nerType="person" start="w32" />
+    
+ 
+    <nerMarkable end="w39" id="ner12" nerType="concrete" start="w34" />
+    
+ 
+    <nerMarkable end="w39" id="ner13" nerType="time" start="w38" />
+    
+ 
+    <nerMarkable end="w41" id="ner14" nerType="unknown" start="w41" />
+    
+ 
+    <nerMarkable end="w44" id="ner15" nerType="abstract" start="w43" />
+    
+ 
+    <nerMarkable end="w46" id="ner16" nerType="abstract" start="w43" />
+    
+ 
+    <nerMarkable end="w50" id="ner17" nerType="abstract" start="w49" />
+    
+ 
+    <nerMarkable end="w54" id="ner18" nerType="abstract" start="w49" />
+    
+ 
+    <nerMarkable end="w54" id="ner19" nerType="person" start="w53" />
+    
+ 
+    <nerMarkable end="w57" id="ner20" nerType="person" start="w57" />
+    
+ 
+    <nerMarkable end="w59" id="ner21" nerType="abstract" start="w59" />
+    
+ 
+    <nerMarkable end="w69" id="ner22" nerType="abstract" start="w61" />
+    
+ 
+    <nerMarkable end="w88" id="ner23" nerType="abstract" start="w61" />
+    
+ 
+    <nerMarkable end="w68" id="ner24" nerType="abstract" start="w66" />
+    
+ 
+    <nerMarkable end="w74" id="ner25" nerType="unknown" start="w74" />
+    
+ 
+    <nerMarkable end="w75" id="ner26" nerType="abstract" start="w74" />
+    
+ 
+    <nerMarkable end="w88" id="ner27" nerType="time" start="w78" />
+    
+ 
+    <nerMarkable end="w88" id="ner28" nerType="abstract" start="w83" />
+    
+ 
+    <nerMarkable end="w88" id="ner29" nerType="person" start="w85" />
+    
+ 
+    <nerMarkable end="w93" id="ner30" nerType="person" start="w91" />
+    
+ 
+    <nerMarkable end="w97" id="ner31" nerType="space" start="w96" />
+    
+ 
+    <nerMarkable end="w104" id="ner32" nerType="person" start="w102" />
+    
+ 
+    <nerMarkable end="w105" id="ner33" nerType="space" start="w102" />
+    
+ 
+    <nerMarkable end="w109" id="ner34" nerType="space" start="w102" />
+    
+ 
+    <nerMarkable end="w109" id="ner35" nerType="unknown" start="w108" />
+    
+ 
+    <nerMarkable end="w112" id="ner36" nerType="person" start="w112" />
+    
+ 
+    <nerMarkable end="w120" id="ner37" nerType="unknown" start="w119" />
+    
+ 
+    <nerMarkable end="w123" id="ner38" nerType="person" start="w123" />
+    
+ 
+    <nerMarkable end="w124" id="ner39" nerType="person" start="w123" />
+    
+ 
+    <nerMarkable end="w130" id="ner40" nerType="unknown" start="w123" />
+    
+ 
+    <nerMarkable end="w130" id="ner41" nerType="person" start="w130" />
+    
+
+  </nerLayer>
+  
+
+<anaphoraLayer><PDante id="am42"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am43"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am44"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am45"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am46"><interpretation><anchor ante="am44" delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DO" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am47"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am48"><interpretation><anchor ante="am46" delta="97.39" probability="98.56" timestamp="2022-11-09 17:13:37" type="DO" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am50"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am49"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am51"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am52"><interpretation><anchor ante="am48" delta="99.60" probability="99.77" timestamp="2022-11-09 17:13:37" type="DO" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am53"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am54"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am55"><interpretation><anchor delta="50.20" probability="74.13" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am56"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am57"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am58"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am59"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am60"><interpretation><anchor ante="am53" delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DO" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am61"><interpretation><anchor ante="am55" delta="50.20" probability="74.13" timestamp="2022-11-09 17:13:37" type="DO" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am62"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am63"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am64"><interpretation><anchor delta="17.47" probability="55.31" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am65"><interpretation><anchor ante="am61" delta="70.39" probability="84.34" timestamp="2022-11-09 17:13:37" type="DO" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am66"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am67"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am68"><interpretation><anchor delta="74.97" probability="87.08" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am69"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am70"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am71"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am72"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am73"><interpretation><anchor ante="am69" delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DO" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am74"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am75"><interpretation><anchor ante="am73" delta="99.93" probability="99.96" timestamp="2022-11-09 17:13:37" type="DO" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am76"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am77"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am78"><interpretation><anchor delta="100.00" probability="100.00" timestamp="2022-11-09 17:13:37" type="DN" user_id="dali-full-anaphora-pd30" /></interpretation></PDante><PDante id="am79"><interpretation><anchor delta="85.25" probability="90.54" timestamp="2022-11-09 17:13:37" type="NR" user_id="dali-full-anaphora-pd30" /></interpretation></PDante></anaphoraLayer></dalidoc>
