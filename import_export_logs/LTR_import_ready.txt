@@ -1,106 +1,53 @@
 DALI-Corpora - Batch 1 - High F1/can_you_climb_ladders?.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/hamilton's_bridges.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/learn_to_drive.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/mandarins_for_marmalade.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/quiet,_please!.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/the_ethnic_football_festival.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/the_library.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/the_new_house.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/the_op_shop.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/the_shepherd_and_the_tiger.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/the_waikato_river.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/tomatoes.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1 - High F1/tomatoes_for_free.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/andersen's_fairy_tales_-_the_naughty_boy.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/andersen_fairy_tales_-_the_leap-frog.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/anzac_day.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/back_to_school.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/broken_window.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/can_you_climb_ladders?.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/conclusion_to_a_report_entitled:_choose_any_two_fa.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/conclusion_to_a_report_entitled:_discuss_any_two_o.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/conclusion_to_a_report_entitled:_discuss_the_advan.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/conclusion_to_a_report_entitled:_discuss_the_rewar.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/conclusion_to_a_report_entitled:_discuss_what_dism.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/discuss_any_two_of_the_six_main_trading_activities.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/discuss_the_advantages_and_disadvantages_of_etfs_(.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/discuss_the_advantages_and_disadvantages_of_the_in.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/from_the_second_paragraph_of_a_report_entitled:_di.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/hamilton's_bridges.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/introduction_to_a_report_entitled:_discuss_the_mer.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/investment_case:_barratt_developments_plc.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/learn_to_drive.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/leveraged_buyouts;_discuss_the_advantages_and_disa.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/mandarins_for_marmalade.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/never_too_old.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/quiet,_please!.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/the_ethnic_football_festival.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/the_library.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/the_new_house.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/the_op_shop.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/the_shepherd_and_the_tiger.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/the_waikato_river.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/tomatoes.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 1/tomatoes_for_free.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 2/female_genital_mutilation_and_the_efficacy_of_inte.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 2/poe_-_works_of_edgar_allan_poe,_v.2_-_eleonora.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 2/twain_-_sketches_old_and_new_-_disgraceful_persecu.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 2/twain_-_sketches_old_and_new_-_how_the_author_was_.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 2/twain_-_sketches_old_and_new_-_information_wanted.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 2/twain_-_sketches_old_and_new_-_my_watch.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 2/twain_-_sketches_old_and_new_-_the_judge's_spirite.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 2/twain_-_sketches_old_and_new_-_the_office_bore.dali-full-anaphora.xml
-somedatetime
 DALI-Corpora - Batch 2/twain_-_sketches_old_and_new_-_the_story_of_the_ba.dali-full-anaphora.xml
-somedatetime
