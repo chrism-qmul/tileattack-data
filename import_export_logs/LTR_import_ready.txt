@@ -1,4 +1,3 @@
-wrongpath
 DALI-Corpora - Batch 1 - High F1/madeupstuff?.dali-full-anaphora.xml
 DALI-Corpora - Batch 1 - High F1/can_you_climb_ladders?.dali-full-anaphora.xml
 DALI-Corpora - Batch 1 - High F1/hamilton's_bridges.dali-full-anaphora.xml
