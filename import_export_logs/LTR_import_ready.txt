@@ -1,4 +1,3 @@
-wrongpath2
 DALI-Corpora - Batch 1 - High F1/wrongextension2.xml
 DALI-Corpora - Batch 1 - High F1/wrong_file2.dali-full-anaphora.xml
 DALI-Corpora - Batch 1 - High F1/the_new_house.dali-full-anaphora.xml
