@@ -2,3 +2,4 @@
 2023-06-12 11:47:38 -> Wrong file name extension: DALI-Corpora - Batch 1 - High F1/wrongextension.xml
 2023-06-12 11:47:43 -> File fetch error (404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/reference/repos#get-repository-content"}): DALI-Corpora - Batch 1 - High F1/wrong_file.dali-full-anaphora.xml
 2023-06-12 11:48:05 -> Wrong file name extension: wrongpath2
+2023-06-12 11:48:08 -> Wrong file name extension: DALI-Corpora - Batch 1 - High F1/wrongextension2.xml
