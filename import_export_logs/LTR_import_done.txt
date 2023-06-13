@@ -173,3 +173,4 @@
 2023-06-13 20:42:42 -> No change: conclusion_to_a_report_entitled:_discuss_the_advan.dali-full-anaphora.xml
 2023-06-13 20:42:44 -> No change: conclusion_to_a_report_entitled:_discuss_the_rewar.dali-full-anaphora.xml
 2023-06-13 20:42:45 -> No change: conclusion_to_a_report_entitled:_discuss_what_dism.dali-full-anaphora.xml
+2023-06-13 20:42:47 -> No change: from_the_second_paragraph_of_a_report_entitled:_di.dali-full-anaphora.xml
