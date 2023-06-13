@@ -1,3 +1,11 @@
+wrongpath
+DALI-Corpora - Batch 1 - High F1/wrongextension.xml
+DALI-Corpora - Batch 1 - High F1/wrong_file.dali-full-anaphora.xml
+DALI-Corpora - Batch 1 - High F1/can_you_climb_ladders?.dali-full-anaphora.xml
+DALI-Corpora - Batch 1 - High F1/hamilton's_bridges.dali-full-anaphora.xml
+DALI-Corpora - Batch 1 - High F1/learn_to_drive.dali-full-anaphora.xml
+DALI-Corpora - Batch 1 - High F1/mandarins_for_marmalade.dali-full-anaphora.xml
+DALI-Corpora - Batch 1 - High F1/quiet,_please!.dali-full-anaphora.xml
 DALI-Corpora - Batch 1 - High F1/the_ethnic_football_festival.dali-full-anaphora.xml
 DALI-Corpora - Batch 1 - High F1/the_library.dali-full-anaphora.xml
 wrongpath2
