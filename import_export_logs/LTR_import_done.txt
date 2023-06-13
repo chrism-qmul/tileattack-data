@@ -237,3 +237,4 @@
 2023-06-13 20:45:27 -> No change: introduction_to_a_report_entitled:_discuss_the_mer.dali-full-anaphora.xml
 2023-06-13 20:45:29 -> No change: never_too_old.dali-full-anaphora.xml
 2023-06-13 20:45:41 -> Updated document: the_waikato_river.dali-full-anaphora.xml
+2023-06-13 20:45:43 -> No change: anzac_day.dali-full-anaphora.xml
