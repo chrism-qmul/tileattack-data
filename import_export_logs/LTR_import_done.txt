@@ -65,3 +65,4 @@
 2023-06-13 20:38:20 -> Updated document: discuss_the_advantages_and_disadvantages_of_etfs_(.dali-full-anaphora.xml
 2023-06-13 20:38:22 -> No change: anzac_day.dali-full-anaphora.xml
 2023-06-13 20:38:23 -> No change: back_to_school.dali-full-anaphora.xml
+2023-06-13 20:38:24 -> No change: broken_window.dali-full-anaphora.xml
