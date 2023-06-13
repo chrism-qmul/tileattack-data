@@ -225,3 +225,4 @@
 2023-06-13 20:44:57 -> No change: introduction_to_a_report_entitled:_discuss_the_mer.dali-full-anaphora.xml
 2023-06-13 20:44:59 -> No change: never_too_old.dali-full-anaphora.xml
 2023-06-13 20:45:12 -> Updated document: the_shepherd_and_the_tiger.dali-full-anaphora.xml
+2023-06-13 20:45:13 -> No change: anzac_day.dali-full-anaphora.xml
