@@ -227,3 +227,4 @@
 2023-06-13 20:45:12 -> Updated document: the_shepherd_and_the_tiger.dali-full-anaphora.xml
 2023-06-13 20:45:13 -> No change: anzac_day.dali-full-anaphora.xml
 2023-06-13 20:45:15 -> No change: back_to_school.dali-full-anaphora.xml
+2023-06-13 20:45:16 -> No change: broken_window.dali-full-anaphora.xml
