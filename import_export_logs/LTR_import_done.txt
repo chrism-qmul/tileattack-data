@@ -274,3 +274,4 @@
 2023-06-13 20:46:57 -> No change: never_too_old.dali-full-anaphora.xml
 2023-06-13 20:47:11 -> Updated document: tomatoes_for_free.dali-full-anaphora.xml
 2023-06-13 20:47:13 -> No change: anzac_day.dali-full-anaphora.xml
+2023-06-13 20:47:14 -> No change: back_to_school.dali-full-anaphora.xml
