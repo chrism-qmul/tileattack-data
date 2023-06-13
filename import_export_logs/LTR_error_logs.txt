@@ -1,2 +1,2 @@
-
 2023-06-13 18:24:15 -> Wrong file name extension: wrongpath
+2023-06-13 18:24:19 -> Wrong file name extension: DALI-Corpora - Batch 1 - High F1/wrongextension.xml
