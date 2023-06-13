@@ -90,3 +90,4 @@
 2023-06-13 20:39:13 -> No change: conclusion_to_a_report_entitled:_discuss_what_dism.dali-full-anaphora.xml
 2023-06-13 20:39:14 -> No change: from_the_second_paragraph_of_a_report_entitled:_di.dali-full-anaphora.xml
 2023-06-13 20:39:25 -> Updated document: hamilton's_bridges.dali-full-anaphora.xml
+2023-06-13 20:39:26 -> No change: anzac_day.dali-full-anaphora.xml
