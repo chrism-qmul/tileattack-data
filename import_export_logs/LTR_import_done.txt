@@ -213,3 +213,4 @@
 2023-06-13 20:44:26 -> No change: introduction_to_a_report_entitled:_discuss_the_mer.dali-full-anaphora.xml
 2023-06-13 20:44:28 -> No change: never_too_old.dali-full-anaphora.xml
 2023-06-13 20:44:42 -> Updated document: the_op_shop.dali-full-anaphora.xml
+2023-06-13 20:44:43 -> No change: anzac_day.dali-full-anaphora.xml
