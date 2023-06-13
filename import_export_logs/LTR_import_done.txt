@@ -22,3 +22,4 @@
 2023-06-13 20:36:29 -> Updated document: can_you_climb_ladders?.dali-full-anaphora.xml
 2023-06-13 20:36:31 -> No change: anzac_day.dali-full-anaphora.xml
 2023-06-13 20:36:32 -> No change: back_to_school.dali-full-anaphora.xml
+2023-06-13 20:36:34 -> No change: broken_window.dali-full-anaphora.xml
