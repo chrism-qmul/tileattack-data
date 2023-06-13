@@ -166,3 +166,4 @@
 2023-06-13 20:42:19 -> No change: never_too_old.dali-full-anaphora.xml
 2023-06-13 20:42:34 -> Updated document: quiet,_please!.dali-full-anaphora.xml
 2023-06-13 20:42:35 -> No change: anzac_day.dali-full-anaphora.xml
+2023-06-13 20:42:36 -> No change: back_to_school.dali-full-anaphora.xml
