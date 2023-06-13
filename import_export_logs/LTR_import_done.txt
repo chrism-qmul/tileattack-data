@@ -261,3 +261,4 @@
 2023-06-13 20:46:26 -> No change: introduction_to_a_report_entitled:_discuss_the_mer.dali-full-anaphora.xml
 2023-06-13 20:46:27 -> No change: never_too_old.dali-full-anaphora.xml
 2023-06-13 20:46:40 -> Updated document: tomatoes.dali-full-anaphora.xml
+2023-06-13 20:46:42 -> No change: anzac_day.dali-full-anaphora.xml
