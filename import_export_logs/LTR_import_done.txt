@@ -176,3 +176,4 @@
 2023-06-13 20:42:47 -> No change: from_the_second_paragraph_of_a_report_entitled:_di.dali-full-anaphora.xml
 2023-06-13 20:42:48 -> No change: introduction_to_a_report_entitled:_discuss_the_mer.dali-full-anaphora.xml
 2023-06-13 20:42:50 -> No change: never_too_old.dali-full-anaphora.xml
+2023-06-13 20:43:03 -> Updated document: the_ethnic_football_festival.dali-full-anaphora.xml
