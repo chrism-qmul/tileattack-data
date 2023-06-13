@@ -239,3 +239,4 @@
 2023-06-13 20:45:41 -> Updated document: the_waikato_river.dali-full-anaphora.xml
 2023-06-13 20:45:43 -> No change: anzac_day.dali-full-anaphora.xml
 2023-06-13 20:45:44 -> No change: back_to_school.dali-full-anaphora.xml
+2023-06-13 20:45:46 -> No change: broken_window.dali-full-anaphora.xml
