@@ -45,3 +45,4 @@
 2023-06-13 20:37:24 -> No change: conclusion_to_a_report_entitled:_discuss_any_two_o.dali-full-anaphora.xml
 2023-06-13 20:37:26 -> No change: conclusion_to_a_report_entitled:_discuss_the_advan.dali-full-anaphora.xml
 2023-06-13 20:37:27 -> No change: conclusion_to_a_report_entitled:_discuss_the_rewar.dali-full-anaphora.xml
+2023-06-13 20:37:36 -> No change: anzac_day.dali-full-anaphora.xml
