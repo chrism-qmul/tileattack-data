@@ -134,3 +134,4 @@
 2023-06-13 20:41:09 -> Updated document: leveraged_buyouts;_discuss_the_advantages_and_disa.dali-full-anaphora.xml
 2023-06-13 20:41:11 -> No change: anzac_day.dali-full-anaphora.xml
 2023-06-13 20:41:12 -> No change: back_to_school.dali-full-anaphora.xml
+2023-06-13 20:41:13 -> No change: broken_window.dali-full-anaphora.xml
