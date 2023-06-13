@@ -1,4 +1,3 @@
-DALI-Corpora - Batch 1/andersen's_fairy_tales_-_the_naughty_boy.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/andersen_fairy_tales_-_the_leap-frog.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/anzac_day.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/back_to_school.dali-full-anaphora.xml
