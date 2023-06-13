@@ -39,3 +39,4 @@
 2023-06-13 20:37:10 -> No change: conclusion_to_a_report_entitled:_discuss_any_two_o.dali-full-anaphora.xml
 2023-06-13 20:37:11 -> No change: conclusion_to_a_report_entitled:_discuss_the_advan.dali-full-anaphora.xml
 2023-06-13 20:37:19 -> No change: anzac_day.dali-full-anaphora.xml
+2023-06-13 20:37:20 -> No change: back_to_school.dali-full-anaphora.xml
