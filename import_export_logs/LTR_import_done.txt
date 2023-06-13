@@ -189,3 +189,4 @@
 2023-06-13 20:43:18 -> No change: introduction_to_a_report_entitled:_discuss_the_mer.dali-full-anaphora.xml
 2023-06-13 20:43:19 -> No change: never_too_old.dali-full-anaphora.xml
 2023-06-13 20:43:41 -> Updated document: the_library.dali-full-anaphora.xml
+2023-06-13 20:43:42 -> No change: anzac_day.dali-full-anaphora.xml
