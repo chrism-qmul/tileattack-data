@@ -30,3 +30,4 @@
 2023-06-14 15:12:44 -> No change: introduction_to_a_report_entitled:_discuss_the_mer.dali-full-anaphora.xml
 2023-06-14 15:12:53 -> Updated document: investment_case:_barratt_developments_plc.dali-full-anaphora.xml
 2023-06-14 15:13:03 -> Updated document: learn_to_drive.dali-full-anaphora.xml
+2023-06-14 15:13:09 -> Updated document: leveraged_buyouts;_discuss_the_advantages_and_disa.dali-full-anaphora.xml
