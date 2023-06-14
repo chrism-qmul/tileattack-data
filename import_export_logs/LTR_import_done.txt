@@ -44,3 +44,4 @@
 2023-06-14 15:14:32 -> Updated document: tomatoes_for_free.dali-full-anaphora.xml
 2023-06-14 15:14:50 -> New document: female_genital_mutilation_and_the_efficacy_of_inte.dali-full-anaphora.xml
 2023-06-14 15:15:06 -> New document: poe_-_works_of_edgar_allan_poe,_v.2_-_eleonora.dali-full-anaphora.xml
+2023-06-14 15:15:17 -> New document: twain_-_sketches_old_and_new_-_disgraceful_persecu.dali-full-anaphora.xml
