@@ -1,4 +1,3 @@
-DALI-Corpora - Batch 1/the_ethnic_football_festival.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/the_library.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/the_new_house.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/the_op_shop.dali-full-anaphora.xml
