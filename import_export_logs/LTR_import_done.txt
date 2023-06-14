@@ -50,3 +50,4 @@
 2023-06-14 15:15:43 -> New document: twain_-_sketches_old_and_new_-_my_watch.dali-full-anaphora.xml
 2023-06-14 15:15:51 -> Updated document: twain_-_sketches_old_and_new_-_the_judge's_spirite.dali-full-anaphora.xml
 2023-06-14 15:15:58 -> New document: twain_-_sketches_old_and_new_-_the_office_bore.dali-full-anaphora.xml
+2023-06-14 15:16:09 -> New document: twain_-_sketches_old_and_new_-_the_story_of_the_ba.dali-full-anaphora.xml
