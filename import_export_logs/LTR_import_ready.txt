@@ -1,4 +1,3 @@
-DALI-Corpora - Batch 1/conclusion_to_a_report_entitled:_choose_any_two_fa.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/conclusion_to_a_report_entitled:_discuss_any_two_o.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/conclusion_to_a_report_entitled:_discuss_the_advan.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/conclusion_to_a_report_entitled:_discuss_the_rewar.dali-full-anaphora.xml
