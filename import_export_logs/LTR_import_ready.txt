@@ -1,4 +1,3 @@
-DALI-Corpora - Batch 1 - High F1/the_ethnic_football_festival.dali-full-anaphora.xml
 DALI-Corpora - Batch 1 - High F1/the_library.dali-full-anaphora.xml
 wrongpath2
 DALI-Corpora - Batch 1 - High F1/wrongextension2.xml
