@@ -1,4 +1,3 @@
-DALI-Corpora - Batch 1/hamilton's_bridges.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/introduction_to_a_report_entitled:_discuss_the_mer.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/investment_case:_barratt_developments_plc.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/learn_to_drive.dali-full-anaphora.xml
