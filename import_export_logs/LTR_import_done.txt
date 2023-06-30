@@ -42,3 +42,4 @@
 2023-06-30 21:25:00 -> Updated document: the_waikato_river.dali-full-anaphora.xml
 2023-06-30 21:25:07 -> Updated document: tomatoes.dali-full-anaphora.xml
 2023-06-30 21:25:15 -> Updated document: tomatoes_for_free.dali-full-anaphora.xml
+2023-06-30 21:25:34 -> New document: female_genital_mutilation_and_the_efficacy_of_inte.dali-full-anaphora.xml
