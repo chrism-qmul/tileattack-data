@@ -28,3 +28,4 @@
 2023-06-30 21:23:10 -> Updated document: from_the_second_paragraph_of_a_report_entitled:_di.dali-full-anaphora.xml
 2023-06-30 21:23:16 -> Updated document: hamilton's_bridges.dali-full-anaphora.xml
 2023-06-30 21:23:20 -> No change: introduction_to_a_report_entitled:_discuss_the_mer.dali-full-anaphora.xml
+2023-06-30 21:23:29 -> Updated document: investment_case:_barratt_developments_plc.dali-full-anaphora.xml
