@@ -1,4 +1,3 @@
-DALI-Corpora - Batch 2/twain_-_sketches_old_and_new_-_disgraceful_persecu.dali-full-anaphora.xml
 DALI-Corpora - Batch 2/twain_-_sketches_old_and_new_-_how_the_author_was_.dali-full-anaphora.xml
 DALI-Corpora - Batch 2/twain_-_sketches_old_and_new_-_information_wanted.dali-full-anaphora.xml
 DALI-Corpora - Batch 2/twain_-_sketches_old_and_new_-_my_watch.dali-full-anaphora.xml
