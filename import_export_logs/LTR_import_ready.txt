@@ -1,4 +1,3 @@
-DALI-Corpora - Batch 1/broken_window.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/can_you_climb_ladders?.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/conclusion_to_a_report_entitled:_choose_any_two_fa.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/conclusion_to_a_report_entitled:_discuss_any_two_o.dali-full-anaphora.xml
