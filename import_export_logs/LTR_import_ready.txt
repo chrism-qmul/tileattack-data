@@ -1,4 +1,3 @@
-DALI-Corpora - Batch 1/the_shepherd_and_the_tiger.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/the_waikato_river.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/tomatoes.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/tomatoes_for_free.dali-full-anaphora.xml
