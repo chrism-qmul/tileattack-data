@@ -37,3 +37,4 @@
 2023-07-03 10:10:08 -> Updated document: the_ethnic_football_festival.dali-full-anaphora.xml
 2023-07-03 10:10:24 -> Updated document: the_library.dali-full-anaphora.xml
 2023-07-03 10:10:32 -> Updated document: the_new_house.dali-full-anaphora.xml
+2023-07-03 10:10:40 -> Updated document: the_op_shop.dali-full-anaphora.xml
