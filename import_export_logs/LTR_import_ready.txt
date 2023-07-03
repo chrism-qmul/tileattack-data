@@ -1,4 +1,3 @@
-DALI-Corpora - Batch 1/tomatoes.dali-full-anaphora.xml
 DALI-Corpora - Batch 1/tomatoes_for_free.dali-full-anaphora.xml
 DALI-Corpora - Batch 2/female_genital_mutilation_and_the_efficacy_of_inte.dali-full-anaphora.xml
 DALI-Corpora - Batch 2/poe_-_works_of_edgar_allan_poe,_v.2_-_eleonora.dali-full-anaphora.xml
