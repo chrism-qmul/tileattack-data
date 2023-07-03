@@ -39,3 +39,4 @@
 2023-07-03 10:10:32 -> Updated document: the_new_house.dali-full-anaphora.xml
 2023-07-03 10:10:40 -> Updated document: the_op_shop.dali-full-anaphora.xml
 2023-07-03 10:10:47 -> Updated document: the_shepherd_and_the_tiger.dali-full-anaphora.xml
+2023-07-03 10:10:53 -> Updated document: the_waikato_river.dali-full-anaphora.xml
