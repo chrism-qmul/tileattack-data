@@ -5,3 +5,4 @@
 2023-07-03 10:04:56 -> Updated document: quiet,_please!.dali-full-anaphora.xml
 2023-07-03 10:05:05 -> Updated document: the_ethnic_football_festival.dali-full-anaphora.xml
 2023-07-03 10:05:54 -> Updated document: the_library.dali-full-anaphora.xml
+2023-07-03 10:06:21 -> Updated document: the_new_house.dali-full-anaphora.xml
