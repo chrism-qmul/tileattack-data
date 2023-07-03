@@ -46,3 +46,4 @@
 2023-07-03 10:11:42 -> New document: poe_-_works_of_edgar_allan_poe,_v.2_-_eleonora.dali-full-anaphora.xml
 2023-07-03 10:11:53 -> New document: twain_-_sketches_old_and_new_-_disgraceful_persecu.dali-full-anaphora.xml
 2023-07-03 10:12:01 -> New document: twain_-_sketches_old_and_new_-_how_the_author_was_.dali-full-anaphora.xml
+2023-07-03 10:12:08 -> New document: twain_-_sketches_old_and_new_-_information_wanted.dali-full-anaphora.xml
